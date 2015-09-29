@@ -1,0 +1,24 @@
+general:
+  title_cs: Obecné
+  title_en: General
+
+scrap:
+  title_cs: Zmetkovitost
+  title_en: Scraprate
+
+capability:
+  title_cs: Způsobilost
+  title_en: Capability
+
+orders:
+  title_cs: Ordo
+  title_en: Ordo
+  
+monitoring:
+  title_cs: Monitor
+  title_en: Monitor
+  
+kpi:
+  title_cs: Lucra
+  title_en: Lucra
+  

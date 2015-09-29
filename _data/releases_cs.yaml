@@ -1,0 +1,106 @@
+- version: 2.4.16
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Oprava chyby v ukládání nastavení zobrazovaného období do cookie.
+        - title: Přidaná možnost aplikovat regulární výraz na dynamické hodnoty metadat
+        - title: Přidané sledování rychlosti aplikace
+    - module: capability
+      changes: 
+        - title: Oprava chyby pro nastavení směn na celý den (0:00-0:00)
+    - module: orders
+      changes: 
+        - title: Vylepšení rychlosti zobrazení přehledů zakázek
+        - title: Vylepšené zobrazení velmi dlouhých časů v odpočtu času zakázky
+        - title: Přidaná možnost vzájemně filtrovat výběry z katalogů při zadávání zakázky
+        - title: Zakázky bez dat se při automatickém hodnocení hodnotí jako podmínečně OK
+    - module: monitoring
+      changes: 
+        - title: V nastavení se může omezit maximální délka zobrazovaného období
+        - title: Oddělení nastavení období od zbytku aplikace
+        - title: U cíle se zobrazuje jestli je automaticky spočítaný systémem, nebo ručně zadaný
+        - title: Vylepšení zobrazení legendy
+        - title: Filtr strojů se schovává společně s hlavním menu
+        - title: Stroje bez dat se v přehledu schovávají
+
+- version: 2.4.15
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Nový vzhled hlavního menu (ikony + přejmenování modulů)
+    - module: orders
+      changes: 
+        - title: Možnost přidat prioritu zakázky do průvodky
+        - title: Možnost vytvořit vlastní šablonu pro průvodky
+    - module: monitoring
+      changes: 
+        - title: Snížení spotřeby paměti (20-60% v závislosti na datech)
+
+- version: 2.4.14
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Doplněné všechny Q-DAS katalogy do administrace metadat zakázky
+
+- version: 2.4.13
+  moduleChanges:
+    - module: general
+      changes: 
+        - title: Opravy drobných chyb ve správě uživatelů
+    - module: capability
+      changes: 
+        - title: Granulárnější oprávnění - odděleno právo na prohlížení přehledu a analýzy
+
+- version: 2.4.12
+  moduleChanges:
+    - module: general
+      changes: 
+        - title: Scrolování a vyhledávání ve sloupcových grafech
+        - title: Kódování textu (utf-8) v emailu pro nastavení hesla
+    - module: orders
+      changes: 
+        - title: Hlavička panelu zakázky může obsahovat libovolný počet údajů (místo stávajících 6)
+    - module: monitoring
+      changes: 
+        - title: Vylepšený vzhled legendy
+        - title: Přidaná možnost vybrat indikátory zobrazované v přehledu
+        - title: U nastavení směn nezáleží na pořadí
+
+- version: 2.4.11
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Oprava kritické chyby v přehledu zakázek
+
+- version: 2.4.10
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Vylepšené logování
+
+- version: 2.4.9
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Vylepšení ikon pro mobilní zařízení
+        - title: Vylepšení vzhledu modálních oken
+        - title: Vylepšení logování chyb při autentifikaci
+    - module: orders
+      changes: 
+        - title: Přidaná funkce "Hodnocení dílu"
+        - title: Vylepšení výkonu přehledů zakázek
+
+- version: 2.4.8
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Větší hádky v přehledu zakázek pro dotyková zařízení
+
+- version: 2.4.7
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Přidaná slovenská lokalizace
+    - module: capability
+      changes: 
+        - title: Oprava chyb v nastavení dělení výrobních celků
