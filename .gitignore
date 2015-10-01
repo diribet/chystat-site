@@ -1,2 +1,8 @@
+# ignore eclipse files
+.project
+.classpath
+.settings
+.settings/*
+
 _site/
 .sass-cache/
