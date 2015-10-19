@@ -1,37 +1,128 @@
 ---
 ---
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>chy.stat - release notes</title>
-
-<!--    <link rel="stylesheet" href="css/styles.css"> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<head>
+<title>release notes | chy.stat | budoucnost začíná dnes ...</title>
+<meta name="Keywords" content="" lang="cs" xml:lang="cs"  />
+<meta name="description" content="" lang="cs" xml:lang="cs" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index,follow,snippet,archive" /> 
+<meta name="author" content="Up-net Multimedia 2012 - 2015 | info@upnet.cz | www.upnet.cz" />
+<meta name="copyright" content="" />
+<link rel="shortcut icon" href="favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" href="http://www.chystat.com/css/prettyPhoto.css" rel="stylesheet" />	
+<link type="text/css" href="http://www.chystat.com/css/layout.css" rel="stylesheet" />	
+<!--[if IE 7]>
+      <link type="text/css" href="css/ie7.css" rel="stylesheet" />	
     <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-		{% for release in site.data.releases_cs %}
-		  <p>
-			<h1>{{ release.version }}</h1>
-			
-			{% for moduleChanges in release.moduleChanges %}
-				{% assign moduleTitle = site.data.modules[moduleChanges.module] %}
-				<span class="{{ moduleChanges.module }}"></span> <h2>{{ moduleTitle.title_cs }}</h2>
-				<ul>
-					{% for change in moduleChanges.changes %}
-						<li>
-							{{ change.title | markdownify }}
-						</li>
-					{% endfor %}
-				</ul>
-			{% endfor %}
-		  </p>
+<script type="text/javascript" src="http://www.chystat.com/js/blank.js"></script>
+<script type="text/javascript" src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
+<script type="text/javascript" src="http://www.chystat.com/js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="http://www.chystat.com/js/jquery.easing.compatibility.js"></script>
+<script type="text/javascript" src="http://www.chystat.com/js/jquery.lavalamp.min.js"></script>
+<script type="text/javascript" src="http://www.chystat.com/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="http://www.chystat.com/js/flowplayer-3.2.8.min.js"></script>
+<script type="text/javascript" src="http://www.chystat.com/js/jquery.quickValidate.min.js"></script>
+
+<script type="text/javascript" src="js/conf.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32558633-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+<body>
+<div class="stranka">
+<div class="stred">
+<a href="http://www.chystat.com/" title="chy.stat | budoucnost začíná dnes ..." class="logo"><img src="http://www.chystat.com/images/logo.png" width="221" height="89" alt="chy.stat" /></a>
+<ul class="lang">
+    <li><span><strong>CZ</strong></span></li>
+    <li><a href="en" title="english">ENG</a></li>
+    <li><a href="de" title="deutsch">DE</a></li>
+    <li class="noborder"><a href="ru" title="русский">RU</a></li>
+</ul>
+<div class="navigace podstrana">
+    <ul class="menu" id="lava">
+        <li><a href="http://www.chystat.com/" title="SmartSTAT | budoucnost začíná dnes ...">Přehled</a></li>
+        <li class="separator">&nbsp;</li>
+        <li><a href="http://www.chystat.com/moduly" title="Moduly">Moduly</a></li>
+        <li class="separator">&nbsp;</li>
+        <li><a href="http://www.chystat.com/reference" title="Reference">Reference</a></li>
+        <li class="separator">&nbsp;</li>
+        <li><a href="http://www.chystat.com/ceny" title="Ceny">Ceny</a></li>
+        <li class="separator">&nbsp;</li>
+        <li><a href="http://www.chystat.com/kontakt" title="Kontakt">Kontakt</a></li>
+    </ul>
+    <a href="http://demo.chystat.com" title="Vyzkoušejte online demo" class="vyzkousejte" rel="external">Vyzkoušejte online demo</a>
+    <h2>Vážíme si Vaší návštěvy</h2>
+</div><!-- navigace -->
+<br class="clear" />
+<div class="dvetretiny"><h1>Release notes</h1></div><!-- dvetretiny -->
+<br class="clear" />
+
+
+<!-- zacatek obsahu urceneho k editaci -->
+<div class="wrapper">
+	{% for release in site.data.releases_cs %}
+		<h3>{{ release.version }}</h3>
+		
+		{% for moduleChanges in release.moduleChanges %}
+			{% assign moduleTitle = site.data.modules[moduleChanges.module] %}
+			<h4 class="{{ moduleChanges.module }}">{{ moduleTitle.title_cs }}</h4>
+			<ul>
+				{% for change in moduleChanges.changes %}
+					<li>
+						{{ change.title | markdownify }}
+					</li>
+				{% endfor %}
+			</ul>
 		{% endfor %}
-	</div>
-  </body>
+	{% endfor %}
+</div>
+<!-- konec obsahu urceneho k editaci -->
+
+
+
+</div><!-- stred -->
+</div><!-- stranka -->
+    <div class="zapati">
+        <div class="stred">
+            <div class="tretina">
+                <h4>Menu</h4>
+                <ul>
+                    <li><a href="http://www.chystat.com/" title="Přehled">Přehled</a></li>
+                    <li><a href="http://www.chystat.com/ceny" title="Ceny">Ceny</a></li>
+                    <li><a href="http://www.chystat.com/moduly" title="Moduly">Moduly</a></li>
+                    <li><a href="http://www.chystat.com/kontakt" title="Kontakt">Kontakt</a></li>
+                    <li><a href="http://www.chystat.com/reference" title="Reference">Reference</a></li>
+                    <li><a href="http://demo.chystat.com" title="Online demo">Online demo</a></li>
+                </ul>
+            </div><!-- tretina -->
+            <div class="sestina"><br></div><!-- sestina -->
+            <div class="pulka">
+                <h4>Adresa</h4>
+                <p>
+                <strong>Diribet spol. s r. o.</strong>
+                <br />
+                Vítězslava Hálka 1654
+                <br />
+                266 01 Beroun 2
+                </p>
+            </div><!-- pulka -->
+        </div><!-- stred -->
+        <div class="bila-linka">
+            <div class="stred">
+                <p>Copyright © 2012 Diribet spol. s r. o. Všechna práva vyhrazena.</p>
+                <strong>Vytvořilo studio <a href="http://www.upnet.cz" title="grafické studio - www.upnet.cz" rel="external">Upnet Multimedia</a></strong>
+            </div><!-- stred -->
+        </div><!-- bila-linka -->
+    </div><!-- zapati -->
+</body>
 </html>
