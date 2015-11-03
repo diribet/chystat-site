@@ -1,3 +1,52 @@
+- version: 2.4.23
+  moduleChanges: 
+    - module: capability
+      changes: 
+        - title: Oprava dotazu do hierarchie strojů pro MS SQL Server
+        - title: Optimalizace vyhledávání znaků
+        - title: Optimalizace rychlosti načítání stránky "Analýza"
+        - title: Oprava chyby při výpočtu výrobních celků pro stroje s namíchanými hodnotami bez určeného nástroje a s nástrojem
+    - module: monitoring
+      changes: 
+        - title: Oprava dotazu do hierarchie strojů pro MS SQL Server
+- version: 2.4.22
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Vylepšené vyhledávání ve sloupcových grafech
+- version: 2.4.21
+  moduleChanges: 
+    - module: scrap
+      changes: 
+        - title: Nově je možné vypnout zadávání procesních nebo výrobkových chyb
+- version: 2.4.20
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Více možností jak měnit vzhled šablony pro průvodky
+- version: 2.4.19
+  moduleChanges: 
+    - module: capability
+      changes: 
+        - title: 'Nový způsob dělení výrobních celků: změnou libovolného K00xx klíče (zakázky, šarže apod.)'
+        - title: Vylepšena administrace dělení výrobních celků
+- version: 2.4.18
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: V prohlížeči dokumentů je možné zobrazit dokument na celou obrazovku a stáhnout ho
+        - title: U regulárních výrazů je nyní možné určit index skupiny
+    - module: orders
+      changes: 
+        - title: Vylepšena podpora pro vlastní šablony průvodek
+- version: 2.4.17
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Opravy drobných chyb
+    - module: orders
+      changes: 
+        - title: Přidaná možnost smazat zakázku
 - version: 2.4.16
   moduleChanges: 
     - module: general
