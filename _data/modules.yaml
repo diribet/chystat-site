@@ -3,11 +3,11 @@ general:
   title_en: General
 
 scrap:
-  title_cs: Zmetkovitost
-  title_en: Scraprate
+  title_cs: Scrap
+  title_en: Scrap
 
 capability:
-  title_cs: Způsobilost
+  title_cs: Capability
   title_en: Capability
 
 orders:
