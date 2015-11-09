@@ -1,3 +1,34 @@
+- version: 2.4.27
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Lepší vzhled vysouvacího navigačního menu
+        - title: Vylepšení textového pole pro zadávání celých čísel (obzvláště užitečné pro dotyková zařízení)
+- version: 2.4.26
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Oprava neočekávané chyby která se za určitých okolností mohla objevit při změně záložek v okně detailu hádku nebo Cp/Cpk
+- version: 2.4.25
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Přidaná alternativní navigace mezi stránkami a moduly
+    - module: capability
+      changes: 
+        - title: Přidaná možnost zvolit počet zobrazovaných sloupců v grafu v přehledu způsobilosti 
+    - module: orders
+      changes: 
+        - title: Oprava vzájemného filtrování dílů při zadávání zakázky
+        - title: Při zadávání zakázky se pole "Laboratoř" nezobrazuje pokud má uživatel oprávnění pouze na jednu laboratoř
+- version: 2.4.24
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Doplněné chybějící překlady textů u stránkování tabulek
+    - module: capability
+      changes: 
+        - title: Obrázky v detailu znaku se nyní roztáhnou na celou dostupnou šířku
 - version: 2.4.23
   moduleChanges: 
     - module: capability
