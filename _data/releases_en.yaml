@@ -1,0 +1,186 @@
+- version: 2.4.27
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Better appearance of the sliding navigation menu
+        - title: Improvements of the text box for entering integers (useful mainly for touch screens)
+- version: 2.4.26
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Fixed the unexpected error that could appear by changing folders in the bar detail or Cp/Cpk under some circumstances
+- version: 2.4.25
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Added an alternative navigation between pages and modules
+    - module: capability
+      changes: 
+        - title: Added the option to choose the number of columns displayed in the chart in the capability overview
+    - module: orders
+      changes: 
+        - title: Fixed the mutual filtering of components by entering an order
+        - title: By entering an order, the field "Laboratory" is not displayed in case the user has an authorisation for one laboratory only
+- version: 2.4.24
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Added missing translation of the tables paging descriptions
+    - module: capability
+      changes: 
+        - title: Pictures in the character detail are now spread to full available width
+- version: 2.4.23
+  moduleChanges: 
+    - module: capability
+      changes: 
+        - title: Fixed query to the machines hierarchy for MS SQL Server
+        - title: Optimization of character search
+        - title: Optimization of the "Analysis" page loading speed
+        - title: Fixed the error in production units calculation for machines with mixed values without a specified tool and with the tool
+    - module: monitoring
+      changes: 
+        - title: Fixed query to the machines hierarchy for MS SQL Server
+- version: 2.4.22
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved search in the bar charts
+- version: 2.4.21
+  moduleChanges: 
+    - module: scrap
+      changes: 
+        - title: Now it is possible to disable the input of process or product errors
+- version: 2.4.20
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: More options how to change the appearance of the accompanying sheet notes template
+- version: 2.4.19
+  moduleChanges: 
+    - module: capability
+      changes: 
+        - title: 'A new way of production unit sorting: by changing any K00xx key (orders, batches etc.)'
+        - title: Improved administration of production unit sorting
+- version: 2.4.18
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: The document viewer can display a document full-screen and download it
+        - title: By regular expressions, it is now possible to specify the group index
+    - module: orders
+      changes: 
+        - title: Improved support for custom accompanying sheet templates
+- version: 2.4.17
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Minor bug fixes
+    - module: orders
+      changes: 
+        - title: Added the option to delete order
+- version: 2.4.16
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Fixed error in saving displayed period settings into cookies
+        - title: Added the option to apply a regular expression to dynamic metadata values
+        - title: Added monitoring of the application speed
+    - module: capability
+      changes: 
+        - title: Fixed the error with setting whole day shifts (0:00-0:00)
+    - module: orders
+      changes: 
+        - title: Improved speed of displaying the order overview
+        - title: Improved displaying of very long times in the order time countdown
+        - title: Added the option to mutually filter catalog selections by creating an order 
+        - title: Orders without data are by automated evaluation rated as conditionally OK
+    - module: monitoring
+      changes: 
+        - title: In settings, the maximum length of the displayed period can be limited
+        - title: Period settings are separated from the rest of the application
+        - title: By the target, now it is displayed whether it is automatically calculated by the system or manually entered
+        - title: Better legend displaying
+        - title: Filter of machines hides along with the main menu
+        - title: Machines without data are hidden in the overview
+
+- version: 2.4.15
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: New appearance of the main menu (icons + modules renamed)
+    - module: orders
+      changes: 
+        - title: Possibility to add order priority to the accompanying sheet
+        - title: Possibility to create a custom template for accompanying sheets
+    - module: monitoring
+      changes: 
+        - title: Reduced memory consumption (20 to 60% depending on data)
+
+- version: 2.4.14
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Added all Q-DAS catalogues to the administration of order metadata
+
+- version: 2.4.13
+  moduleChanges:
+    - module: general
+      changes: 
+        - title: Minor bug fixes in the user management
+    - module: capability
+      changes: 
+        - title: More granular permissions - separated rights for displaying the overview and the analysis
+
+- version: 2.4.12
+  moduleChanges:
+    - module: general
+      changes: 
+        - title: Scrolling and searching in the bar charts
+        - title: Text encoding (utf-8) in email password settings
+    - module: orders
+      changes: 
+        - title: Panel header of an order can contain any number of entries (instead of the current 6)
+    - module: monitoring
+      changes: 
+        - title: Improved legend appearance
+        - title: Added the option to choose displayed indicators in the overview
+        - title: In the shifts settings, the position is irrelevant
+
+- version: 2.4.11
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Fixed a critical error in the orders overview
+
+- version: 2.4.10
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved logging
+
+- version: 2.4.9
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved icons for mobile devices
+        - title: Improved modal windows appearance
+        - title: Improved authentication errors logging
+    - module: orders
+      changes: 
+        - title: Added function "evaluation of the part"
+        - title: Improved performance of the orders overview
+
+- version: 2.4.8
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Larger bars in the orders overview for touch screens
+
+- version: 2.4.7
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Added Slovak language
+    - module: capability
+      changes: 
+        - title: Fixed errors in production unit sorting options
