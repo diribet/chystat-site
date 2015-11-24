@@ -1,3 +1,39 @@
+version: 2.4.31
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Link to the home page added into the sliding navigation menu
+    - module: orders
+      changes: 
+        - title: Optimization of the order overview loading speed
+        - title: Fixed error that could occur under certain circumstances by administration of the order overview
+- version: 2.4.30
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Fixed error - if a user had rights just for one level of hierarchy, this level of hierarchy was not saved into the order
+- version: 2.4.29
+  moduleChanges: 
+    - module: capability
+      changes: 
+        - title: Sorting of production units by fixed periods
+    - module: scrap
+      changes: 
+        - title: Possibility to scrap automatically whole products for product errors
+        - title: In the folder "100% - Quality ratio", absolute money is displayed instead of relative money
+        - title: Displayed the currently selected type of navigation
+- version: 2.4.28
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved display of the hierarchical trees - if they are large, they are not completely expanded
+    - module: capability
+      changes: 
+        - title: By setting up the production unit sorting through changing the K-key, the value of this K-key is displayed in the capability overview
+    - module: scrap
+      changes: 
+        - title: Evaluation by orders supported
+        - title: Possibility to edit entered errors
 - version: 2.4.27
   moduleChanges: 
     - module: general
