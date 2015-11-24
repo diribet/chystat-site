@@ -1,3 +1,8 @@
+- version: 2.4.32
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Oprava chyby při zoomování sloupcových grafů
 - version: 2.4.31
   moduleChanges: 
     - module: general
