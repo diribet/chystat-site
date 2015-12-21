@@ -1,3 +1,62 @@
+- version: 2.4.37
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Oprava chyby v rozbalovacích nabídkách v horním menu - občas se nezobrazovaly celé
+    - module: capability
+      changes: 
+        - title: Oprava chyby v zobrazení tooltipu v přehledu způsobilosti
+- version: 2.4.36
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Přidaná tlačítka Rozbalit vše a Sbalit vše ke stromům s hierarchiemi
+    - module: monitoring
+      changes: 
+        - title: Podmínky značek se mohou definovat jako logické operace
+        - title: Schovávání strojů bez dat je konfigurovatelné
+        - title: Robustnější automatické obnovování dat monitoringu - dokáže se samo zotavit po výpadku
+        - title: Zobrazení hierarchie strojů v monitoringu
+        - title: Přidané ruční řazení a barvení hierarchie strojů
+    - module: capability
+      changes: 
+        - title: Oprava drobné chyby v průběhu hodnot
+        - title: Přidané číslo znaku do tabulky znaků
+        - title: Zobrazení hierarchie strojů v přehledu způsobilosti
+        - title: Přidané ruční řazení a barvení hierarchie strojů
+    - module: orders
+      changes: 
+        - title: Oprava drobných chyb v zadávání nové zakázky
+        - title: Pokud se zakázky číslují automaticky, tak se nezobrazuje číslo zakázky dokud se zakázka neuloží
+        - title: Přidaná možnost vytvořit kopii již existující zakázky
+        - title: Robustnější automatické obnovování přehledu zakázek - dokáže se samo zotavit po výpadku
+        - title: Přidané ruční řazení hierarchie
+- version: 2.4.35
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Přidaná možnost změnit texty (překlady) v aplikaci
+        - title: Přidaná tlačítka Rozbalit vše a Sbalit vše ke stromům s hierarchiemi
+- version: 2.4.34
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Lepší zobrazení dlouhých orotovaných popisků na osách grafů
+    - module: scrap
+      changes: 
+        - title: Vybraný typ navigace a zobrazení se zapamatovává v cookies
+- version: 2.4.33
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Lepší zobrazení oken detailu pokud neobsahují žádná data
+    - module: monitoring
+      changes: 
+        - title: Pomíchaná data různých dílů nezpůsobí zastavení monitoringu
+    - module: orders
+      changes: 
+        - title: Do detailu zakázky přidaná funkce pro rychlé zobrazení v přehledu
+        - title: Drobná vylepšení v masce zadání nové zakázky
 - version: 2.4.32
   moduleChanges: 
     - module: general
