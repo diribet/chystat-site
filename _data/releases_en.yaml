@@ -1,3 +1,62 @@
+- version: 2.4.37
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Fixed error in upper dropdown menus – sometimes they were incomplete
+    - module: capability
+      changes: 
+        - title: Fixed tooltip displaying error in the capability overview
+- version: 2.4.36
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Added buttons Expand all and Collapse all to the hierarchical trees
+    - module: monitoring
+      changes: 
+        - title: Marks conditions can be defined as logical operations
+        - title: Hiding of machines without data is now configurable
+        - title: Automatic data restoring in monitoring is more robust – it recovers after an outage by itself
+        - title: Hierarchy of machines displayed in monitoring
+        - title: Added manual sorting and colouring in the hierarchy of machines
+    - module: capability
+      changes: 
+        - title: Minor bug fix in the value chart
+        - title: Added number of characteristic into the characteristics overview
+        - title: Hierarchy of machines displayed in the capability overview
+        - title: Added manual sorting and colouring in the hierarchy of machines
+    - module: orders
+      changes: 
+        - title: Minor bug fix in entering a new order
+        - title: If the orders are numbered automatically, the number is not displayed until the order is saved
+        - title: Added option to make a copy of an existing order
+        - title: Automatic data restoring in monitoring is more robust – it recovers after an outage by itself
+        - title: Added manual sorting of hierarchy
+- version: 2.4.35
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Added option to change texts (translations) within the application
+        - title: Added buttons Expand all and Collapse all to the hierarchical trees
+- version: 2.4.34
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved appearance of rotated labels on the charts axis
+    - module: scrap
+      changes: 
+        - title: Selected type of navigation and display is saved in cookies
+- version: 2.4.33
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Better appearance of detail windows in case they do not contain any data
+    - module: monitoring
+      changes: 
+        - title: Mixed data from different parts now do not stop the monitoring
+    - module: orders
+      changes: 
+        - title: Function for a quick view added into the order detail
+        - title: Minor improvements in the new order entering screen
 - version: 2.4.32
   moduleChanges: 
     - module: general
@@ -74,13 +133,13 @@
   moduleChanges: 
     - module: capability
       changes: 
-        - title: Fixed query to the machines hierarchy for MS SQL Server
+        - title: Fixed query to the hierarchy of machines for MS SQL Server
         - title: Optimization of character search
         - title: Optimization of the "Analysis" page loading speed
         - title: Fixed the error in production units calculation for machines with mixed values without a specified tool and with the tool
     - module: monitoring
       changes: 
-        - title: Fixed query to the machines hierarchy for MS SQL Server
+        - title: Fixed query to the hierarchy of machines for MS SQL Server
 - version: 2.4.22
   moduleChanges: 
     - module: general
