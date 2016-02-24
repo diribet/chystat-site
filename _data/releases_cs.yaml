@@ -1,3 +1,68 @@
+- version: 2.4.46
+  moduleChanges: 
+    - module: scrap
+      changes: 
+        - title: Vylepšení výpočtu zmmetkovitosti - identifikace průchodu výrobku více linkami
+- version: 2.4.45
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Oprava generování URL pro změnu hesla
+    - module: orders
+      changes: 
+        - title: Oprava generování URL pro průvodky a filtr přehledu
+    - module: scrap
+      changes: 
+        - title: Do přehledu produkcí přidaný sloupec s počtem vyrobených kusů
+- version: 2.4.44
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Přidaná podpora pro QS-Stat knihovny verze 11
+- version: 2.4.43
+  moduleChanges: 
+    - module: kpi
+      changes: 
+        - title: Zobrazení hodnoty nad sloupcem v okně detailu
+    - module: monitoring
+      changes: 
+        - title: Oprava řazení strojů v rámci větve hierarchie
+    - module: capability
+      changes: 
+        - title: Oprava řazení strojů v rámci větve hierarchie
+- version: 2.4.42
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Opravy chyb v administraci hierarchií - větve stromu nešly přesouvat z a do rootu
+        - title: Vypnutá funkce automatického obnovení spojení po výpadku serveru - způsobuje nadměrné využití paměti prohlížeče
+- version: 2.4.41
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Vylepšení vzhledu levého menu
+    - module: monitoring
+      changes: 
+        - title: V přehledu se zobrazují i stroje, které nejsou zařazené do hierarchie 
+    - module: capability
+      changes: 
+        - title: V přehledu se zobrazují i stroje, které nejsou zařazené do hierarchie 
+- version: 2.4.40
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Opravy chyb v administraci hierarchií
+        - title: Uživatel může měnit svoje heslo
+- version: 2.4.39
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Vylepšené zjišťování typu souboru ve zdrojích dokumentů
+- version: 2.4.38
+  moduleChanges: 
+    - module: capability
+      changes: 
+        - title: Oprava chyby ve výpočtu výrobních celků po časových intervalech
 - version: 2.4.37
   moduleChanges: 
     - module: general
