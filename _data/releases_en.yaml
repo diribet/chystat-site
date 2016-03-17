@@ -1,3 +1,37 @@
+- version: 2.4.49
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved page control - open page can be recognized
+        - title: VImproved controlling chart for setting the bar chart range
+        - title: Keys K1000 and K2000 can now be written into the DFQ files
+    - module: scrap
+      changes: 
+        - title: Bar chart optimization for large amounts of values
+    - module: capability
+      changes: 
+        - title: Reworked way of choosing values for capability calculation and displaying in value charts
+    - module: kpi
+      changes: 
+        - title: Fixed target search and target ambiguity control
+        - title: Added possibility to end the target validity
+- version: 2.4.48
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: New module Fenestra
+    - module: monitoring
+      changes: 
+        - title: Improved performance after deleting cache
+- version: 2.4.47
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved sending of changes by the server (WebSockets support)
+        - title: Improved left navigation menu appearance
+    - module: orders
+      changes: 
+        - title: Order overview is not rendering when the detail window is open
 - version: 2.4.46
   moduleChanges: 
     - module: scrap
