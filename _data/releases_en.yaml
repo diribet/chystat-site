@@ -1,3 +1,68 @@
+- version: 2.4.46
+  moduleChanges: 
+    - module: scrap
+      changes: 
+        - title: Improved scrap calculation - identification of products when they pass more production lines
+- version: 2.4.45
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Fixed URL generation for password change
+    - module: orders
+      changes: 
+        - title: Fixed URL generation for accompanying sheet and overview filter
+    - module: scrap
+      changes: 
+        - title: Bar with the number of already produced parts added into the function overview
+- version: 2.4.44
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Added support for QS-stat version 11 libraries
+- version: 2.4.43
+  moduleChanges: 
+    - module: kpi
+      changes: 
+        - title: Value is displayed above the bar in the detail window
+    - module: monitoring
+      changes: 
+        - title: Fixed machine sorting within one branch of hierarchy
+    - module: capability
+      changes: 
+        - title: Fixed machine sorting within one branch of hierarchy
+- version: 2.4.42
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Fixed errors in hierarchy administration - tree branches can be moved from and into the root
+        - title: Function of automatic reconnection after server outage turned off - it caused excessive memory usage of the browser
+- version: 2.4.41
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved left menu appearance
+    - module: monitoring
+      changes: 
+        - title: In the overview, machines that are not put into hierarchy are now displayed as well 
+    - module: capability
+      changes: 
+        - title: In the overview, machines that are not put into hierarchy are now displayed as well 
+- version: 2.4.40
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Fixed errors in hierarchy administration
+        - title: Users can change their passwords
+- version: 2.4.39
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved file type detection in document sources
+- version: 2.4.38
+  moduleChanges: 
+    - module: capability
+      changes: 
+        - title: Fixed error in calculation of production units by time intervals
 - version: 2.4.37
   moduleChanges: 
     - module: general

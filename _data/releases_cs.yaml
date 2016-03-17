@@ -36,7 +36,7 @@
   moduleChanges: 
     - module: scrap
       changes: 
-        - title: Vylepšení výpočtu zmmetkovitosti - identifikace průchodu výrobku více linkami
+        - title: Vylepšení výpočtu zmetkovitosti - identifikace průchodu výrobku více linkami
 - version: 2.4.45
   moduleChanges: 
     - module: general
