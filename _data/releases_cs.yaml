@@ -1,3 +1,37 @@
+- version: 2.4.49
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Vylepšené ovládání stránkování - nyní je vidět na které stránce jsem
+        - title: Vylepšení ovládacího grafu pro nastavování rozsahu ve sloupcových grafech
+        - title: Do DFQ souborů se zapisují klíče K1000 a K2000
+    - module: scrap
+      changes: 
+        - title: Optimalizace sloupcových grafů pro velké množství hodnot
+    - module: capability
+      changes: 
+        - title: Předělaný způsob výběru hodnot pro výpočet způsobilosti a pro zobrazení v průbězích hodnot
+    - module: kpi
+      changes: 
+        - title: Oprava vyhledávání cílů a kontroly nejednoznačnosti cílů
+        - title: Přidaná možnost ukončit platnost cíle
+- version: 2.4.48
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Nový modul Fenestra
+    - module: monitoring
+      changes: 
+        - title: Vylepšené chování po vymazání dat z cache
+- version: 2.4.47
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Vylepšené posílání změn serverem (podpora WebSockets)
+        - title: Vylepšení vzhledu levého navigačního menu
+    - module: orders
+      changes: 
+        - title: Přehled zakázek se nepřekresluje když je otevřené okno detailu
 - version: 2.4.46
   moduleChanges: 
     - module: scrap
