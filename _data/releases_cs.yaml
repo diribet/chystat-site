@@ -1,3 +1,176 @@
+- version: 2.4.69
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Přidáno nastavení přepisování dat dílů a znaků v uploadu
+        - title: Oprava chyby s výběrem barvy u obecné komponenty
+    - module: capabilty
+      changes:
+        - title: Pro definici podmínek zvýraznění bodu v průběhu hosnot lze použít logické operace
+- version: 2.4.68
+  moduleChanges: 
+    - module: scrap
+      changes:
+        - title: V tooltipu navigačního koláče a sloupcových grafů se zobrazují i absolutní počty znaků
+    - module: dashboard
+      changes: 
+        - title: Ve widgetu pro zobrazení hodnoty způsobilosti je možné vybrat typ zobrazovaných hodnot
+        - title: Nový widget pro zobrazení aktuálního stavu způsobilosti
+- version: 2.4.67
+  moduleChanges: 
+    - module: monitoring
+      changes: 
+        - title: Oprava chyby ořezávání dat v případě delšího zobrazovaného období než 1 týden
+- version: 2.4.66
+  moduleChanges: 
+    - module: dashboard
+      changes: 
+        - title: Výběr oprávnění v nastavení dashboardu
+        - title: Filtr na významnost znaku ve widgetu pro zobrazení hodnoty způsobilosti
+- version: 2.4.65
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Implementace datového pole pro načítání metadat z čárových kódů
+    - module: dashboard
+      changes: 
+        - title: Nový widget pro zobrazení hodnoty způsobilosti
+        - title: Přidána možnost použít tučné písmo a nebo kurzívu ve widgetech
+- version: 2.4.64
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Implementace uploadu dat do Q-DAS schematu
+    - module: dashboard
+      changes: 
+        - title: Dashboard může mít na pozadí obrázek
+- version: 2.4.63
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Opravy drobných chyb
+- version: 2.4.62
+  moduleChanges: 
+   - module: general
+      changes: 
+        - title: Komponenta pro manipulaci s časovou osou umožňuje pohybovat pevným časovým oknem
+    - module: capabilty
+      changes:
+        - title: Flexibilní zobrazení dat na časové ose v přehledu způsobilosti podle zvoleného období
+    - module: monitoring
+      changes:
+        - title: Oprava chyby která při změně nastavení mohla způsobit nekonečné čekání na data v přehledu
+        - title: Vertikální skrolování strojů - aby byla na stránce vždy vidět časová osa
+        - title: Změna pozice legendy
+- version: 2.4.61
+  moduleChanges: 
+    - module: scrap
+      changes:
+        - title: Přidána možnost schovávat název linky ve sloupcovém grafu po pracovištích
+- version: 2.4.60
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Oprava chyby ve vyhledávání v úrovních struktur pokud měl uživatel právo jen na některou větev
+    - module: kpi
+      changes:
+        - title: Před zobrazením se čeká na načtení počátečních dat do paměti
+- version: 2.4.59
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Opravy drobných chyb
+- version: 2.4.58
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Oprava chyby při ukládání nové úrovně struktury s vyplněným kódem
+    - module: capability
+      changes: 
+        - title: V nastavení rozdělení výrobních celků změnou K-klíče lze používat jen K-klíče pro hodnoty
+        - title: Optimalizace rychlosti výpočtu výrobních celků úpravou algoritmu pro hledání nástrojů
+    - module: monitoring
+      changes:
+        - title: V kriteriích značky mohou být použity i K-klíče pro díly a znaky
+- version: 2.4.57
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Oprava chyby při rušení zařazení stroje do hierarchie
+        - title: Optimalizace výpočtu velikosti levého menu
+    - module: scrap
+      changes: 
+        - title: Při zobrazení hodnot se používá oddělovač tisíců
+    - module: orders
+      changes: 
+        - title: Ve where podmínce v záložce detailu se mohou používat tabulky TEIL a ALARM_VALUES
+        - title: Přehled vyhodnocených zakázek se neobnovuje pokud je otevřené okno detailu hádku
+- version: 2.4.56
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Opravy drobných chyb
+- version: 2.4.55
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Při načítání DFQ souborů jsou nevalidní data ignorována
+    - module: dashboard
+      changes: 
+        - title: Dashboardy lze jednoduše duplikovat
+        - title: Snížený limit pro minimální výšku řádku v dashboardu
+- version: 2.4.54
+  moduleChanges: 
+    - module: orders
+      changes:
+        - title: Optimalizace rychlosti načítání přehledu zakázek
+        - title: Opravena kontrola unikátnosti identifikátorů datových polí
+- version: 2.4.53
+  moduleChanges: 
+    - module: kpi
+      changes:
+        - title: Při načítání dat se bere v potaz K0002 a ukládají se jen hodnoty s K0002 = 0
+- version: 2.4.52
+  moduleChanges: 
+    - module: monitoring
+      changes:
+        - title: Opravena chyba se zobrazováním indikátoru činnosti při pravidelném překreslování dat
+    - module: kpi
+      changes:
+        - title: Optimalizace - při agregaci hodnot se nejprve filtruje a poté řadí
+- version: 2.4.51
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Lepší ikony pro zobrazované období
+    - module: kpi
+      changes:
+        - title: Jmenovatel pro rozpad se dohledává jen když se počítá dlouhodobý průměr
+        - title: Optimalizace vyhledávání dlouhodobých průměrů - při dávkovém vyhledávání se hledají průměry pro konkrétní období a indikátor
+        - title: Přidána možnost vypnout stárnutí hodnot při výpočtu dlouhodobých průměrů
+        - title: Opravena chyba se zvýrazněním vybraných sloupců
+    - module: dashboard
+      changes: 
+        - title: Widget s hodnotou indikátoru umožňuje přebrat barvu písma podle indikátoru
+        - title: Obsah textového widgetu lze rolovat pokud se nevejde
+        - title: Přidán widget zobrazující hodiny
+- version: 2.4.50
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Vylepšená komponenta pro výběr barev - ukládají se oblíbené barvy
+    - module: kpi
+      changes: 
+        - title: V paměti se drží data za 2 roky
+        - title: Implementace změny proti minulému období
+        - title: V detailu kompozitniho indikátoru se zobrazují záložky s dílčímy indikátory
+        - title: Kliknutim na indikátor v detailu kompozitního indikátoru se prokliknu na detail tohoto indikátoru
+    - module: dashboard
+      changes: 
+        - title: Nové widgety se přidávají na pozici tlačítka 'plus'
+        - title: Snížený limit pro minimální výšku řádku v dashboardu
+        - title: Horizontální centrování textových widgetů
+        - title: Podpora pro až 36 sloupců v dashboardu
 - version: 2.4.49
   moduleChanges: 
     - module: general
