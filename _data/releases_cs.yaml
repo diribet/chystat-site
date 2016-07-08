@@ -51,7 +51,7 @@
         - title: Opravy drobných chyb
 - version: 2.4.62
   moduleChanges: 
-   - module: general
+    - module: general
       changes: 
         - title: Komponenta pro manipulaci s časovou osou umožňuje pohybovat pevným časovým oknem
     - module: capabilty
