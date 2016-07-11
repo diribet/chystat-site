@@ -4,7 +4,7 @@
       changes:
         - title: Přidáno nastavení přepisování dat dílů a znaků v uploadu
         - title: Oprava chyby s výběrem barvy u obecné komponenty
-    - module: capabilty
+    - module: capability
       changes:
         - title: Pro definici podmínek zvýraznění bodu v průběhu hosnot lze použít logické operace
 - version: 2.4.68
@@ -54,7 +54,7 @@
     - module: general
       changes: 
         - title: Komponenta pro manipulaci s časovou osou umožňuje pohybovat pevným časovým oknem
-    - module: capabilty
+    - module: capability
       changes:
         - title: Flexibilní zobrazení dat na časové ose v přehledu způsobilosti podle zvoleného období
     - module: monitoring
