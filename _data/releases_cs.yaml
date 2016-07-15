@@ -1,3 +1,13 @@
+- version: 2.4.70
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Optimalizace rychlosti načítání přehledu zakázek
+        - title: Vylepšený vzhled textů v přehledu způsobilosti
+        - title: Vylepšení časové osy přehledu způsobilosti
+        - title: Opravena chyba ve vytváření výrobních celků stroje s více nástroji
+    - module: orders
+        - title: Nový způsob konfigurace přehledů zakázek
 - version: 2.4.69
   moduleChanges: 
     - module: general
