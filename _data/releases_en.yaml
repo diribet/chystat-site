@@ -1,3 +1,179 @@
+- 2.4.70
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Optimization of capability overview loading speed
+        - title: Improved appearance of texts in the capability overview
+        - title: Improved time axis in the capability overview
+        - title: Fixed error in creating production units by a machine with more tools
+- version: 2.4.69
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Added setting for part and characteristic data overwriting in the upload
+        - title: Fixed error with selection of a generic component colour
+    - module: capability
+      changes:
+        - title: It is possible to use logical operations for definition of a point highlighting conditions in the value chart.
+- version: 2.4.68
+  moduleChanges: 
+    - module: scrap
+      changes:
+        - title: In the tooltip of the navigation pie chart and the bar charts, absolute numbers of characters are displayed as well
+    - module: dashboard
+      changes: 
+        - title: In the widget for displaying capability value is possible to choose the type of the displayed value
+        - title: New widget for displaying the current capability value
+- version: 2.4.67
+  moduleChanges: 
+    - module: monitoring
+      changes: 
+        - title: Fixed error of data trimming in case of displayed period longer than 1 week
+- version: 2.4.66
+  moduleChanges: 
+    - module: dashboard
+      changes: 
+        - title: Selection of permissions in the dashboard settings
+        - title: Characteristic significance filter in the widget for displaying capability value
+- version: 2.4.65
+  moduleChanges: 
+    - module: orders
+      changes: 
+        - title: Implementation of data field for uploading metadata from barcodes
+    - module: dashboard
+      changes: 
+        - title: New widget for displaying capability value
+        - title: Added the option to use bold or italic font in the widgets
+- version: 2.4.64
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Implementation of data upload into the Q-DAS scheme
+    - module: dashboard
+      changes: 
+        - title: Dashboard can have a picture on the background
+- version: 2.4.63
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Minor bug fixes
+- version: 2.4.62
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Component for manipulation with the time axis allows to move a fixed time window
+    - module: capability
+      changes:
+        - title: Flexible projection of data on the time axis in the capability overview by the chosen period
+    - module: monitoring
+      changes:
+        - title: Fixed error causing endless waiting for data in the overview after settings change
+        - title: Vertical scrolling of machines – time axis is always visible on the page
+        - title: Legend position change
+- version: 2.4.61
+  moduleChanges: 
+    - module: scrap
+      changes:
+        - title: Added option to hide production line name in a bar chart by cost units
+- version: 2.4.60
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Fixed error in structure level search, in case user has rights for a certain branch only
+- version: 2.4.59
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Minor bug fixes
+- version: 2.4.58
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Fixed error with saving a new hierarchy level with pre-filled code
+    - module: capability
+      changes: 
+        - title: Optimization production unit calculation speed through adjustment of the tool search algorithm 
+    - module: monitoring
+      changes:
+        - title: In the mark criteria, also K-keys for parts and characteristics can be used
+- version: 2.4.57
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Fixed error by cancelling assigning of a machine to the hierarchy
+        - title: Left menu size calculation optimization
+    - module: scrap
+      changes: 
+        - title: Thousands separator is used when values are displayed
+    - module: orders
+      changes: 
+        - title: In the where condition in the detail tab, tables TEIL and ALARM_VALUES can be used
+        - title: Closed orders overview is not reloaded when the bar detail window is opened
+- version: 2.4.56
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Minor bug fixes
+- version: 2.4.55
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Invalid data are ignored by DFQ files upload
+    - module: dashboard
+      changes: 
+        - title: Dashboards can be easily duplicated
+        - title: Decreased limit for minimal row height in the dashboard
+- version: 2.4.54
+  moduleChanges: 
+    - module: orders
+      changes:
+        - title: Optimization of order overview loading speed
+        - title: Fixed data field identifier uniqueness check
+- version: 2.4.53
+  moduleChanges: 
+    - module: kpi
+      changes:
+        - title: When loading data, K0002 is taken into account and only values with K0002 = 0 are saved
+- version: 2.4.52
+  moduleChanges: 
+    - module: monitoring
+      changes:
+        - title: Fixed error with displaying the activity indicator during regular data redrawing
+    - module: kpi
+      changes:
+        - title: Optimization – values are first filtered and then ordered by aggregation 
+- version: 2.4.51
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved displayed period icons
+    - module: kpi
+      changes:
+        - title: Optimized long-term average search
+        - title: Added possibility of value aging in long-term average calculations
+        - title: Fixed error by highlighting chosen bars
+    - module: dashboard
+      changes: 
+        - title: Widget with the indicator value can take the script colour according to the indicator
+        - title: Content of a text widget can be rolled if it doesn’t fit
+        - title: Added a widget with clocks
+- version: 2.4.50
+  moduleChanges: 
+    - module: general
+      changes: 
+        - title: Improved component for colour selection – favourite colours will be saved
+    - module: kpi
+      changes: 
+        - title: Data for 2 years are stored in the memory
+        - title: Implementation of change from the previous period
+        - title: In the detail of the composite indicator, tabs with partial indicators are displayed
+        - title: By clicking on the indicator in the detail of the composite indicator, detail of that indicator will be shown
+    - module: dashboard
+      changes: 
+        - title: New widgets are added on the 'plus' button position
+        - title: Decreased limit for minimal row height in the dashboard
+        - title: Horizontal centering of text widgets
+        - title: Support for up to 36 columns in the dashboard
 - version: 2.4.49
   moduleChanges: 
     - module: general
