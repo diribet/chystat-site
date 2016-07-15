@@ -7,6 +7,7 @@
         - title: Vylepšení časové osy přehledu způsobilosti
         - title: Opravena chyba ve vytváření výrobních celků stroje s více nástroji
     - module: orders
+      changes:
         - title: Nový způsob konfigurace přehledů zakázek
 - version: 2.4.69
   moduleChanges: 
