@@ -6,7 +6,8 @@
         - title: Improved appearance of texts in the capability overview
         - title: Improved time axis in the capability overview
         - title: Fixed error in creating production units by a machine with more tools
-- module: orders
+    - module: orders
+      changes:
         - title: A new way of capability overview configuration
 - version: 2.4.69
   moduleChanges: 
