@@ -1,3 +1,14 @@
+- version: 2.4.71
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava řazení hierarchických znaků v DFQ souborech
+    - module: dashboard
+      changes:
+        - title: Kopírování widgetů v dashboardech
+    - module: monitoring
+      changes:
+        - title: Podpora pro více přehledů monitoringu
 - version: 2.4.70
   moduleChanges: 
     - module: capability
