@@ -1,3 +1,20 @@
+- version: 2.4.72
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Repaired compatibility with IE11
+        - title: Minor bug fixes
+- version: 2.4.71
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Repaired ordering of hierarchical characteristics in DFQ files
+    - module: dashboard
+      changes:
+        - title: Copying of widgets in dashboards
+    - module: monitoring
+      changes:
+        - title: Support for more monitoring overviews
 - version: 2.4.70
   moduleChanges: 
     - module: capability
@@ -82,12 +99,15 @@
   moduleChanges: 
     - module: general
       changes: 
-        - title: Fixed error in structure level search, in case user has rights for a certain branch only
+        - title: Fixed error in structure level search in case user has rights for a certain branch only
 - version: 2.4.59
   moduleChanges: 
     - module: general
       changes: 
         - title: Minor bug fixes
+    - module: kpi
+      changes:
+        - title: Rendering is delayed until initial data is loaded into the memory
 - version: 2.4.58
   moduleChanges: 
     - module: general
@@ -98,6 +118,7 @@
         - title: Optimization production unit calculation speed through adjustment of the tool search algorithm 
     - module: monitoring
       changes:
+        - title: If production units are set to be split by K-key change, only K-keys for values can be used
         - title: In the mark criteria, also K-keys for parts and characteristics can be used
 - version: 2.4.57
   moduleChanges: 
