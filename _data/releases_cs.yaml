@@ -1,3 +1,11 @@
+- version: 2.4.74
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: monitoring
+      changes:
+        - title: Barvení indikátoru "Aktuální hodnota znaku" podle tolerancí
 - version: 2.4.73
   moduleChanges: 
     - module: general
