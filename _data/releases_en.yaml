@@ -1,3 +1,11 @@
+- version: 2.4.74
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Indicator "Current value of characteristic" is coloured according to tolerances
 - version: 2.4.73
   moduleChanges: 
     - module: general
