@@ -1,3 +1,12 @@
+- version: 2.4.75
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Optimalizace rychlosti načítání hierarchie výroby a přehledu výrobních celků
+    - module: monitoring
+      changes:
+        - title: Opravena chyba kdy se zbytečně zobrazovala hierarchie strojů bez dat
+        - title: Optimalizace rychlosti načítání hierarchie výroby a přehledu
 - version: 2.4.74
   moduleChanges: 
     - module: general
