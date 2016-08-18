@@ -1,3 +1,12 @@
+- version: 2.4.75
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Loading speed optimization of the hierarchy of production and the production unit overview
+    - module: monitoring
+      changes:
+        - title: Fixed error - the hierarchy of machines was unnecessarily displayed without data
+        - title: Loading speed optimization of the hierarchy of production and the overview
 - version: 2.4.74
   moduleChanges: 
     - module: general
