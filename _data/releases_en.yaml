@@ -1,3 +1,13 @@
+- version: 2.4.76
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: New widget for pictures
+        - title: New widget for displaying the status of evaluation of the last order
+        - title: Information about server unavailability is displayed more strongly
 - version: 2.4.75
   moduleChanges: 
     - module: capability
