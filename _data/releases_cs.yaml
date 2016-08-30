@@ -1,3 +1,13 @@
+- version: 2.4.76
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: dashboard
+      changes:
+        - title: Nový widget pro zobrazení obrázku
+        - title: Nový widget pro zobrazení stavu vyhodnocení poslední zakázky
+        - title: Výraznější zobrazení informace o nedostupnosti serveru
 - version: 2.4.75
   moduleChanges: 
     - module: capability
