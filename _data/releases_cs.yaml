@@ -1,4 +1,4 @@
-- version: 2.4.78
+- version: 2.4.79
   moduleChanges: 
     - module: capability
       changes:
@@ -28,7 +28,7 @@
         - title: Řazení značek a indikátorů podle pořadí v nastavení přehledu
         - title: U značek v nastavení přehledu se zobrazují barvy
         - title: Optimalizace rychlosti vykreslení přehledu při velkém počtu strojů
-    - module: ordo
+    - module: orders
       changes:
         - title: Vylepšené možnosti zobrazení a filtrování podle implicitních polí zakázky (Hierarchie, Uživatel apod.)
 - version: 2.4.76
