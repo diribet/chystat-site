@@ -1,3 +1,15 @@
+- version: 2.4.78
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Oprava chyby v zobrazovaném počtu měřených hodnot
+    - module: dashboard
+      changes:
+        - title: Nové widgety pro modul Scrap
+    - module: monitoring
+      changes:
+        - title: Nové indikátory "Hodnoty K-klíčů" dílu a znaku
+        - title: V přehledu se projeví dodatečné úpravy hodnot a alarmů
 - version: 2.4.77
   moduleChanges: 
     - module: general
@@ -16,6 +28,9 @@
         - title: Řazení značek a indikátorů podle pořadí v nastavení přehledu
         - title: U značek v nastavení přehledu se zobrazují barvy
         - title: Optimalizace rychlosti vykreslení přehledu při velkém počtu strojů
+    - module: ordo
+      changes:
+        - title: Vylepšené možnosti zobrazení a filtrování podle implicitních polí zakázky (Hierarchie, Uživatel apod.)
 - version: 2.4.76
   moduleChanges: 
     - module: general
