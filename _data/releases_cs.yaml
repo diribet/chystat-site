@@ -1,3 +1,9 @@
+- version: 2.4.80
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava problému s tiskem v prohlížeči Chrome
+        - title: Oprava drobných chyb
 - version: 2.4.79
   moduleChanges: 
     - module: capability
