@@ -1,3 +1,47 @@
+- version: 2.4.81
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.4.80
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Fixed error with printing in the Chrome browser
+        - title: Minor bug fixes
+- version: 2.4.79
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Fixed error in the number of measured values
+    - module: dashboard
+      changes:
+        - title: New widgets for the Scrap module
+    - module: monitoring
+      changes:
+        - title: New identifiers “K-Keys values” of part and characteristics
+        - title: In the overview, additional changes of values and alarms are visible
+- version: 2.4.77
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: capability
+      changes:
+        - title: For the value chart marks, size of symbols can be defined 
+        - title: With bigger amount of machines, the rendering speed in the overview has been optimized
+    - module: dashboard
+      changes:
+        - title: New widget for displaying the top N parts/machines/tools from capability 
+    - module: monitoring
+      changes:
+        - title: Support for composite part identifiers
+        - title: Marks and indicators ordered in the overview settings
+        - title: Marks in the overview setting display the colours
+        - title: With bigger amount of machines, the rendering speed in the overview has been optimized
+    - module: orders
+      changes:
+        - title: Improved options of displaying and filtering according to implicit order field (Hierarchy, user, etc.)
 - version: 2.4.76
   moduleChanges: 
     - module: general
