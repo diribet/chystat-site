@@ -1,3 +1,40 @@
+- version: 2.4.84
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: monitoring
+      changes:
+        - title: Vylepšení kriterií pro značky - přidaná možnost definovat složené kritérium pro hodnoty kusu
+    - module: dashboard
+      changes:
+        - title: Nový widget "Soubor" pro zobrazení PDF apod.
+    - module: scrap
+      changes:
+        - title: Možnost definovat sloupce zobrazené v přehledu v zadávání zmetkovitosti
+        - title: Přidané sloupce s počtem závad do přehledu v zadávání zmetkovitosti
+    - module: kpi
+      changes:
+        - title: Podpora databáze MS SQL Server
+    - module: capability
+      changes:
+        - title: Podpora výpočtu způsobilosti pro hierarchické znaky
+- version: 2.4.83
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Ukládání hierarchie znaků v uploadu
+    - module: dashboard
+      changes:
+        - title: Nový widget "Odkaz na dashboard"
+    - module: scrap
+      changes:
+        - title: Možnost definovat strukturu mezi linkou a pracovištěm
+- version: 2.4.82
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb v uploadu
 - version: 2.4.81
   moduleChanges: 
     - module: general
