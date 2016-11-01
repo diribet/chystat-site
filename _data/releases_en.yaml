@@ -1,3 +1,40 @@
+- version: 2.4.84
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Improved marks criteria - added option to define composite criteria for part values
+    - module: dashboard
+      changes:
+        - title: New widget "File" - for PDF viewing etc.
+    - module: scrap
+      changes:
+        - title: Columns in the scrap input overview can be defined
+        - title: Columns with the number of failures added to the scrap input overview
+    - module: kpi
+      changes:
+        - title: MS SQL Server database supported
+    - module: capability
+      changes:
+        - title: Capability calculation for hierarchical characteristic supported
+- version: 2.4.83
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: In the upload, the hierarchy of characteristics is saved
+    - module: dashboard
+      changes:
+        - title: New widget "Link to the Dashboard"
+    - module: scrap
+      changes:
+        - title: It is possible to define a structure between a production line and a cost unit
+- version: 2.4.82
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes in the upload
 - version: 2.4.81
   moduleChanges: 
     - module: general
