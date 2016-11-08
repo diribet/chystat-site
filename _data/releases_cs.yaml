@@ -1,3 +1,24 @@
+- version: 2.4.86
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava chyb při práci ve více záložkách
+        - title: Drobné opravy chyb a vylepšení
+    - module: capability
+      changes:
+        - title: Optimalizace vykreslování přehledu způsobilosti pro dlouhá časová období
+    - module: monitor
+      changes:
+        - title: Vylepšené nastavení přehledu monitoringu
+- version: 2.4.85
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Drobné opravy chyb a vylepšení
+        - title: Optimalizace spotřeby paměti pro mnoho aktivních uživatelů
+    - module: scrap
+      changes:
+        - title: Dávkové akce v zadávání zmetkovitsti
 - version: 2.4.84
   moduleChanges: 
     - module: general
