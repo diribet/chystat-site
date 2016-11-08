@@ -7,7 +7,7 @@
     - module: capability
       changes:
         - title: Optimalizace vykreslování přehledu způsobilosti pro dlouhá časová období
-    - module: monitor
+    - module: monitoring
       changes:
         - title: Vylepšené nastavení přehledu monitoringu
 - version: 2.4.85
