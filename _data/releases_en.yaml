@@ -1,3 +1,29 @@
+- version: 2.4.87
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.4.86
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Fixed errors at multiple tabs use
+        - title: Minor bug fixes and improvements
+    - module: capability
+      changes:
+        - title: Capability overview rendering optimization for long time periods
+    - module: monitoring
+      changes:
+        - title: Improved monitoring overview options
+- version: 2.4.85
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes and improvements
+        - title: Memory consumption optimization for large amount of active users
+    - module: scrap
+      changes:
+        - title: Batch actions in the scrap input
 - version: 2.4.84
   moduleChanges: 
     - module: general
