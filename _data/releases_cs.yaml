@@ -1,3 +1,8 @@
+- version: 2.4.87
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
 - version: 2.4.86
   moduleChanges: 
     - module: general
