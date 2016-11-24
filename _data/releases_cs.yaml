@@ -1,3 +1,18 @@
+- version: 2.4.90
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.4.89
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Definice vlastních časových období pro použítí v ostatních modulech
+        - title: Oprava drobných chyb
+    - module: kpi
+      changes:
+        - title: Přenos dat z modulu Monitor
+        - title: Nastavitelné rozlišení časové osy
 - version: 2.4.88
   moduleChanges: 
     - module: general
