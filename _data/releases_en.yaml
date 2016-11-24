@@ -1,3 +1,18 @@
+- version: 2.4.90
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.4.89
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Definition of custom time periods that can be used in all modules 
+        - title: Minor bug fixes
+    - module: kpi
+      changes:
+        - title: Data transfer from the Monitor module
+        - title: Adjustable resolution of the time axis
 - version: 2.4.88
   moduleChanges: 
     - module: general
