@@ -1,3 +1,27 @@
+- version: 2.4.93
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: V grafu průběhu hodnot lze nastavit osu x jako ekvidistantní
+        - title: Kompaktnější vzhled menu v administraci
+        - title: Oprava drobných chyb
+    - module: capability
+      changes:
+        - title: Konfigurovatelné záložky detailu výrobního celku
+- version: 2.4.92
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: capability
+      changes:
+        - title: Popsané typy grafů v analýze způsobilosti
+- version: 2.4.91
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Optimalizace čtení dat z Q-DAS katalogů
+        - title: Oprava drobných chyb
 - version: 2.4.90
   moduleChanges: 
     - module: general
