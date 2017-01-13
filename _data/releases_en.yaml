@@ -1,3 +1,32 @@
+- version: 2.4.94
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: English is the default language for unsupported languages
+- version: 2.4.93
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: In a value chart, the x-axis can be set as equidistant
+        - title: Compact menu appearance in administration
+        - title: Minor bug fixes
+    - module: capability
+      changes:
+        - title: Production unit detail tabs are configurable
+- version: 2.4.92
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: capability
+      changes:
+        - title: Description of the capability analysis chart types
+- version: 2.4.91
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Data reading optimization for Q-DAS catalogues
+        - title: Minor bug fixes
 - version: 2.4.90
   moduleChanges: 
     - module: general
