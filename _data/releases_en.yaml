@@ -1,3 +1,8 @@
+- version: 2.4.100
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.4.99
   moduleChanges: 
     - module: general
