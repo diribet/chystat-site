@@ -55,7 +55,7 @@
     - module: general
       changes:
         - title: Aplikace ke svému běhu používá vlastní aplikační server (Undertow) místo externě instalovaného Tomcat
-		- title: Zjednodušení instalační procedury
+        - title: Zjednodušení instalační procedury
 - version: 2.4.101
   moduleChanges: 
     - module: general
