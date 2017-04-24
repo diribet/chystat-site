@@ -1,3 +1,69 @@
+- version: 2.5.9
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.5.8
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb a vylepšení vzhledu
+    - module: scrap
+      changes:
+        - title: Granulárnější oprávnění
+- version: 2.5.7
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.5.6
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava chyby způsobené přechodem na letní čas
+- version: 2.5.5
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.5.3
+  moduleChanges: 
+    - module: orders
+      changes:
+        - title: Možnost zobrazit počty hodnot v hádcích u zakázky
+        - title: Pro přehled zakázek se může určit, jestli se mají zobrazovat počty naměřených hodnot nebo počty kusů
+- version: 2.5.2
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Nově spočítané výrobní celky se automaticky zobrazí v přehledech
+- version: 2.5.1
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Aplikace ke svému běhu používá vlastní aplikační server (Undertow) místo externě instalovaného Tomcat
+    - module: kpi
+      changes:
+        - title: Možnost zobrazovat hodnoty indikátoru nebo desirability na heatmapě v přehledech
+        - title: Přehledy se automaticky aktualizují při změně nastavení
+        - title: Nová data se automaticky zobrazí v přehledech
+    - module: dashboard
+      changes:
+        - title: Nový widget "Hodnota indikátoru" z modulu Lucra
+- version: 2.5.0
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Aplikace ke svému běhu používá vlastní aplikační server (Undertow) místo externě instalovaného Tomcat
+		- title: Zjednodušení instalační procedury
+- version: 2.4.101
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb a vylepšení vzhledu
+    - module: dashboard
+      changes:
+        - title: Možnost zobrazovat počty chyb a výrobků ve widgetu "Zmetkovitost"
 - version: 2.4.100
   moduleChanges: 
     - module: general
