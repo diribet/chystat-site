@@ -56,6 +56,14 @@
       changes:
         - title: Application uses own application server (Undertow) instead of externally installed Tomcat
         - title: Simplified installation procedure
+- version: 2.4.101
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes and improved appearance
+    - module: dashboard
+      changes:
+        - title: Option to display number of errors and products in the "Scrap" widget
 - version: 2.4.100
   moduleChanges: 
     - module: general
