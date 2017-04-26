@@ -1,3 +1,61 @@
+- version: 2.5.9
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.5.8
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes and improved appearance
+    - module: scrap
+      changes:
+        - title: More granular permissions
+- version: 2.5.7
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.5.6
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Fixed error caused by the daylight saving time
+- version: 2.5.5
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.5.3
+  moduleChanges: 
+    - module: orders
+      changes:
+        - title: Option to display the number of values in the bars of an order
+        - title: For the order overview, you can specify whether the number of measured values or number of pieces should be displayed
+- version: 2.5.2
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Newly computed production units are automatically displayed in the overviews
+- version: 2.5.1
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Application uses own application server (Undertow) instead of externally installed Tomcat
+    - module: kpi
+      changes:
+        - title: Option to show indicator or desirability values on a heatmap in reports
+        - title: Overviews are updated automatically after changing settings
+        - title: New data will automatically appear in the overviews
+    - module: dashboard
+      changes:
+        - title: New widget "Indicator value" from the Lucra module
+- version: 2.5.0
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Application uses own application server (Undertow) instead of externally installed Tomcat
+        - title: Simplified installation procedure
 - version: 2.4.100
   moduleChanges: 
     - module: general
