@@ -136,7 +136,7 @@
   moduleChanges: 
     - module: general
       changes:
-      	- title: Pro záložku detailu lze definovat popis
+        - title: Pro záložku detailu lze definovat popis
         - title: Přidána podpora přesměrování HTTP protokolu na HTTPS
         - title: Oprava drobných chyb
     - module: monitoring
@@ -168,7 +168,7 @@
   moduleChanges: 
     - module: general
       changes:
-      	- title: Řazení popisků u ekvidistantní časové osy v grafu průběhu hodnot
+        - title: Řazení popisků u ekvidistantní časové osy v grafu průběhu hodnot
     - module: dashboard
       changes:
         - title: U obrázku pozadí dahboardu lze zachovat poměr stran
@@ -234,7 +234,7 @@
   moduleChanges: 
     - module: general
       changes:
-      	- title: Rozpad a seskupovaní dat podle K-klíčů v chy.stat grafikách
+        - title: Rozpad a seskupovaní dat podle K-klíčů v chy.stat grafikách
         - title: Oprava drobných chyb
     - module: capability
       changes:
