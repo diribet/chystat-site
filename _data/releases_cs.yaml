@@ -1,3 +1,248 @@
+- version: 2.6.30
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: capability
+      changes:
+        - title: Z výpočtu výrobních celků jsou vyřazeny neaktivní naky
+    - module: dashboard
+      changes:
+        - title: Vylepšené chování widgetu "Soubor (embed)" v IE 11
+        - title: Widget "Hodnota indikátoru" umožňuje zobrazení cíle indikátoru
+- version: 2.6.29
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: capability
+      changes:
+        - title: Z výpočtu výrobních celků jsou vyřazeny neaktivní nástroje
+- version: 2.6.28
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: kpi
+      changes:
+        - title: Přidáno filtrování dimenzí v přehledu
+- version: 2.6.27
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Veřejné API pro upload AQDEF souborů
+- version: 2.6.26
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.25
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: dashboard
+      changes:
+        - title: Nový widget "Top N chyb" z modulu Lucra
+- version: 2.6.24
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Vylepšený vzhled komponenty pro editaci lokalizovaných textů
+        - title: Oprava drobných chyb
+- version: 2.6.23
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: monitoring
+      changes:
+        - title: Indikátor pro zobrazení hodnoty k-klíče aktuálního dílu nebo měření
+    - module: kpi
+      changes:
+        - title: Přidáno filtrování v administraci cílů
+        - title: Možnost řazení indikátorů v rámci kompozitních indikátorů
+    - module: orders
+      changes:
+        - title: Komponenta s odpočtem času v přehledu zakázek je přesnější
+- version: 2.6.22
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Rozsáhlejší použití vlastních časových období
+    - module: capability
+      changes:
+        - title: Vykreslení celého zobrazovaného období na panelu s časovou osou
+    - module: dashboard
+      changes:
+        - title: Kliknutím na widget status poslední zakázky se lze dostat na detail dané zakázky
+- version: 2.6.21
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: monitoring
+      changes:
+        - title: Data monitoringu mohou být filtrována podmínkou
+- version: 2.6.20
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.19
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.18
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Seskupená data bez plausibilních hodnot nejsou v grafice box-plot vykreslována
+    - module: monitoring
+      changes:
+        - title: Přidána možnost dočasně vypnout vykreslování jednotlivých značek v přehledu
+- version: 2.6.17
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.16
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Validace groovy transformací v uploadech
+    - module: dashboard
+      changes:
+        - title: Widgety lze zvětšovat/zmenšovat po skupinách
+        - title: Konfigurovatelné okraje buněk v dashboardu
+- version: 2.6.15
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.14
+  moduleChanges: 
+    - module: capability
+      changes:
+        - title: Opravený výpočet výrobních celků pro případ kdy nejsou k dispozici žádná data
+- version: 2.6.13
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Drobná vylepšení box-plot grafiky
+        - title: Podpora AQDEF simple grouping
+- version: 2.6.12
+  moduleChanges: 
+    - module: general
+      changes:
+      	- title: Pro záložku detailu lze definovat popis
+        - title: Přidána podpora přesměrování HTTP protokolu na HTTPS
+        - title: Oprava drobných chyb
+    - module: monitoring
+      changes:
+        - title: Upravený layout v editaci přehledu
+        - title: Pro značky a indikátory lze definovat popis
+- version: 2.6.11
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: capability
+      changes:
+        - title: V rozpadech a seskupování dat v chy.stat grafikách lze použít K-klíč reprezentující výrobní celek
+    - module: dashboard
+      changes:
+        - title: Widgety lze přesouvat a duplikovat po skupinách
+- version: 2.6.10
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.9
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.8
+  moduleChanges: 
+    - module: general
+      changes:
+      	- title: Řazení popisků u ekvidistantní časové osy v grafu průběhu hodnot
+    - module: dashboard
+      changes:
+        - title: U obrázku pozadí dahboardu lze zachovat poměr stran
+- version: 2.6.7
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: dashboard
+      changes:
+        - title: Widgety lze mazat po skupinách
+- version: 2.6.6
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.5
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: dashboard
+      changes:
+        - title: Zobrazení uživatele který právě edituje zamčený dashboard
+- version: 2.6.4
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.3
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: dashboard
+      changes:
+        - title: Přidávání widgetů pomocí plovoucího tlačítka
+        - title: Přidána možnost dočasně schovat editační toolbar
+- version: 2.6.2
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: dashboard
+      changes:
+        - title: Dashboardy jsou při editaci zamčené a nelze je editovat jíným uživatelem
+- version: 2.6.1
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: U grafiky box-plot je možné zvolit defaultní stav normování a výpočet whiskers 
+        - title: Oprava drobných chyb
+    - module: dashboard
+      changes:
+        - title: Dashboardy jsou řazené podle názvu
+    - module: kpi
+      changes:
+        - title: Výpočet a agregace rozpadů pro předpočítané indikátory
+    - module: orders
+      changes:
+        - title: Export přehledu zakázek do XLSX souboru
+- version: 2.6.0
+  moduleChanges: 
+    - module: general
+      changes:
+      	- title: Rozpad a seskupovaní dat podle K-klíčů v chy.stat grafikách
+        - title: Oprava drobných chyb
+    - module: capability
+      changes:
+        - title: Rychlejší výpočet výrobních celků
+        - title: Přidána možnost stažení DFQ souboru celého výrobního celku
+    - module: orders
+      changes:
+        - title: Vlastní nezávislé nastavení zobrazovaného období
 - version: 2.5.9
   moduleChanges: 
     - module: general
