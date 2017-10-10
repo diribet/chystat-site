@@ -39,9 +39,6 @@
         - title: Newly computed production units are automatically displayed in the overviews
 - version: 2.5.1
   moduleChanges: 
-    - module: general
-      changes:
-        - title: Application uses own application server (Undertow) instead of externally installed Tomcat
     - module: kpi
       changes:
         - title: Option to show indicator or desirability values on a heatmap in reports

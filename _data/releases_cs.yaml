@@ -39,9 +39,6 @@
         - title: Nově spočítané výrobní celky se automaticky zobrazí v přehledech
 - version: 2.5.1
   moduleChanges: 
-    - module: general
-      changes:
-        - title: Aplikace ke svému běhu používá vlastní aplikační server (Undertow) místo externě instalovaného Tomcat
     - module: kpi
       changes:
         - title: Možnost zobrazovat hodnoty indikátoru nebo desirability na heatmapě v přehledech
