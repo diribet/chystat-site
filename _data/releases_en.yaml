@@ -1,3 +1,16 @@
+- version: 2.6.32
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Grouping and comparing according to the catalogue fields
+        - title: Key fields are defined globally for a database
+        - title: Optimization of data storage speed in the Upload
+    - module: dashboard
+      changes:
+        - title: Dashboard overview filtering
+        - title: A new widget - the ‘Back’ button
+        - title: The widget "Link to dashboard" has configurable text
+        - title: Minor bug fixes
 - version: 2.6.30
   moduleChanges: 
     - module: general
