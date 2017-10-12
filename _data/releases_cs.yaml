@@ -5,7 +5,7 @@
         - title: Oprava drobných chyb
     - module: capability
       changes:
-        - title: Z výpočtu výrobních celků jsou vyřazeny neaktivní naky
+        - title: Z výpočtu výrobních celků jsou vyřazeny neaktivní znaky
     - module: dashboard
       changes:
         - title: Vylepšené chování widgetu "Soubor (embed)" v IE 11
@@ -57,7 +57,7 @@
         - title: Oprava drobných chyb
     - module: monitoring
       changes:
-        - title: Indikátor pro zobrazení hodnoty k-klíče aktuálního dílu nebo měření
+        - title: Indikátor pro zobrazení hodnoty K-klíče aktuálního dílu nebo měření
     - module: kpi
       changes:
         - title: Přidáno filtrování v administraci cílů
@@ -75,7 +75,7 @@
         - title: Vykreslení celého zobrazovaného období na panelu s časovou osou
     - module: dashboard
       changes:
-        - title: Kliknutím na widget status poslední zakázky se lze dostat na detail dané zakázky
+        - title: Kliknutím na widget "Status poslední zakázky" se lze dostat na detail dané zakázky
 - version: 2.6.21
   moduleChanges: 
     - module: general
@@ -171,7 +171,7 @@
         - title: Řazení popisků u ekvidistantní časové osy v grafu průběhu hodnot
     - module: dashboard
       changes:
-        - title: U obrázku pozadí dahboardu lze zachovat poměr stran
+        - title: U obrázku pozadí dashboardu lze zachovat poměr stran
 - version: 2.6.7
   moduleChanges: 
     - module: general
@@ -192,7 +192,7 @@
         - title: Oprava drobných chyb
     - module: dashboard
       changes:
-        - title: Zobrazení uživatele který právě edituje zamčený dashboard
+        - title: Zobrazení uživatele, který právě edituje zamčený dashboard
 - version: 2.6.4
   moduleChanges: 
     - module: general
@@ -214,7 +214,7 @@
         - title: Oprava drobných chyb
     - module: dashboard
       changes:
-        - title: Dashboardy jsou při editaci zamčené a nelze je editovat jíným uživatelem
+        - title: Dashboardy jsou při editaci zamčené a nelze je editovat jiným uživatelem
 - version: 2.6.1
   moduleChanges: 
     - module: general
