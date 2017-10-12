@@ -1,16 +1,3 @@
-- version: 2.6.32
-  moduleChanges: 
-    - module: general
-      changes:
-        - title: Seskupování a porovnávání pomocí polí z katalogů
-        - title: Klíčová pole se definují globálně pro databázi
-        - title: Optimalizace rychlosti ukládání dat v Uploadu
-    - module: dashboard
-      changes:
-        - title: Filtrování seznamu dashboardů
-        - title: Nový widget - tlačítko "Zpět"
-        - title: Widget "Odkaz na dashboard" má konfigurovatelný text
-        - title: Oprava drobných chyb
 - version: 2.6.30
   moduleChanges: 
     - module: general
