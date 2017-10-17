@@ -1,3 +1,9 @@
+- version: 2.6.33
+  moduleChanges: 
+    - module: dashboard
+      changes:
+        - title: Nový widget - hodnota buňky z Excel souboru
+        - title: Oprava drobných chyb
 - version: 2.6.32
   moduleChanges: 
     - module: general
