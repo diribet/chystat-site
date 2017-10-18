@@ -1,3 +1,9 @@
+- version: 2.6.33
+  moduleChanges: 
+    - module: dashboard
+      changes:
+        - title: New widget - value of a cell from Excel file
+        - title: Minor bug fixes
 - version: 2.6.32
   moduleChanges: 
     - module: general
