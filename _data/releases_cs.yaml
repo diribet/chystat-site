@@ -1,3 +1,22 @@
+- version: 2.6.36
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Podpora K-klíčů K18xx a K28xx (uživatelsky definovaná pole)
+    - module: orders
+      changes:
+        - title: Uživatelé bez práva na editaci zakázky mohou zobrazit detail zakázky pro čtení
+        - title: Optimalizace rychlosti načítání zakázek
+- version: 2.6.35
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Optimalizace nahrávání velkých DFQ souborů
+- version: 2.6.34
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
 - version: 2.6.33
   moduleChanges: 
     - module: dashboard
