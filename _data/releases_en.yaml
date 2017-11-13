@@ -1,3 +1,22 @@
+- version: 2.6.36
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Support for K18xx and K28xx K-Keys (user-defined fields)
+    - module: orders
+      changes:
+        - title: Users without editing rights can see the detail of an order in the reading mode
+        - title: Optimized loading speed of orders
+- version: 2.6.35
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Optimized uploading of large DFQ files
+- version: 2.6.34
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.6.33
   moduleChanges: 
     - module: dashboard
