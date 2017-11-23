@@ -1,3 +1,12 @@
+- version: 2.6.37
+  moduleChanges: 
+    - module: scrap
+      changes:
+        - title: Migrace na vlastní číselníky
+    - module: capability
+      changes:
+        - title: Snížení nároků na procesor v přehledu s časovou osou
+        - title: Oprava drobných chyb
 - version: 2.6.36
   moduleChanges: 
     - module: general
