@@ -1,3 +1,16 @@
+- version: 2.6.39
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.6.38
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Removed single-column layout on small screens
 - version: 2.6.37
   moduleChanges: 
     - module: scrap
