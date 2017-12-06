@@ -1,3 +1,16 @@
+- version: 2.6.39
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.38
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: dashboard
+      changes:
+        - title: Odstraněné jednosloupečkové zobrazení na malých obrazovkách
 - version: 2.6.37
   moduleChanges: 
     - module: scrap
