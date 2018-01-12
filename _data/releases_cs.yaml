@@ -1,3 +1,41 @@
+- version: 2.6.45
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.44
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.43
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Nová grafika - Report
+    - module: monitoring
+      changes:
+        - title: Možnost kopírovat definice značek a indikátorů v administraci
+- version: 2.6.42
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Vylepšená práce s alarmy. Podpora více typů alarmů pro jednu hodnotu.
+    - module: monitoring
+      changes:
+        - title: Optimalizace vykreslení přehledu. Zejména při velkém počtu strojů bez dat.
+    - module: dashboard
+      changes:
+        - title: Nový widget - grafika posledního kusu stroje
+- version: 2.6.41
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: orders
+      changes:
+        - title: Nová zadávací maska optimalizovaná pro dotyková zařízení - wizard.
+        - title: Překreslení přehledu při změně metadat zakázky.
 - version: 2.6.40
   moduleChanges: 
     - module: general
