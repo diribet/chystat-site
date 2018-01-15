@@ -1,3 +1,41 @@
+- version: 2.6.45
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.6.44
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.6.43
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: New graphics - "Report"
+    - module: monitoring
+      changes:
+        - title: In the administration, definitions of marks and indicators can be copied
+- version: 2.6.42
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Improved alarms - supported multiple types of alarms for one value
+    - module: monitoring
+      changes:
+        - title: Optimized rendering of overview with a large number of machines without data
+    - module: dashboard
+      changes:
+        - title: New widget - the last piece from a machine
+- version: 2.6.41
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: New input mask optimized for touch screens - a “wizard”
+        - title: Overview is reloaded after a change of order metadata
 - version: 2.6.40
   moduleChanges: 
     - module: general
