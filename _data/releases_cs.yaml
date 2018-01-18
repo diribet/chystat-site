@@ -1,3 +1,8 @@
+- version: 2.6.46
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
 - version: 2.6.45
   moduleChanges: 
     - module: general
