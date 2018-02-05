@@ -2,7 +2,7 @@
   moduleChanges: 
     - module: general
       changes:
-      	- title: V grafu průběhu hodnot lze konfigurovat formát datumu
+        - title: V grafu průběhu hodnot lze konfigurovat formát datumu
         - title: Oprava drobných chyb
     - module: orders
       changes:
