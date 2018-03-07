@@ -1,3 +1,17 @@
+- version: 2.6.49
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Nové písmo pro lepší čitelnost
+        - title: Vylepšená Groovy transformace v uploadu - lze vyhledávat díly, znaky a záznamy z katalogů
+    - module: orders
+      changes:
+        - title: Přehled zavřených zakázek se řadí podle datumu zavření
+        - title: Přehled vyhodnocených zakázek se řadí podle datumu vyhodnocení
+        - title: V uploadu lze číst a zapisovat metadata zakázky
+    - module: dashboard
+      changes:
+        - title: Při filtrování se nerozlišují velká a malá písmena
 - version: 2.6.48
   moduleChanges: 
     - module: general
