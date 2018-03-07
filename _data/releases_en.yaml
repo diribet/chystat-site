@@ -1,3 +1,17 @@
+- version: 2.6.49
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: New font for better reading
+        - title: Improved Groovy transformation in the upload - searching by parts, characteristics, and catalog entries
+    - module: orders
+      changes:
+        - title: Closed orders in the overview are listed according to the closing date
+        - title: Evaluated orders in the overview are listed according to the evaluation date
+        - title: Order metadata can be read and written in the upload
+    - module: dashboard
+      changes:
+        - title: Filtering is case-insensitive
 - version: 2.6.48
   moduleChanges: 
     - module: general
