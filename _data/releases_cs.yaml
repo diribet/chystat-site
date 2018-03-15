@@ -1,3 +1,16 @@
+- version: 2.6.50
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Drobná vylepšení grafiky "Report"
+        - title: Vylepšené chování funkce "Seskupování a porovnávání"
+        - title: Lepší způsob vytváření prvního administrátorského účtu
+    - module: monitoring
+      changes:
+        - title: Možnost neomezovat indikátor "Produktivita" hranicí 100%
+    - module: scrap
+      changes:
+        - title: Oprava drobných chyb
 - version: 2.6.49
   moduleChanges: 
     - module: general
