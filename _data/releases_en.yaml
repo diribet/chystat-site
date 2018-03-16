@@ -1,3 +1,16 @@
+- version: 2.6.50
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor improvements of the "Report" graphics
+        - title: Improved behavior of the "Grouping and Comparing" feature
+        - title: Improved creation of the first admin account
+    - module: monitoring
+      changes:
+        - title: The "Productivity" indicator is not limited by the value 100%
+    - module: scrap
+      changes:
+        - title: Minor bug fixes
 - version: 2.6.49
   moduleChanges: 
     - module: general
