@@ -1,3 +1,9 @@
+- version: 2.6.52
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Improved formatting of K-key values
+        - title: Minor fixes and improvements
 - version: 2.6.51
   moduleChanges: 
     - module: general
