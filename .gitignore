@@ -4,5 +4,9 @@
 .settings
 .settings/*
 
+# ignore idea files
+**/.idea
+**/*.iml
+
 _site/
 .sass-cache/
