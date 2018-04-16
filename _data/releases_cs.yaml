@@ -1,3 +1,11 @@
+- version: 2.6.53
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: orders
+      changes:
+        - title: Vylepšený filtr přehledu zakázek
 - version: 2.6.52
   moduleChanges: 
     - module: general
