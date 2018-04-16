@@ -1,3 +1,11 @@
+- version: 2.6.53
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Improved filter in order overview
 - version: 2.6.52
   moduleChanges: 
     - module: general
