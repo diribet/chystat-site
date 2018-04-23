@@ -1,3 +1,14 @@
+- version: 2.6.54
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: U všech chy.stat grafik přidaná možnost stáhnout data ve formátu AQDEF
+        - title: Možnost duplikovat znaky v transformacích v uploadu
+        - title: V grafu polohy hodnoty se používá nominál jako střed pokud je zadaný
+    - module: orders
+      changes:
+        - title: Vylepšené rozložení panelu zakázky v přehledech
+        - title: Oprava chyby po vyhodnocení zakázky ve stránkovaném přehledu zakázek
 - version: 2.6.53
   moduleChanges: 
     - module: general
