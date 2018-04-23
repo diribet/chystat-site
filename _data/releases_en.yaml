@@ -1,3 +1,14 @@
+- version: 2.6.54
+  moduleChanges: 
+    - module: general
+      changes:
+        - title: All chy.stat graphics have the option to download data in AQDEF format
+        - title: Characteristics can be duplicated in upload transformations
+        - title: In the value position graph, the nominal value is used as the center, if it is defined
+    - module: orders
+      changes:
+        - title: Improved layout of order overview
+        - title: Fixed error with order evaluation in paged order overview
 - version: 2.6.53
   moduleChanges: 
     - module: general
