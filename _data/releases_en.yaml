@@ -1,3 +1,17 @@
++- version: 2.6.56
+  moduleChanges:
+    - module: general
+      changes:
+        - title: French localization added
+        - title: The AQDEF file upload API supports DFD/DFX files in non-incremental mode
+- version: 2.6.55
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Improved layout of order overview menu for smaller screens
 - version: 2.6.54
   moduleChanges: 
     - module: general
