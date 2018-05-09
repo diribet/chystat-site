@@ -1,3 +1,17 @@
+- version: 2.6.56
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Přidána francouzská lokalizace
+        - title: API pro upload AQDEF souborů podporuje DFD/DFX soubory v neinkrementálním módu
+- version: 2.6.55
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: orders
+      changes:
+        - title: Vylepšený layout menu v přehledech zakázek pro menší obrazovky
 - version: 2.6.54
   moduleChanges: 
     - module: general
