@@ -1,3 +1,50 @@
+- version: 2.6.66
+  moduleChanges:
+    - module: kpi
+      changes:
+        - title: Minor bug fixes
+- version: 2.6.65
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Italian localization added
+        - title: Buttons in the administration are always visible
+    - module: monitor
+      changes:
+        - title: Warning on missing part identifier index
+    - module: kpi
+      changes:
+        - title: Improved query on long-term value averages
+- version: 2.6.64
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved "Part Protokol" graphics (localized texts, header size, etc.)
+        - title: Upload API - request throttling in case of errors
+        - title: Groovy transformation error fixed - changing of the order metadata
+    - module: orders
+      changes:
+        - title: Improved wizard for creating orders
+- version: 2.6.63
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.6.62
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: "Analysis" page deleted
+        - title: Faster loading of orders
+        - title: Improved wizard for creating orders
+- version: 2.6.61
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Improved wizard for creating orders
 - version: 2.6.60
   moduleChanges:
     - module: general
