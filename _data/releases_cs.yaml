@@ -1,3 +1,50 @@
+- version: 2.6.66
+  moduleChanges:
+    - module: kpi
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.65
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Přidaná Italština
+        - title: Tlačítka v administraci jsou vždy viditelná
+    - module: monitor
+      changes:
+        - title: Varování při chybějícím indexu na identifikátoru kusu
+    - module: kpi
+      changes:
+        - title: Vylepšení dotazu na dlouhodobé průměry hodnot
+- version: 2.6.64
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vylepšení grafiky "Protokol o dílu" (lokalizované texty, velikost hlavičky, apod.)
+        - title: Upload API - request throttling v případě chyb
+        - title: Oprava chyby v Groovy transformacích - nefungovala změna metadat zakázky
+    - module: orders
+      changes:
+        - title: Vylepšené zadávání zakázek průvodcem
+- version: 2.6.63
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.62
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Odstraněna stránka "Analýza"
+        - title: Rychlejší načítání zakázek
+        - title: Vylepšené zadávání zakázek průvodcem
+- version: 2.6.61
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+    - module: orders
+      changes:
+        - title: Vylepšené zadávání zakázek průvodcem
 - version: 2.6.60
   moduleChanges:
     - module: general
