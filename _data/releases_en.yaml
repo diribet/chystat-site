@@ -34,7 +34,7 @@
   moduleChanges:
     - module: orders
       changes:
-        - title: "Analysis" page deleted
+        - title: Disposal of "Analysis" page
         - title: Faster loading of orders
         - title: Improved wizard for creating orders
 - version: 2.6.61
