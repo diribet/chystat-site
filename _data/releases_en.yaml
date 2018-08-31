@@ -1,3 +1,33 @@
+- version: 2.6.69
+  moduleChanges:
+    - module: monitoring
+      changes:
+        - title: Improvement of indicators "Current characteristics value" and "Current value / characteristics / part K-key values"
+    - module: capability
+      changes:
+        - title: Better highlighting of selected production units
+- version: 2.6.68
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Part protocol - minor fixes and improvements
+        - title: Values in upload are rounded according to K2022 before alarm identification
+    - module: orders
+      changes:
+        - title: Filter of orders fixed
+- version: 2.6.67
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved editor of transformations
+        - title: Part protocol - a DFQ file with data can be downloaded
+        - title: Part protocol - minor fixes and improvements
+    - module: orders
+      changes:
+        - title: Deleting of metadata fields fixed
+    - module: monitoring
+      changes:
+        - title: Page with a progress bar while monitoring data being loaded
 - version: 2.6.66
   moduleChanges:
     - module: kpi
