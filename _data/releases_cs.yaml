@@ -1,3 +1,33 @@
+- version: 2.6.69
+  moduleChanges:
+    - module: monitoring
+      changes:
+        - title: Vylepšení indikátorů "Aktuální hodnota znaku" a "Hodnoty K-klíčů aktuální hodnoty / znaku / dílu"
+    - module: capability
+      changes:
+        - title: Lepší zvýraznění vybraných výrobních celků
+- version: 2.6.68
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Protokol o dílu - drobné opravy a vylepšení
+        - title: Zaokrouhlení hodnoty podle K2022 před identifikací alarmů v uploadu
+    - module: orders
+      changes:
+        - title: Oprava filtru zakázek
+- version: 2.6.67
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vylepšený editor transformací
+        - title: Protokol o dílu - možnost stáhnout DFQ s daty
+        - title: Protokol o dílu - drobné opravy a vylepšení
+    - module: orders
+      changes:
+        - title: Oprava mazání polí metadat
+    - module: monitoring
+      changes:
+        - title: Zobrazení stránky s průběhem v případě, že se načítají data monitoringu
 - version: 2.6.66
   moduleChanges:
     - module: kpi
