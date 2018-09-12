@@ -1,9 +1,9 @@
 - version: 2.6.70
   moduleChanges:
     - module: general
-    changes:
-      - title: Vylepšená grafika "Průběh hodnot"
-      - title: Drobná vylepšení v administraci
+      changes:
+        - title: Vylepšená grafika "Průběh hodnot"
+        - title: Drobná vylepšení v administraci
     - module: dashboard
       changes:
         - title: Zobrazení typu widgetu při editaci
