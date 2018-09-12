@@ -1,3 +1,12 @@
+- version: 2.6.70
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved graphics "Value chart"
+        - title: Minor improvements in administration
+    - module: dashboard
+      changes:
+        - title: Widget type is displayed during editing
 - version: 2.6.69
   moduleChanges:
     - module: monitoring
