@@ -1,3 +1,18 @@
+- version: 2.6.72
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Drobná vylepšení v grafice "Průběh hodnot"
+    - module: dashboard
+      changes:
+        - title: Přidán widget pro odkaz na URL
+- version: 2.6.71
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Drobná vylepšení v grafice "Průběh hodnot"
+        - title: Opravené UI v případě velmi širokého zákaznického loga
+        - title: Přidána možnost deaktivovat transformace v uploadu
 - version: 2.6.70
   moduleChanges:
     - module: general
