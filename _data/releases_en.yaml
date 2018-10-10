@@ -1,3 +1,18 @@
+- version: 2.6.72
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements in the "Value Chart" graphics
+    - module: dashboard
+      changes:
+        - title: New widget for URL link
+- version: 2.6.71
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements in the "Value Chart" graphics
+        - title: Fixed UI for a very wide customer logo
+        - title: Optional deactivation of transformations in upload
 - version: 2.6.70
   moduleChanges:
     - module: general
