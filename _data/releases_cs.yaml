@@ -1,3 +1,23 @@
+- version: 2.6.75
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+        - title: Přidána grafika "heat map"
+- version: 2.6.74
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Grafiky obsahující příliž mnoho skupin nabízejí filtrování a stránkování
+    - module: dashboard
+      changes:
+        - title: Widget "čas" přejmenován na "Datum a čas" - umožňuje zobrazit čas a/nebo datum
+- version: 2.6.73
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravena chyba kdy se na atributivní hodnoty aplikovalo zaokrouhlování
+        - title: Atributivní hodnoty v reportech jsou zobrazeny jako smajlíky
 - version: 2.6.72
   moduleChanges:
     - module: general
