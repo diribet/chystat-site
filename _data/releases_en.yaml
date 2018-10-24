@@ -1,3 +1,23 @@
+- version: 2.6.75
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: New graphics "Heat Map"
+- version: 2.6.74
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Graphics containing too many items offer filtering and paging
+    - module: dashboard
+      changes:
+        - title: Widget "Time" renamed to "Date and Time" - allows displaying time and/or date
+- version: 2.6.73
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Fixed error with rounding applied to attributive values
+        - title: Attributive values in the report are displayed as emoticons
 - version: 2.6.72
   moduleChanges:
     - module: general

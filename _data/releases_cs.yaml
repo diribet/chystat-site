@@ -8,7 +8,7 @@
   moduleChanges:
     - module: general
       changes:
-        - title: Grafiky obsahující příliž mnoho skupin nabízejí filtrování a stránkování
+        - title: Grafiky obsahující příliš mnoho skupin nabízejí filtrování a stránkování
     - module: dashboard
       changes:
         - title: Widget "čas" přejmenován na "Datum a čas" - umožňuje zobrazit čas a/nebo datum
