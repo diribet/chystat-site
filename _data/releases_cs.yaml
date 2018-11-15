@@ -6,7 +6,7 @@
         - title: Oprava drobných chyb
     - module: orders
       changes:
-        - title: Plovoucí tlačitka v obrazovce zadání zakázky
+        - title: Plovoucí tlačítka v obrazovce zadání zakázky
 - version: 2.6.79
   moduleChanges:
     - module: general

@@ -1,3 +1,42 @@
+- version: 2.6.80
+  moduleChanges:
+    - module: general
+      changes:
+        - title: PDF viewer fills the full height available
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Floating buttons in the order input screen
+- version: 2.6.79
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Graphics with curves
+        - title: Value chart - option not to colour points that are outside the limits
+        - title: Value chart - minor bug fixes
+        - title: Fixed the multiple-click problem
+    - module: dashboard
+      changes:
+        - title: Fixed "Part protocol" graphics in dashboards
+- version: 2.6.78
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.6.77
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Fixed error - blank "Part protocol" in IE11
+    - module: monitoring
+      changes:
+        - title: Counter for parts is paused by the approaching mouse cursor 
+- version: 2.6.76
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved tooltip in the value chart
+        - title: fixed swapped behaviour Group by / Compare by
 - version: 2.6.75
   moduleChanges:
     - module: general
