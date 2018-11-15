@@ -1,3 +1,42 @@
+- version: 2.6.80
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Prohlížeč PDF se roztáhne na celou dostupnou výšku
+        - title: Oprava drobných chyb
+    - module: orders
+      changes:
+        - title: Plovoucí tlačitka v obrazovce zadání zakázky
+- version: 2.6.79
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Zobrazování křivek
+        - title: Průběh hodnot - přidaná možnost vypnout barvení bodu při překročení mezí
+        - title: Průběh hodnot - oprava drobných chyb
+        - title: Oprava problému s vícenásobným kliknutím na tlačítka
+    - module: dashboard
+      changes:
+        - title: Oprava zobrazení grafiky Protokol o dílu v dashboardech
+- version: 2.6.78
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Oprava drobných chyb
+- version: 2.6.77
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Oprava chyby, kvůli které se nezobrazil Protokol o dílu v IE11
+    - module: monitoring
+      changes:
+        - title: Při najetí myši se pozastaví aktualizace zobrazení kusů stroje
+- version: 2.6.76
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vylepšený tooltip v průběhu hodnot
+        - title: Box-plot - opraveno prohozené chování Seskupit podle / Porovnávat podle
 - version: 2.6.75
   moduleChanges:
     - module: general
