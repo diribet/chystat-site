@@ -1,3 +1,9 @@
+- version: 2.6.81
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements in administration of user and group permissions
+        - title: Fixed marker tooltip in the 'Value chart' graphics
 - version: 2.6.80
   moduleChanges:
     - module: general
