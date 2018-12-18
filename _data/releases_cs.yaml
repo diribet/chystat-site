@@ -1,3 +1,22 @@
+- version: 2.6.84
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Průběh hodnot - konfigurovatelný maximální počet hodnot v tooltipu
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Oprava barvení indikátoru podle tolerancí
+- version: 2.6.83
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Oprava chyby, kvůli které se nepřekresloval přehled zakázek po vyhodnocení některé zakázky
+- version: 2.6.82
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload umí načítat data z mySCADA
 - version: 2.6.81
   moduleChanges:
     - module: general
