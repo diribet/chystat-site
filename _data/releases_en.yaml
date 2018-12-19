@@ -1,3 +1,22 @@
+- version: 2.6.84
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Value chart - configurable maximum number of values in tooltip
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Fixed colouring of indicators according to tolerances
+- version: 2.6.83
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Fixed error due to which the order overview was not refreshed after evaluation of an order
+- version: 2.6.82
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload can read data from mySCADA
 - version: 2.6.81
   moduleChanges:
     - module: general
