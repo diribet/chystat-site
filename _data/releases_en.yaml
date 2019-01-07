@@ -1,3 +1,11 @@
+- version: 2.6.85
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: In the overview settings, the entire path to the hierarchy level is shown
 - version: 2.6.84
   moduleChanges:
     - module: general
