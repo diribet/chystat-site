@@ -1,3 +1,28 @@
+- version: 2.6.88
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Průběh hodnot - možnost zvolit počet grafů na stránku
+    - module: monitor
+      changes:
+        - title: Vylepšení indikátoru "Aktuální hodnota znaku"
+    - module: dashboard
+      changes:
+        - title: Možnost zobrazovat nadpisy u grafů
+- version: 2.6.87
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Vylepšené zadávání zakázek průvodcem (výběr hierarchie, plovoucí tlačítka , vzhled)
+        - title: Výběrová pole ve filtrech respektují nastavení zobrazované hodnoty
+- version: 2.6.86
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.6.85
   moduleChanges:
     - module: general
