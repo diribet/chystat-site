@@ -1,3 +1,28 @@
+- version: 2.6.88
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Value chart - option to select the number of charts per page 
+    - module: monitor
+      changes:
+        - title: Indicator "Current characteristics value" improved
+    - module: dashboard
+      changes:
+        - title: Option to display chart headings
+- version: 2.6.87
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Improved wizard for creating orders (hierarchy selection, floating buttons, appearance)
+        - title: Selection fields of the filter respect settings of the displayed value
+- version: 2.6.86
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.6.85
   moduleChanges:
     - module: general
