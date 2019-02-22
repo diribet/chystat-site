@@ -1,3 +1,19 @@
+- version: 2.7.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Switch to Java 11
+        - title: Improved PDF viewer
+    - module: monitoring
+      changes:
+        - title: Data in the overview is updated when an order is deleted together with data
+    - module: orders
+      changes:
+        - title: Order can be evaluated repeatedly
+        - title: Fixed word wrapping in the wizard for creating orders
+    - module: capability
+      changes:
+        - title: Improved suggestions in the characteristics filter
 - version: 2.6.90
   moduleChanges:
     - module: general
