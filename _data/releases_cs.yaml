@@ -1,3 +1,19 @@
+- version: 2.7.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Přechod na Javu 11
+        - title: Vylepšený PDF prohlížeč
+    - module: monitor
+      changes:
+        - title: Data v přehledu jsou aktualizována pokud dojde ke smazání zakázky i s daty
+    - module: orders
+      changes:
+        - title: Zakázku je možné opakovaně vyhodnotit
+        - title: Opravené zalamování slov v zadávání zakázek průvodcem
+    - module: capability
+      changes:
+        - title: Opravené našeptávání ve filtru znaků
 - version: 2.6.90
   moduleChanges:
     - module: general
