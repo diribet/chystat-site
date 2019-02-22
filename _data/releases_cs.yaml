@@ -4,7 +4,7 @@
       changes:
         - title: Přechod na Javu 11
         - title: Vylepšený PDF prohlížeč
-    - module: monitor
+    - module: monitoring
       changes:
         - title: Data v přehledu jsou aktualizována pokud dojde ke smazání zakázky i s daty
     - module: orders
