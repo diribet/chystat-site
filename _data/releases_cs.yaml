@@ -1,3 +1,17 @@
+- version: 2.7.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Hvězdička u povinných polí ve formulářích
+        - title: Defaultní kódování pro načítání souborů v uploadu je UTF-8
+        - title: Přidána podpora pro K-klíče K2112/K2113
+    - module: orders
+      changes:
+        - title: Přesunutí části nastavení obsahu do samostatných položek. Nastavení se tak dají znovupoužívat a definovat pro jednotlivé hierarchie výroby.
+        - title: Popisky tlačítek v editaci zakázky
+    - module: dashboard
+      changes:
+        - title: Vylepšená administrace dashboardů, přidána možnost vytvářet složky
 - version: 2.7.0
   moduleChanges:
     - module: general
