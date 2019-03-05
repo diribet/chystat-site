@@ -1,3 +1,8 @@
+- version: 2.7.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Integrace se systémem myBeDa
 - version: 2.7.1
   moduleChanges:
     - module: general
