@@ -1,3 +1,15 @@
+- version: 2.7.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements to the myBeDa system
+    - module: scrap
+      changes:
+        - title: Overview in the input mask can be sorted by the number of process/product errors
+    - module: dashboard
+      changes:
+        - title: Selected folders and dashboards can be deleted by pressing the "Delete" key
+        - title: History is maintained between folders, which brings a better behaviour of the "Back" button
 - version: 2.7.2
   moduleChanges:
     - module: general
