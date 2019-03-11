@@ -1,8 +1,27 @@
+- version: 2.7.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Integration with the myBeDa system
+- version: 2.7.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Asterisk for required fields in forms
+        - title: Default encoding for files in the upload is UTF-8
+        - title: Added support for K-keys K2112/K2113
+    - module: orders
+      changes:
+        - title: The content setting has been divided to separate sections, so that the setting can be reused and defined for each hierarchy of production.
+        - title: Button labels in order editing
+    - module: dashboard
+      changes:
+        - title: Improved dashboard administration, added option to create folders
 - version: 2.7.0
   moduleChanges:
     - module: general
       changes:
-        - title: Switch to Java 11
+        - title: Switched to Java 11
         - title: Improved PDF viewer
     - module: monitoring
       changes:
