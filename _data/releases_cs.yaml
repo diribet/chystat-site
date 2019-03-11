@@ -1,3 +1,15 @@
+- version: 2.7.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Drobná vylepšení práce se systémem myBeDa
+    - module: scrap
+      changes:
+        - title: Přehled v zadávání zmetkovitosti lze řadit podle počtu procesních/výrobkových chyb
+    - module: dashboard
+      changes:
+        - title: Složky a dashboardy ve výběru lze mazat klávesou "Delete"
+        - title: Při navigaci mezi složkami se udržuje historie, tzn. lepší chování tlačitka zpět
 - version: 2.7.2
   moduleChanges:
     - module: general
