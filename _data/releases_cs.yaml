@@ -1,3 +1,11 @@
+- version: 2.7.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Drobná vylepšení práce se systémem myBeDa
+    - module: orders
+      changes:
+        - title: Vylepšení výkonu načítání přehledu zavřených a vyhodnocených zakázek
 - version: 2.7.5
   moduleChanges:
     - module: general
