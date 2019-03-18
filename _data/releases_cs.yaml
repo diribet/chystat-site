@@ -1,3 +1,16 @@
+- version: 2.7.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.7.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: scrap
+      changes:
+        - title: V přehledu v zadávání zmetkovitosti lze filtrovat týmy, směny a výrobky
 - version: 2.7.3
   moduleChanges:
     - module: general
