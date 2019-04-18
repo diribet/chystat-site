@@ -1,3 +1,27 @@
+- version: 2.7.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Barvení křivek
+        - title: Posun křivek podle důležitých bodů
+        - title: Důležité body se skrývají společně s křivkou
+        - title: Možnost řadit data pro M-QIS grafiku podle libovolného K-klíče
+        - title: Alarmy se mohou používat v konfiguraci ve všech kritériích
+    - module: monitoring
+      changes:
+        - title: OEE - možnost přidat indikátor "Loading"
+        - title: OEE - možnost definovat vlastní indikátory "Availability" a "Performance"
+    - module: kpi
+      changes:
+        - title: Přidána možnost přenášet všechny procentuální indikátory z monitoringu
+- version: 2.7.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Drobná vylepšení
+    - module: orders
+      changes:
+        - title: Vylepšení rychlosti filtrování zakázek
 - version: 2.7.6
   moduleChanges:
     - module: general
