@@ -6,7 +6,7 @@
         - title: Posun křivek podle důležitých bodů
         - title: Důležité body se skrývají společně s křivkou
         - title: Možnost řadit data pro M-QIS grafiku podle libovolného K-klíče
-        - title: Alarmy se mohou používat v konfiguraci ve všech kritériích
+        - title: Vylepšená konfigurace alarmů
     - module: monitoring
       changes:
         - title: OEE - možnost přidat indikátor "Loading"

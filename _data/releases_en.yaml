@@ -1,3 +1,27 @@
+- version: 2.7.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Curve colouring
+        - title: Moving of curves according to significant points
+        - title: Important points hide together with the curve
+        - title: Option to sort data for M-QIS graphics according to any K-key
+        - title: Improved alarm configuration
+    - module: monitoring
+      changes:
+        - title: OEE - option to add indicator "Loading"
+        - title: OEE - option to define custom indicators "Availability" and "Performance"
+    - module: kpi
+      changes:
+        - title: Added option to transfer all percentage indicators from monitoring
+- version: 2.7.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements
+    - module: orders
+      changes:
+        - title: Order filtering speed improvement
 - version: 2.7.6
   moduleChanges:
     - module: general
