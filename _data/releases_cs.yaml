@@ -1,3 +1,8 @@
+- version: 2.7.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Drobná vylepšení
 - version: 2.7.9
   moduleChanges:
     - module: general
