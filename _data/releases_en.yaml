@@ -1,3 +1,8 @@
+- version: 2.7.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements
 - version: 2.7.9
   moduleChanges:
     - module: general
