@@ -1,3 +1,21 @@
+- version: 2.7.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Drobná vylepšení
+    - module: capability
+      changes:
+        - title: Ve stránce "Analýza" se filtr znaků aplikuje na všechny grafy
+- version: 2.7.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Vylepšený způsob řazení v protokolu o dílu
+        - title: Posun křivek podle libovolného bodu na křivce
+    - module: monitoring
+      changes:
+        - title: Indikátor "Aktuální hodnota znaku" se může barvit podle překročení mezí
 - version: 2.7.10
   moduleChanges:
     - module: general
