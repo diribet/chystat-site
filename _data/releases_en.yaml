@@ -1,3 +1,21 @@
+- version: 2.7.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements
+    - module: capability
+      changes:
+        - title: In the "Analysis" page, the characteristics filter is applied to all charts
+- version: 2.7.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Improved sorting in the report
+        - title: Any point on a curve can be used for overlapping
+    - module: monitoring
+      changes:
+        - title: The indicator "Current characteristics value" can be coloured according to exceeding limits
 - version: 2.7.10
   moduleChanges:
     - module: general
