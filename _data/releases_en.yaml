@@ -1,3 +1,18 @@
+- version: 2.7.13
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - chy.stat API can be called in transformations
+        - title: Configurable centre in value position graph
+        - title: Curves - separators can be displayed, improved significant points
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Order search through API
+    - module: dashboard
+      changes:
+        - title: Minor improvements in the dashboard list
+        - title: Optimized widget "Link on dashboard"
 - version: 2.7.12
   moduleChanges:
     - module: general
