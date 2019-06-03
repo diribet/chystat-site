@@ -1,3 +1,18 @@
+- version: 2.7.13
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - v transformacích je možné volat chy.stat API
+        - title: Konfigurovatelný střed v grafu pozice hodnoty
+        - title: Křivky - možnost zobrazovat oddělovače, vylepšení významných bodů
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Vyhledávání zakázek pomocí API
+    - module: dashboard
+      changes:
+        - title: Drobná vylepšení v seznamu dashboardů
+        - title: Optimalizace widgetu "Odkaz na dashboard"
 - version: 2.7.12
   moduleChanges:
     - module: general
