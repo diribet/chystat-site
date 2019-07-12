@@ -1,3 +1,41 @@
+- version: 2.7.17
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Křivky - legenda s možností vypínání významných bodů a oddělovačů
+    - module: orders
+      changes:
+        - title: Možnost definovat nápovědu k zadávacím polím metadat
+- version: 2.7.16
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vylepšený tooltip v průběhu hodnot
+        - title: Dokumentace API
+        - title: Křivky - vylepšený ukazatel s hodnotama vynesenýma na ose
+        - title: Křivky - možnost zobrazit pozadí pro oblasti uvnitř mezí
+        - title: Křivky - možnost definovat relativní meze
+        - title: Přepínání mezi kusy v protokolu o dílu
+        - title: Možnost definovat hlavičku u všech grafik
+        - title: Opravy drobných chyb
+    - module: capability
+      changes:
+        - title: V přehledu se zobrazují i nedokončené výrobní celky
+        - title: Možnost vypnout běžící výpočet způsobilosti
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Případné chyby ve widgetech nezabrání zobrazení dashboardu
+        - title: V grafech se zobrazuje tooltip
+    - module: kpi
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.7.15
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Možnost definovat, identifikovat a zobrazovat vlastní specifické alarmy
+        - title: Opravy drobných chyb
 - version: 2.7.13
   moduleChanges:
     - module: general
