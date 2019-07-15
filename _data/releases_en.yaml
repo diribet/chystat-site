@@ -1,3 +1,41 @@
+- version: 2.7.17
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Curves - new legend with a switch for important points and separators
+    - module: orders
+      changes:
+        - title: Option to define help for metadata input fields
+- version: 2.7.16
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved tooltip in value chart
+        - title: API documentation
+        - title: Curves - improved pointer with values plotted on the axis
+        - title: Curves - customizable background of areas within limits
+        - title: Curves - option to define relative limits
+        - title: Switching between pieces in the part protocol
+        - title: A header can be defined in all graphics
+        - title: Minor bug fixes
+    - module: capability
+      changes:
+        - title: Unfinished production units are displayed in the overview
+        - title: Option to disable running capability calculation
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Possible errors in widgets will not block the dashboard
+        - title: Tooltip in graphics
+    - module: kpi
+      changes:
+        - title: Minor bug fixes
+- version: 2.7.15
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Option to define, identify and display custom specific alarms
+        - title: Minor bug fixes
 - version: 2.7.13
   moduleChanges:
     - module: general

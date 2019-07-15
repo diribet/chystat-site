@@ -12,7 +12,7 @@
       changes:
         - title: Vylepšený tooltip v průběhu hodnot
         - title: Dokumentace API
-        - title: Křivky - vylepšený ukazatel s hodnotama vynesenýma na ose
+        - title: Křivky - vylepšený ukazatel s hodnotami vynesenými na ose
         - title: Křivky - možnost zobrazit pozadí pro oblasti uvnitř mezí
         - title: Křivky - možnost definovat relativní meze
         - title: Přepínání mezi kusy v protokolu o dílu
