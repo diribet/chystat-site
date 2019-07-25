@@ -1,3 +1,23 @@
+- version: 2.7.19
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Zobrazení hodnoty datového pole je definováno jako výraz
+        - title: Obsah v řádcích průvodky je definován jako výraz
+    - module: dashboard
+      changes:
+        - title: Widget "Období" zobrazuje zvolené období jako datum od - do
+        - title: U widgetů s časovým obdobím lze zapnout dohledávání dat v minulosti
+- version: 2.7.18
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Přidána možnost prokliknout se na grafiku z nastavení detailu kusu
+        - title: Křivky - křivku lze izolovat dvojklikem v legendě
+        - title: Opravy drobných chyb v grafice "Report"
 - version: 2.7.17
   moduleChanges:
     - module: general
