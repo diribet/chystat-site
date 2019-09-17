@@ -1,3 +1,70 @@
+- version: 2.7.28
+  moduleChanges:
+    - module: monitoring
+      changes:
+        - title: Opravena chyba s velkým vytížením CPU v případě většího počtu zobrazených strojů
+    - module: dashboard
+      changes:
+        - title: Oprávnění lze definovat na složkách a lze jej dědit
+- version: 2.7.27
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Přidána možnost definovat pořadí zakázek v jednotlivých přehledech
+- version: 2.7.26
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Opravena chyba v automatickém uzavírání zakázek pomocí událostí
+- version: 2.7.25
+  moduleChanges:
+    - module: monitoring
+      changes:
+        - title: Přidána možnost zobrazit pouze kusy s alespoň jednou značkou
+- version: 2.7.24
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravena chyba načtení editoru protokolu o dílu bez definované hlavičky
+    - module: orders
+      changes:
+        - title: U filtrování zakázek nezáleží na velikosti písmen
+        - title: Opravená chyba s identifikací opakovaného měření
+    - module: capability
+      changes:
+        - title: Opravené dělení výrobních celků změnou směny
+- version: 2.7.23
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Vylepšený způsob zobrazení popisu datových polí v zadávacím formuláři
+    - module: monitoring
+      changes:
+        - title: Indikátor zobrazující rozdíl počtu kusů
+- version: 2.7.22
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Hodnoty zadané v drop-down filtrech lze interpretovat jako výraz
+    - module: dashboard
+      changes:
+        - title: Odkaz na nedostupný dashboard je šedivý a nelze na něj kliknout
+- version: 2.7.21
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Křivky - opravená pozice názvu při zobrazení několika skupin
+    - module: orders
+      changes:
+        - title: Opravené špatné sčítání počtu alarmů v přehledech
+    - module: capability
+      changes:
+        - title: Bíle pozadí u nedokončených výrobních celků
+- version: 2.7.20
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Opravené špatné zobrazení položek v drop-down filtrech
 - version: 2.7.19
   moduleChanges:
     - module: general
