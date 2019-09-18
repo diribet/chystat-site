@@ -1,3 +1,75 @@
+- version: 2.7.29
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.7.28
+  moduleChanges:
+    - module: monitoring
+      changes:
+        - title: Fixed error with high CPU usage in case of higher number of displayed machines
+    - module: dashboard
+      changes:
+        - title: Permissions can be defined on folders and inherited
+- version: 2.7.27
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Added option to define the sequence of orders in individual reports
+- version: 2.7.26
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Fixed error with automatic closing of orders by events
+- version: 2.7.25
+  moduleChanges:
+    - module: monitoring
+      changes:
+        - title: Added option to display only pieces with at least one mark
+- version: 2.7.24
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Fixed error with loading of part protocol editor without defined header
+    - module: orders
+      changes:
+        - title: Order filtering is case-insensitive
+        - title: Fixed error with repeated measurement identification
+    - module: capability
+      changes:
+        - title: Fixed division of production units by shift change
+- version: 2.7.23
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Improved visualisation of data field description in input form
+    - module: monitoring
+      changes:
+        - title: Indicator showing the difference in the number of pieces
+- version: 2.7.22
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Values entered in drop-down filters can be interpreted as an expression
+    - module: dashboard
+      changes:
+        - title: Link to an unavailable dashboard is grayed out and cannot be clicked
+- version: 2.7.21
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Curves - fixed position of header during selection of multiple groups
+    - module: orders
+      changes:
+        - title: Fixed wrong calculation of alarms in reports
+    - module: capability
+      changes:
+        - title: White background for unfinished production units
+- version: 2.7.20
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Fixed incorrect rendering of items in drop-down filters
 - version: 2.7.19
   moduleChanges:
     - module: general
@@ -9,7 +81,7 @@
         - title: Content of rows in the accompanying sheet is defined as an expression
     - module: dashboard
       changes:
-        - title: The widget "Tme period" displays the selected period as a date from - to
+        - title: The widget "Time period" displays the selected period as a date from - to
         - title: For widgets with a time period, past data can be traced
 - version: 2.7.18
   moduleChanges:
