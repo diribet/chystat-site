@@ -1,3 +1,14 @@
+- version: 2.7.30
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: scrap
+      changes:
+        - title: Do XLS reportu bylo přidáno číslo zakázky
+    - module: dashboard
+      changes:
+        - title: Menu na dashboardech a složkách lze zobrazit kliknutím pravým tlačítkem myši
 - version: 2.7.29
   moduleChanges:
     - module: general
