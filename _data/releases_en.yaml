@@ -1,3 +1,8 @@
+- version: 2.7.31
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.7.30
   moduleChanges:
     - module: general
