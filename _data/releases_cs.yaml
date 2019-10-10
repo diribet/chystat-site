@@ -1,3 +1,22 @@
+- version: 2.7.34
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.7.33
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.7.32
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Přidána podpora pro K-klíč K8530
+    - module: dashboard
+      changes:
+        - title: Přidán nový typ dashboardu - prezentace
+        - title: Možnost definovat identifikátor kusu ve widgetu grafika posledního kusu typu "Report"
 - version: 2.7.31
   moduleChanges:
     - module: general
