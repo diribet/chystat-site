@@ -1,3 +1,22 @@
+- version: 2.7.34
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.7.33
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.7.32
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Added support for K-key K8530
+    - module: dashboard
+      changes:
+        - title: Added new type of dashboard - presentation
+        - title: Option to define the piece identifier in the widget "Last piece graphics", type "Report"
 - version: 2.7.31
   moduleChanges:
     - module: general
