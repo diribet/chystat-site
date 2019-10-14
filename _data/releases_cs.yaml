@@ -1,3 +1,11 @@
+- version: 2.7.35
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Možnost definovat výchozí dashboard při vstupu do aplikace/modulu
 - version: 2.7.34
   moduleChanges:
     - module: general
