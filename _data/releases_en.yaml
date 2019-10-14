@@ -1,3 +1,11 @@
+- version: 2.7.35
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: A default dashboard for the application/module homescreen can be defined
 - version: 2.7.34
   moduleChanges:
     - module: general
