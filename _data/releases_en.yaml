@@ -1,3 +1,18 @@
+- version: 2.7.37
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved upload stability in case of extensive directory structure
+        - title: Minor improvements in the curve graphics
+    - module: dashboard
+      changes:
+        - title: Added widget for displaying files available on server
+        - title: Added widget for displaying files from a document source
+- version: 2.7.36
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.7.35
   moduleChanges:
     - module: general
