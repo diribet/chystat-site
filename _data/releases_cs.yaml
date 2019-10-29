@@ -1,3 +1,18 @@
+- version: 2.7.37
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vylepšení stability uploadu v případě rozsáhlé adresářové struktury
+        - title: Drobná vylepšení v grafice křivek
+    - module: dashboard
+      changes:
+        - title: Přidán widget pro zobrazení souboru dostupného na cestě serveru
+        - title: Přidán widget pro zobrazení souboru ze zdroje dokumentů
+- version: 2.7.36
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.7.35
   moduleChanges:
     - module: general
