@@ -1,3 +1,9 @@
+- version: 2.7.38
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vylepšení stability uploadu v případě konfigurace více uploadů pro jeden modul
+        - title: Křivky - zvýraznění křivky při hoveru myši v legendě a naopak
 - version: 2.7.37
   moduleChanges:
     - module: general
