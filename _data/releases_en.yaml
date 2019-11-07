@@ -1,3 +1,14 @@
+- version: 2.7.39
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.7.38
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved upload stability in case of multiple uploads for one module
+        - title: Curves - curve is highlighted when hovering the mouse in the legend, and vice versa
 - version: 2.7.37
   moduleChanges:
     - module: general
