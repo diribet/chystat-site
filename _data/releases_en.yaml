@@ -1,3 +1,36 @@
+- version: 2.8.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: New screen for piece detail
+        - title: New graphics - Parallel coordinates plot
+        - title: Graphics "Report" - added value position graph for one-sided tolerances without defined mean value
+        - title: Graphics "Heatmap" - support for attributive characteristics
+        - title: Option to delete the document source archive after defined time
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Option to re-evaluate an order automatically
+    - module: monitoring
+      changes:
+        - title: Colouring of the OEE indicator
+        - title: Option to select K-keys from catalogs for the indicator "K-key values of the current value / characteristic / part"
+    - module: dashboard
+      changes:
+        - title: Improved "Capability value" and "Capability status" widgets
+        - title: Option to add a background image for the widgets "Back link", "Link to dashboard", "Text" and "Web page (link)"
+        - title: Widgets "Back link", "Link to dashboard", "Web page (link)" and "Last order status" are highlighted on mouseover
+- version: 2.7.40
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Character set can be defined for downloaded DFQ files
+    - module: orders
+      changes:
+        - title: Content settings related to automatic creation, closing and evaluation have been moved to a separate item - Workflow settings. Order workflow can now be defined for each hierarchy of production.
+    - module: dashboard
+      changes:
+        - title: Upper dashboard editing menu is united with the rest of the application
 - version: 2.7.39
   moduleChanges:
     - module: general
