@@ -19,7 +19,7 @@
       changes:
         - title: Vylepšené widgety "Hodnota způsobilosti" a "Status způsobilosti"
         - title: Možnost přidat obrázek na pozadí u widgetů "Odkaz zpět", "Odkaz na dashboard", "Text" a "Webová stránka (odkaz)"
-        - title: Zvýraznění widgetů "Odkaz zpět", "Odkaz na dashboard", "Webová stránka (odkaz)" a "Status poslední zakázky" při hoveru myši
+        - title: Zvýraznění widgetů "Odkaz zpět", "Odkaz na dashboard", "Webová stránka (odkaz)" a "Status poslední zakázky" při najetí myši
 - version: 2.7.40
   moduleChanges:
     - module: general
@@ -41,7 +41,7 @@
     - module: general
       changes:
         - title: Vylepšení stability uploadu v případě konfigurace více uploadů pro jeden modul
-        - title: Křivky - zvýraznění křivky při hoveru myši v legendě a naopak
+        - title: Křivky - zvýraznění křivky při najetí myši v legendě a naopak
 - version: 2.7.37
   moduleChanges:
     - module: general
