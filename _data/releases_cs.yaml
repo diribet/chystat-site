@@ -1,3 +1,36 @@
+- version: 2.8.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Nová obrazovka pro detail kusu
+        - title: Nová grafika - Níťový diagram
+        - title: Grafika "Report" - přidán graf pozice hodnoty pro jednostranné tolerance bez definované střední hodnoty
+        - title: Grafika "Heat map" - podpora pro atributivní znaky
+        - title: Možnost odmazávat archiv zdroje dokumentů
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Možnost automaticky přehodnotit zakázku
+    - module: monitoring
+      changes:
+        - title: Barvení OEE indikátoru
+        - title: Možnost vybírat K-klíče z katalogů u indikátoru "Hodnoty K-klíčů aktuální hodnoty / znaku / dílu"
+    - module: dashboard
+      changes:
+        - title: Vylepšené widgety "Hodnota způsobilosti" a "Status způsobilosti"
+        - title: Možnost přidat obrázek na pozadí u widgetů "Odkaz zpět", "Odkaz na dashboard", "Text" a "Webová stránka (odkaz)"
+        - title: Zvýraznění widgetů "Odkaz zpět", "Odkaz na dashboard", "Webová stránka (odkaz)" a "Status poslední zakázky" při hoveru myši
+- version: 2.7.40
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Možnost definovat znakovou sadu pro stahované DFQ soubory
+    - module: orders
+      changes:
+        - title: Nastavení obsahu týkající se automatického vytváření, zavírání a vyhodnocování bylo přesunuto do samostatné položky - nastavení workflow. Workflow zakázek je nyní možné definovat pro jednotlivé hierarchie výroby.
+    - module: dashboard
+      changes:
+        - title: Horní menu editace dashboardu sjednocené se zbytkem aplikace
 - version: 2.7.39
   moduleChanges:
     - module: general
