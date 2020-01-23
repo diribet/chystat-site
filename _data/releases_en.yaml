@@ -1,3 +1,41 @@
+- version: 2.8.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Fixed search in graphics for texts containing a slash (/)
+        - title: Fixed error in communication with M-QIS, which caused high CPU usage
+- version: 2.8.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Java 13 is now required
+        - title: Improved upload statistics
+        - title: Minor bug fixes
+    - module: capability
+      changes:
+        - title: Rounding and trimming very high values of calculated capability
+- version: 2.8.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: New graphics "Graphics with detail"
+        - title: Values K0002 = 255 or 256 are ignored		
+    - module: dashboard
+      changes:
+        - title: Better validation of dashboard sharing
+- version: 2.8.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes and minor improvements
+    - module: scrap
+      changes:
+        - title: New column "repair number" in the production overview
+- version: 2.8.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements
 - version: 2.8.1
   moduleChanges:
     - module: capability

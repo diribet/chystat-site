@@ -2,7 +2,7 @@
   moduleChanges:
     - module: general
       changes:
-        - title: Oprava vyhledávání v grafikách pro texty obsahující /
+        - title: Oprava vyhledávání v grafikách pro texty obsahující lomítko (/)
         - title: Oprava chyby při komunikaci s M-QIS, která způsobovala vysoké vytížení CPU
 - version: 2.8.5
   moduleChanges:
@@ -13,7 +13,7 @@
         - title: Opravy drobných chyb
     - module: capability
       changes:
-        - title: Zaokrouhlování a ořezávání velmi vyských hodnot vypočítané způsobilosti
+        - title: Zaokrouhlování a ořezávání velmi vysokých hodnot vypočítané způsobilosti
 - version: 2.8.4
   moduleChanges:
     - module: general
