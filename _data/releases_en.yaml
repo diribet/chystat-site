@@ -1,3 +1,27 @@
+- version: 2.8.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Added option to configure visibility of detail tabs
+        - title: Added option to configure visibility of headers in "Graphics with detail"
+        - title: The master graphic in "Graphics with detail" can contain "Documents"
+    - module: monitoring
+      changes:
+        - title: All automatically calculated indicator targets can be recalculated/deleted
+        - title: Automatic calculation of indicator targets can be turned off
+    - module: dashboard
+      changes:
+        - title: Name of the dashboard is defined when it is created
+        - title: Dashboard can be renamed in overview
+        - title: Added caching and minor improvements in widget "File (from path)"
+    - module: scrap
+      changes:
+        - title: Upload - added mapping for team and shift
+- version: 2.8.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.8.6
   moduleChanges:
     - module: general

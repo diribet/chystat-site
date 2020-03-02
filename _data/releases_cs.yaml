@@ -1,3 +1,22 @@
+- version: 2.8.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: U záložky v detailu lze definovat zda má být viditelná
+        - title: V záložce "Grafika s detailem" lze nastavovat viditelnost hlaviček
+        - title: V záložce "Grafika s detailem" lze jako hlavní grafiku použít záložku s dokumenty
+    - module: monitoring
+      changes:
+        - title: Přidána možnost přepočítat/smazat všechny automaticky napočítané cíle indikátoru
+        - title: Automatický výpočet cílů indikátorů lze vypnout
+    - module: dashboard
+      changes:
+        - title: Název dashboardu se definuje při jeho vytváření
+        - title: Dashboard lze přejmenovat přímo v přehledu
+        - title: Přidáno kešování a opravy drobných chyb ve widgetu pro zobrazení souboru dostupného na cestě serveru
+    - module: scrap
+      changes:
+        - title: Do uploadu přidáno mapování pro směnu a pracovní tým
 - version: 2.8.7
   moduleChanges:
     - module: general
