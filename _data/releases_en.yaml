@@ -2,7 +2,7 @@
   moduleChanges:
     - module: general
       changes:
-        - title: [Embeddable graphics](https://github.com/diribet/chystat-embeddables) - chy.stat graphics can be embedded into web pages
+        - title: "[Embeddable graphics](https://github.com/diribet/chystat-embeddables) - chy.stat graphics can be embedded into web pages"
         - title: API for measured values
         - title: Fixed memory leak in frontend components (graphics)
         - title: Improved tooltip behavior in the "Value chart" graphic

@@ -2,7 +2,7 @@
   moduleChanges:
     - module: general
       changes:
-        - title: [Embeddable graphics](https://github.com/diribet/chystat-embeddables) - možnost vložit chy.stat grafiku do webové stránky
+        - title: "[Embeddable graphics](https://github.com/diribet/chystat-embeddables) - možnost vložit chy.stat grafiku do webové stránky"
         - title: API pro naměřené hodnoty
         - title: Opravena chyba kdy prohlížeč vyžadoval mnoho operační paměti při častém překreslování grafik
         - title: Vylepšené chování tooltipu v grafice "průběh hodnot"
