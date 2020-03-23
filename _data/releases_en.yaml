@@ -1,3 +1,22 @@
+- version: 2.8.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: [Embeddable graphics](https://github.com/diribet/chystat-embeddables) - chy.stat graphics can be embedded into web pages
+        - title: API for measured values
+        - title: Fixed memory leak in frontend components (graphics)
+        - title: Improved tooltip behavior in the "Value chart" graphic
+        - title: The master graphic in "Graphics with detail" can contain the "Heat map" graphic
+        - title: Graphics "Heat map" - minor bug fixes and minor improvements
+    - module: scrap
+      changes:
+        - title: Configurable primary and secondary chart colors
+        - title: Pareto is divided into two colors in ratio 80:20
+        - title: Upload - added mapping for position and repair number
+    - module: kpi
+      changes:
+        - title: Values outside of natural bounds are ignored
+        - title: Minor bug fixes and minor improvements
 - version: 2.8.8
   moduleChanges:
     - module: general

@@ -1,3 +1,22 @@
+- version: 2.8.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: [Embeddable graphics](https://github.com/diribet/chystat-embeddables) - možnost vložit chy.stat grafiku do webové stránky
+        - title: API pro naměřené hodnoty
+        - title: Opravena chyba kdy prohlížeč vyžadoval mnoho operační paměti při častém překreslování grafik
+        - title: Vylepšené chování tooltipu v grafice "průběh hodnot"
+        - title: V záložce "Grafika s detailem" lze jako hlavní grafiku použít grafiku "Heat map"
+        - title: Grafika "Heat map" - vylepšení a opravy drobných chyb
+    - module: scrap
+      changes:
+        - title: Možnost definovat primární a sekundární barvy grafů
+        - title: Pareto graf je rozdělen na dvě barvy v poměru 80:20
+        - title: Do uploadu přidáno mapování pro pozici a číslo opravy
+    - module: kpi
+      changes:
+        - title: Hodnoty mimo přirozené meze jsou ignorovány
+        - title: Vylepšení a opravy drobných chyb
 - version: 2.8.8
   moduleChanges:
     - module: general
