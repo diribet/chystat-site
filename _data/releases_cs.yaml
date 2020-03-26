@@ -23,7 +23,8 @@
       changes:
         - title: U záložky v detailu lze definovat zda má být viditelná
         - title: V záložce "Grafika s detailem" lze nastavovat viditelnost hlaviček
-        - title: V záložce "Grafika s detailem" lze jako hlavní grafiku použít záložku s dokumenty
+        - title: V záložce "Grafika s detailem" lze používat záložku s dokumenty
+        - title: Dokumenty v záložkách lze mapovat pomocí hodnot K-Klíčů
     - module: monitoring
       changes:
         - title: Přidána možnost přepočítat/smazat všechny automaticky napočítané cíle indikátoru

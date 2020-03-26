@@ -24,6 +24,7 @@
         - title: Added option to configure visibility of detail tabs
         - title: Added option to configure visibility of headers in "Graphics with detail"
         - title: The master graphic in "Graphics with detail" can contain "Documents"
+        - title: Documents in detail tabs can be mapped with K-Keys values
     - module: monitoring
       changes:
         - title: All automatically calculated indicator targets can be recalculated/deleted
