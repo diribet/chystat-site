@@ -1,3 +1,19 @@
+- version: 2.8.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: myScada upload - automatical default mapping uses K-keys from tag descriptions
+        - title: Value chart - outlier identification can be disabled
+    - module: scrap
+      changes:
+        - title: Sorted divisions, production lines, work teams and shifts in data input
+    - module: orders
+      changes:
+        - title: Fixed bug - new order was not automatically created for new values after an order with the same code was deleted
+    - module: kpi
+      changes:
+        - title: When deleting dimension element its data are also deleted
+        - title: Fixed bug in data transfer from module Monitor
 - version: 2.8.9
   moduleChanges:
     - module: general

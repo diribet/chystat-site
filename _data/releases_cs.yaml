@@ -1,3 +1,19 @@
+- version: 2.8.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: myScada upload - automatické výchozí mapování používá K-klíče v popisu tagů
+        - title: Průběh hodnot - možnost vypnout hledání odlehlých hodnot
+    - module: scrap
+      changes:
+        - title: Řazení divizí, linek, pracovních týmů a směn v zadávání
+    - module: orders
+      changes:
+        - title: Oprava chyby, kdy po smazání zakázky nemohla být znovu automaticky vytvořena na základě nových hodnot
+    - module: kpi
+      changes:
+        - title: Při mazání elementu dimenze se smažou i jeho data
+        - title: Oprava chyby v přenosu dat z modulu Monitor
 - version: 2.8.9
   moduleChanges:
     - module: general
