@@ -1,3 +1,22 @@
+- version: 2.9.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Statistiky aktivity uživatelů
+        - title: Přihlašování pomocí SAML 2.0
+        - title: Možnost neověřovat LDAPS certifikát
+        - title: Testování více transformací najednou
+        - title: Stahování dat v JSON a CSV formátech
+        - title: Box plot může být master grafika
+        - title: Sjednocené zobrazení přirozených mezí v grafikách
+        - title: Opravené zobrazení hodnot v box plotu v případě malého počtu hodnot
+        - title: Zjednodušení modulů Capability / Monitor / Ordo - musejí používat jednu společnou databázi
+    - module: orders
+      changes:
+        - title: Čárové a maticové kódy v průvodkách se vykreslují jako SVG
+    - module: kpi
+      changes:
+        - title: Optimalizace uploadu
 - version: 2.8.10
   moduleChanges:
     - module: general
