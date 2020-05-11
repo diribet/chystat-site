@@ -1,3 +1,23 @@
+- version: 2.9.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Possibility do display boundaries as colored background in "value chart" graphics
+        - title: Minor improvements in the "curve" graphics
+    - module: kpi
+      changes:
+        - title: Added some description and minor improvements in the administration of the module
+- version: 2.9.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved modebar dropdown layout in some graphics
+    - module: orders
+      changes:
+        - title: Optimization of field filtering new order input mask
+    - module: capability
+      changes:
+        - title: Possibility to download data in multiple formats from characteristic overview
 - version: 2.9.0
   moduleChanges:
     - module: general

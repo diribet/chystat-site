@@ -1,3 +1,23 @@
+- version: 2.9.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Meze v grafice "průběh hodnot" lze zobrazit jako barevná pásma na pozadí
+        - title: Drobná vylepšení v grafice "křivka"
+    - module: kpi
+      changes:
+        - title: Doplnění textů a drobná vylepšení v administraci modulu
+- version: 2.9.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravený vzhled rozbalovací nabídky nástrojové lišty v některých grafikách
+    - module: orders
+      changes:
+        - title: Optimalizace filtrování polí v zadávací masce zakázky
+    - module: capability
+      changes:
+        - title: Data z přehledu znaků lze stáhnout ve více formátech
 - version: 2.9.0
   moduleChanges:
     - module: general
