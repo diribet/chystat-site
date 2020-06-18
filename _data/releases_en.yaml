@@ -1,3 +1,21 @@
+- version: 2.9.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - possibility to test multiple transformations at once
+        - title: Upload - possibility to define which K-keys will be overwritten
+        - title: Upload - read data in "AQDEF in flat JSON" format
+        - title: Upload API - maximum size of uploaded data increased to 30MB
+        - title: Minor bug fixes
+    - module: scrap
+      changes:
+        - title: New pareto charts by position and repair serial number
+        - title: Configuration of displayed pareto charts
+- version: 2.9.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: New functions in Parallel coordinates graphic
 - version: 2.9.4
   moduleChanges:
     - module: general

@@ -1,3 +1,21 @@
+- version: 2.9.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - možnost testovat více transformací najednou
+        - title: Upload - možnost definovat K-klíče, které se mají přepisovat
+        - title: Upload - nahrávání dat ve formátu AQDEF in flat JSON
+        - title: Upload API - maximální velikost dat zvýšena na 30MB
+        - title: Opravy drobných chyb
+    - module: scrap
+      changes:
+        - title: Pareto grafy po pozicích a seriových číslech opravy
+        - title: Konfigurace zobrazovaných pareto grafů
+- version: 2.9.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Nové funkce v grafice "Níťový diagram"
 - version: 2.9.4
   moduleChanges:
     - module: general
