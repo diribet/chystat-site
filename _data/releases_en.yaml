@@ -1,3 +1,21 @@
+- version: 2.9.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Comments - wall with all comments at one place, enhanced comment input
+        - title: Value chart - configurable content of the X-axis
+        - title: Value chart - equidistant X-axis shows the indexes of the values
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: New indicator type "Calculated value"
+    - module: orders
+      changes:
+        - title: Possibility to delete the measured values of the order
+    - module: scrap
+      changes:
+        - title: New bar chart by components
+        - title: New level of components in the navigation pie chart by products
 - version: 2.9.6
   moduleChanges:
     - module: general

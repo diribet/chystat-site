@@ -1,3 +1,21 @@
+- version: 2.9.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Komentáře - zeď se zobrazením všech komentářů na jednom místě, vylepšené zadávání komentárů
+        - title: Průběh hodnot - konfigurovatelný obsah osy X
+        - title: Průběh hodnot - ekvidistantní osa X zobrazuje indexy hodnot
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Nový typ indikátoru "Vypočítaná hodnota"
+    - module: orders
+      changes:
+        - title: Možnost smazat naměřené hodnoty zakázky
+    - module: scrap
+      changes:
+        - title: Sloupcový graf po komponentech
+        - title: V navigačním koláčovém grafu po výrobcích se zobrazuje úroveň komponent
 - version: 2.9.6
   moduleChanges:
     - module: general
