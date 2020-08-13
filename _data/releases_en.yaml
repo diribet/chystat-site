@@ -1,3 +1,38 @@
+- version: 2.9.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.9.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Empty text values from the mySCADA upload are ignored
+        - title: Fixed a bug with duplicating newly created groovy transformations
+    - module: scrap
+      changes:
+        - title: API for productions and defects
+- version: 2.9.9
+  moduleChanges:
+    - module: kpi
+      changes:
+        - title: Removed time dimensions
+        - title: Minor performance improvements and reduced memory requirements
+    - module: scrap
+      changes:
+        - title: API for catalogs
+- version: 2.9.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor improvements to the myBeDa system
+        - title: Improved component for machine hierarchy administration
+    - module: monitoring
+      changes:
+        - title: API for indicator targets
+    - module: orders
+      changes:
+        - title: Optimalizace automatického vytváření, zavírání a vyhodnocování zakázek
 - version: 2.9.7
   moduleChanges:
     - module: general

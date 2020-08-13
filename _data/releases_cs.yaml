@@ -1,3 +1,38 @@
+- version: 2.9.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.9.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Prázdné textové hodnoty z mySCADA uploadu se ignorují
+        - title: Opravena chyba s duplikováním nově vytvářených groovy transformací
+    - module: scrap
+      changes:
+        - title: API pro produkce a defekty
+- version: 2.9.9
+  moduleChanges:
+    - module: kpi
+      changes:
+        - title: Odstranění časových dimenzí
+        - title: Drobná vylepšení výkonu a snížení paměťové náročnosti
+    - module: scrap
+      changes:
+        - title: API pro prácí s katalogy
+- version: 2.9.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Drobná vylepšení práce se systémem myBeDa
+        - title: Vylepšená komponenta pro administraci hierarchie strojů
+    - module: monitoring
+      changes:
+        - title: API pro cíle inkátorů
+    - module: orders
+      changes:
+        - title: Optimization of automatic creation, closing and evaluation of orders
 - version: 2.9.7
   moduleChanges:
     - module: general
