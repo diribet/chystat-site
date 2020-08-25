@@ -1,3 +1,22 @@
+- version: 2.9.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Filter comments by user interests
+        - title: Smoothing function in value chart
+        - title: Tooltip in parallel coordinates chart
+        - title: Improved comment input
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Configurable number of decimal places and suffix for indicators
+    - module: orders
+      changes:
+        - title: Keep already filled values when changing input masks
+        - title: Constant time cooling function
+    - module: scrap
+      changes:
+        - title: Minor bug fixes
 - version: 2.9.11
   moduleChanges:
     - module: general
@@ -11,7 +30,7 @@
         - title: Fixed a bug with duplicating newly created groovy transformations
     - module: scrap
       changes:
-        - title: API for productions and defects
+        - title: API scrap data
 - version: 2.9.9
   moduleChanges:
     - module: kpi

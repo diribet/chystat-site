@@ -1,3 +1,22 @@
+- version: 2.9.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Filtrování komentářů podle uživatelských zájmů
+        - title: Vylepšené zadávání komentářů
+        - title: Funkce vyhlazování v průběhu hodnot
+        - title: Tooltip v níťovém diagramu
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Konfigurace počtu zobrazovaných desetinných míst a přípony u indikátorů
+    - module: orders
+      changes:
+        - title: Při přepínání masek zadávání se zachovají již vyplněná pole
+        - title: Chlazení po konstantní dobu
+    - module: scrap
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.9.11
   moduleChanges:
     - module: general
@@ -11,7 +30,7 @@
         - title: Opravena chyba s duplikováním nově vytvářených groovy transformací
     - module: scrap
       changes:
-        - title: API pro produkce a defekty
+        - title: API pro data zmetkovitosti
 - version: 2.9.9
   moduleChanges:
     - module: kpi
