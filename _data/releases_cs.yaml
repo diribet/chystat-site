@@ -1,3 +1,16 @@
+- version: 2.9.13
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Optimalizace uploadu v případě zaokrouhlování číselných hodnot na znaku
+        - title: Zdroje dokumentů mohou načítat soubory z podadresářů
+    - module: monitoring
+      changes:
+        - title: Optimalizace vyhodnocování kritérií
+        - title: Možnost použít katalogové k-klíče v kritériích značek a indikátoru 'aktuální hodnota znaku'
+    - module: orders
+      changes:
+        - title: Možnost vypnout chlazení zakázky pro konkrétní díl
 - version: 2.9.12
   moduleChanges:
     - module: general

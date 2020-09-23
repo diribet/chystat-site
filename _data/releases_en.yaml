@@ -1,3 +1,16 @@
+- version: 2.9.13
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload optimization in case of rounding numeric values of characteristic
+        - title: Document sources can load files from subdirectories
+    - module: monitoring
+      changes:
+        - title: Optimalizace vyhodnocování kritérií
+        - title: Possibility to use catalog k-keys in criteria of marks and indicator 'current value of characteristic'
+    - module: orders
+      changes:
+        - title: Possibility to turn off order cooling for a specific part
 - version: 2.9.12
   moduleChanges:
     - module: general
@@ -51,7 +64,7 @@
         - title: API for indicator targets
     - module: orders
       changes:
-        - title: Optimalizace automatického vytváření, zavírání a vyhodnocování zakázek
+        - title: Optimization of automatic creation, closing and evaluation of orders
 - version: 2.9.7
   moduleChanges:
     - module: general
