@@ -1,3 +1,15 @@
+- version: 2.9.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Value chart - fixed incorrect display of limits while zooming
+    - module: capability
+      changes:
+        - title: Capability analysis - detail of the selected characteristic is displayed in a configurable detail window
+    - module: kpi
+      changes:
+        - title: Visualization of the desirability function and its configured parameters in administration.
+        - title: Fixed bug with loading data from DB
 - version: 2.9.13
   moduleChanges:
     - module: general

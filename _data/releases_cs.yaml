@@ -1,3 +1,15 @@
+- version: 2.9.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Průběh hodnot - oprava chybného zobrazení mezí na pozadí při zoomu
+    - module: capability
+      changes:
+        - title: Analýza způsobilosti - detail vybraného znaku se otevře v konfigurovatelném okně detailu
+    - module: kpi
+      changes:
+        - title: Vizualizace funkce "žádoucnosti" při konfiguraci jejích parametrů
+        - title: Oprava chyby při načítání dat z DB
 - version: 2.9.13
   moduleChanges:
     - module: general
