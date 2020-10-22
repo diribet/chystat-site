@@ -9,6 +9,10 @@
       changes:
         - title: Added option to show where the graphic is used in administration
         - title: Minor bug fixes
+    - module: scrap
+      changes:
+        - title: Configuration of the order of displayed bar and pareto charts
+        - title: Configuration of the visible column range of displayed bar and pareto charts
 - version: 2.9.17
   moduleChanges:
     - module: general

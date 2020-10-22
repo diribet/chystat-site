@@ -9,6 +9,10 @@
       changes:
         - title: V administraci přidána možnost zobrazit, kde je použita grafika
         - title: Opravy drobných chyb
+    - module: scrap
+      changes:
+        - title: Konfigurace pořadí sloupcových a pareto grafů v přehledech
+        - title: Konfigurace rozsahu viditelných sloupců v sloupcových a pareto grafech
 - version: 2.9.17
   moduleChanges:
     - module: general
@@ -102,7 +106,7 @@
         - title: API pro cíle inkátorů
     - module: orders
       changes:
-        - title: Optimization of automatic creation, closing and evaluation of orders
+        - title: Optimalizace automatického vytváření, zavíraní a vyhodnocování zakázek
 - version: 2.9.7
   moduleChanges:
     - module: general
