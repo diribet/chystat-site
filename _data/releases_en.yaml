@@ -1,3 +1,14 @@
+- version: 2.9.19
+  moduleChanges:
+    - module: kpi
+      changes:
+        - title: Minor bug fixes
+- version: 2.9.18
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Added option to show where the graphic is used in administration
+        - title: Minor bug fixes
 - version: 2.9.17
   moduleChanges:
     - module: general

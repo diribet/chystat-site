@@ -1,3 +1,14 @@
+- version: 2.9.19
+  moduleChanges:
+    - module: kpi
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.9.18
+  moduleChanges:
+    - module: general
+      changes:
+        - title: V administraci přidána možnost zobrazit, kde je použita grafika
+        - title: Opravy drobných chyb
 - version: 2.9.17
   moduleChanges:
     - module: general
