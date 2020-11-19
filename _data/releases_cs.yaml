@@ -1,3 +1,24 @@
+- version: 2.9.21
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Grafika s detailem - data v detailu se zobrazí i pro výběr z historie
+        - title: Grafika s detailem - možnost výběru z více skupin grafik najednou
+        - title: Box plot - oprava normalizace
+        - title: Přidán odkaz na Release notes do stránky O aplikaci
+        - title: Grafika Report - ukotvení hlavičky
+        - title: Grafika Report - možnost zobrazit všechny řádky najednou
+        - title: Křivky - podpora pro 3 a více Y os
+    - module: capability
+      changes:
+        - title: Konfigurovatelná grafika "Přehled znaků"
+    - module: orders
+      changes:
+        - title: Vyhledávání zakázek - možnost otevřít nalezenou zakázku v přehledu
+    - module: scrap
+      changes:
+        - title: Vylepšená editace hierarchie výroby a výrobků
 - version: 2.9.20
   moduleChanges:
     - module: general

@@ -1,3 +1,24 @@
+- version: 2.9.21
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Graphic with detail - data in detail are available also for selection from history
+        - title: Graphic with detail - ability to select items across multiple graphic groups
+        - title: Box plot - fixed normalization
+        - title: Added link to Release notes to the About application page
+        - title: Graphic Report - fixed header
+        - title: Graphic Report - possibility to show all rows at once
+        - title: Curves - support for 3 and more Y axes
+    - module: capability
+      changes:
+        - title: Configurable graphic "Characteristic overview"
+    - module: orders
+      changes:
+        - title: Orders search - ability to open the found order in the overview
+    - module: scrap
+      changes:
+        - title: Improved administration of process and product hierarchy
 - version: 2.9.20
   moduleChanges:
     - module: general
