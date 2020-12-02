@@ -1,3 +1,16 @@
+- version: 2.9.23
+  moduleChanges:
+    - module: scrap
+      changes:
+        - title: Improved graphics
+- version: 2.9.22
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Email notifications about unread comments
+    - module: capability
+      changes:
+        - title: Added option to show where the detail tabs are used in administration
 - version: 2.9.21
   moduleChanges:
     - module: general
