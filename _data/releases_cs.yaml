@@ -1,3 +1,31 @@
+- version: 2.9.26
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Do všech grafik přidané tlačítko na reset zoomu
+    - module: monitoring
+      changes:
+        - title: Nový způsob načítání přírustků dat do monitoringu - vyšší rychlost, snížení zátěže DB
+        - title: Optimalizace výpočtu indikátorů
+    - module: kpi
+      changes:
+        - title: Podpora přenosu indikátoru typu "Vypočítaná hodnota" z Monitoru
+        - title: Vylepšení vizualizace desirability funkce
+        - title: Vizualizace výsledku desirability v okně detailu
+        - title: Konfigurovatelný exponent průměru pro agregaci hodnot v rámci dimenze
+- version: 2.9.25
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Křivky jsou skladovány v DB komprimované
+        - title: Optimalizace využití paměti a CPU
+        - title: Možnost testovat transformace uploadu pomocí dat ve formátu "AQDEF in flat JSON"
+        - title: Oprava nelokalizovaného formátu datumu v některých místech aplikace
+- version: 2.9.24
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.9.23
   moduleChanges:
     - module: scrap

@@ -1,3 +1,31 @@
+- version: 2.9.26
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Button to reset zoom in all graphics
+    - module: monitoring
+      changes:
+        - title: A new way of loading data increments into monitoring - higher speed, reduced DB load
+        - title: Optimization of indicator calculation
+    - module: kpi
+      changes:
+        - title: Support for transfer of the "Calculated value" type indicator from the Monitor
+        - title: Improved visualization of desirability function
+        - title: Visualization of the desirability result in the detail window
+        - title: Configurable Power mean exponent for aggregating values within a dimension
+- version: 2.9.25
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Curves are stored compressed in DB
+        - title: Optimization of memory and CPU usage
+        - title: Possibility to test upload transformations using data in "AQDEF in flat JSON" format
+        - title: Fixed non-localized date format in some places
+- version: 2.9.24
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.9.23
   moduleChanges:
     - module: scrap
