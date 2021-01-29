@@ -1,3 +1,12 @@
+- version: 2.9.27
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Menu with graphics in detail window can be minimized
+    - module: monitoring
+      changes:
+        - title: Optimization of indicator calculation
+        - title: Configurable indicator recalculation frequency
 - version: 2.9.26
   moduleChanges:
     - module: general

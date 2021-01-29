@@ -1,3 +1,12 @@
+- version: 2.9.27
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Menu s grafikama v detailu lze minimalizovat
+    - module: monitoring
+      changes:
+        - title: Optimalizace výpočtu indikátorů
+        - title: Konfigurovatelná frekvence přepočítávání indikátorů
 - version: 2.9.26
   moduleChanges:
     - module: general
