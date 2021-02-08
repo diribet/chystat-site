@@ -1,3 +1,12 @@
+- version: 2.9.28
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Filtrování komentářů ve kteých je uživatel zmíněn
+        - title: Opravený odkaz k nepřečteným komentářům v emailu
+    - module: kpi
+      changes:
+        - title: Optimalizace administrace dimenzí
 - version: 2.9.27
   moduleChanges:
     - module: general
@@ -44,7 +53,7 @@
   moduleChanges:
     - module: general
       changes:
-        - title: Emailové notifikace o nepřečtených konmentářích
+        - title: Emailové notifikace o nepřečtených komentářích
     - module: capability
       changes:
         - title: V administraci přidána možnost zobrazit, kde je použita záložka detailu

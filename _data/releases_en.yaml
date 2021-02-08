@@ -1,3 +1,12 @@
+- version: 2.9.28
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Filter comments the user is directly mentioned
+        - title: Fixed link the unread comments in notification email
+    - module: kpi
+      changes:
+        - title: Optimization of dimension administration
 - version: 2.9.27
   moduleChanges:
     - module: general
