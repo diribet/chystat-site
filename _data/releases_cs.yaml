@@ -1,9 +1,14 @@
+- version: 2.9.29
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.9.28
   moduleChanges:
     - module: general
       changes:
         - title: Filtrování komentářů ve kteých je uživatel zmíněn
-        - title: Opravený odkaz k nepřečteným komentářům v emailu
+        - title: Odkaz k nepřečteným komentářům v notifikačním emailu nastavuje filtr
     - module: kpi
       changes:
         - title: Optimalizace administrace dimenzí
