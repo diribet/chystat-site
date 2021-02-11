@@ -1,3 +1,8 @@
+- version: 2.9.30
+  moduleChanges:
+    - module: general
+      changes:
+        - title: API for list of Embeddable graphics
 - version: 2.9.29
   moduleChanges:
     - module: general
