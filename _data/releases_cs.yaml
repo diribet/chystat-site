@@ -1,3 +1,16 @@
+- version: 2.9.31
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - přidána podpora pro skriptované parsování datových zdrojů
+        - title: Grafika s detailem - možnost zrušit výběr v master grafice
+        - title: Grafika Report - menu s identifikátorem kusu si pamatuje stav zabalení/rozbalení
+        - title: Grafika Report - opravené řazení atributivních hodnot
+        - title: Opravy drobných chyb
+    - module: scrap
+      changes:
+        - title: Filtrování v pareto grafech podle sloupečku bez hodnoty
+        - title: Přídáno vyhledávání v koláčových grafech
 - version: 2.9.30
   moduleChanges:
     - module: general

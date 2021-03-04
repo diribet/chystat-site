@@ -1,3 +1,16 @@
+- version: 2.9.31
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - scripted parser for datasources
+        - title: Graphic with detail - it is possible to unselect elements in master graphic to get to the initial state
+        - title: Graphic Report - menu with piece identifiers remembers its collapsed state
+        - title: Graphic Report - fixed sorting of attributive values
+        - title: Minor bug fixes
+    - module: scrap
+      changes:
+        - title: Filter by columns without value in pareto charts
+        - title: Searching in pie charts
 - version: 2.9.30
   moduleChanges:
     - module: general
