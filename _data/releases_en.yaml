@@ -1,3 +1,10 @@
+- version: 2.9.33
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - added support for CSV files
+        - title: Upload - modified the default mapping in mySCADA datasource
+        - title: Minor bug fixes
 - version: 2.9.32
   moduleChanges:
     - module: general
