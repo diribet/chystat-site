@@ -1,3 +1,9 @@
+- version: 2.9.34
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vyhledávání v komentářích
+        - title: Grafika Report - výchozí řazení sloupce s měřenou hodnotou je sestupné
 - version: 2.9.33
   moduleChanges:
     - module: general

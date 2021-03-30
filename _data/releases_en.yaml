@@ -1,3 +1,9 @@
+- version: 2.9.34
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Search in comments
+        - title: Graphic Report - default sort order of measured value column is descending
 - version: 2.9.33
   moduleChanges:
     - module: general
