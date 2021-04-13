@@ -1,3 +1,20 @@
+- version: 2.9.37
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Reworked whole overview
+- version: 2.9.36
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Search in comments - case insensitive searching, minor improvements
+        - title: Graphics - improved grouping and comparing menu
+        - title: Fixed specification limits rendering in parallel coordinates chart
+- version: 2.9.35
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.9.34
   moduleChanges:
     - module: general
