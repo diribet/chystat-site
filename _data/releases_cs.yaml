@@ -1,3 +1,20 @@
+- version: 2.9.37
+  moduleChanges:
+    - module: orders
+      changes:
+        - title: Přepracovaný přehled zakázek
+- version: 2.9.36
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vyhledávání v komentářích - vyhledávání bez ohledu na velká a malá písmena, další drobná vylepšení
+        - title: Grafiky - vylepšené chování menu seskupování a porovnávání
+        - title: Opravené zobrazení tolerančních pásem v níťovém diagramu
+- version: 2.9.35
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.9.34
   moduleChanges:
     - module: general
