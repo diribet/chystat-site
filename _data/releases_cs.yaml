@@ -1,3 +1,15 @@
+- version: 2.9.38
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Křivky - možnost zvolit typ interpolace
+    - module: capability
+      changes:
+        - title: Možnost počítat způsobilost pomocí chy.stat "Algoritmů"
+    - module: kpi
+      changes:
+        - title: Nové okno detailu s vylepšeným zobrazením detailu indikátoru
+        - title: Vylepšené načítání dat rozpadů
 - version: 2.9.37
   moduleChanges:
     - module: orders

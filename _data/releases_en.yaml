@@ -1,3 +1,15 @@
+- version: 2.9.38
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Curves - added option to select the type of interpolation
+    - module: capability
+      changes:
+        - title: Added possibility to calculate capability using chy.stat "Algorithms"
+    - module: kpi
+      changes:
+        - title: New detail window with improved indicator detail view
+        - title: Improved data loading of breakdown summaries
 - version: 2.9.37
   moduleChanges:
     - module: orders
