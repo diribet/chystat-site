@@ -1,3 +1,9 @@
+- version: 2.9.39
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Upload - přepracované mapování pro mySCADA datasource
 - version: 2.9.38
   moduleChanges:
     - module: general
