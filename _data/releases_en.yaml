@@ -1,3 +1,9 @@
+- version: 2.9.41
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Reworked reverse proxy for myBeDa 
 - version: 2.9.40
   moduleChanges:
     - module: general
