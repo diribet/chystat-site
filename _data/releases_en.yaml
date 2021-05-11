@@ -1,3 +1,11 @@
+- version: 2.9.43
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - add support for boolean values/k-keys in mySCADA datasource
+    - module: scrap
+      changes:
+        - title: Improved overview page load speed
 - version: 2.9.42
   moduleChanges:
     - module: general
