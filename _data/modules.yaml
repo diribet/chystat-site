@@ -1,28 +1,34 @@
 general:
   title_cs: Obecné
   title_en: General
+  icon_id: general
 
 scrap:
   title_cs: Scrap
   title_en: Scrap
+  icon_id: scrap
 
 capability:
-  title_cs: Capability
-  title_en: Capability
+  title_cs: Crustallus
+  title_en: Crustallus
+  icon_id: crustallus
 
 orders:
   title_cs: Ordo
   title_en: Ordo
-  
+  icon_id: ordo
+
 monitoring:
   title_cs: Monitor
   title_en: Monitor
-  
+  icon_id: monitor
+
 kpi:
   title_cs: Lucra
   title_en: Lucra
-  
+  icon_id: lucra
+
 dashboard:
   title_cs: Fenestra
   title_en: Fenestra
-  
+  icon_id: fenestra
