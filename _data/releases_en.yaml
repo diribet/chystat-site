@@ -1,3 +1,27 @@
+- version: 2.9.45
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - mySCADA data source loads individual datalogs independently of each other
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Choose hierarchy in overview using URL
+    - module: capability
+      changes:
+        - title: Option to turn off the capability calculation for certain machines
+- version: 2.9.44
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Automatic closing and evaluation of orders respects repeated measurements
+        - title: Configurable way to display repeated measurements
+    - module: dashboard
+      changes:
+        - title: Scenarios in "Presentation" type dashboards for cyclic display of several dashboards
 - version: 2.9.43
   moduleChanges:
     - module: general
@@ -16,7 +40,7 @@
     - module: general
       changes:
         - title: Minor bug fixes
-        - title: Reworked reverse proxy for myBeDa 
+        - title: Reworked reverse proxy for myBeDa
 - version: 2.9.40
   moduleChanges:
     - module: general
@@ -458,7 +482,7 @@
     - module: general
       changes:
         - title: New graphics "Graphics with detail"
-        - title: Values K0002 = 255 or 256 are ignored		
+        - title: Values K0002 = 255 or 256 are ignored
     - module: dashboard
       changes:
         - title: Better validation of dashboard sharing
@@ -861,7 +885,7 @@
   moduleChanges:
     - module: general
       changes:
-        - title: Value chart - option to select the number of charts per page 
+        - title: Value chart - option to select the number of charts per page
     - module: monitor
       changes:
         - title: Indicator "Current characteristics value" improved
@@ -947,7 +971,7 @@
         - title: Fixed error - blank "Part protocol" in IE11
     - module: monitoring
       changes:
-        - title: Counter for parts is paused by the approaching mouse cursor 
+        - title: Counter for parts is paused by the approaching mouse cursor
 - version: 2.6.76
   moduleChanges:
     - module: general
@@ -1110,7 +1134,7 @@
       changes:
         - title: Improved layout of order overview menu for smaller screens
 - version: 2.6.54
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: All chy.stat graphics have the option to download data in AQDEF format
@@ -1121,7 +1145,7 @@
         - title: Improved layout of order overview
         - title: Fixed error with order evaluation in paged order overview
 - version: 2.6.53
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1129,18 +1153,18 @@
       changes:
         - title: Improved filter in order overview
 - version: 2.6.52
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Improved formatting of K-key values
         - title: Minor fixes and improvements
 - version: 2.6.51
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.50
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor improvements of the "Report" graphics
@@ -1153,7 +1177,7 @@
       changes:
         - title: Minor bug fixes
 - version: 2.6.49
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: New font for better reading
@@ -1167,7 +1191,7 @@
       changes:
         - title: Filtering is case-insensitive
 - version: 2.6.48
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Configurable date format in the value chart
@@ -1176,27 +1200,27 @@
       changes:
         - title: Added cooling function
 - version: 2.6.47
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.46
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.45
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.44
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.43
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: New graphics - "Report"
@@ -1204,7 +1228,7 @@
       changes:
         - title: In the administration, definitions of marks and indicators can be copied
 - version: 2.6.42
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Improved alarms - supported multiple types of alarms for one value
@@ -1215,7 +1239,7 @@
       changes:
         - title: New widget - the last piece from a machine
 - version: 2.6.41
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1224,17 +1248,17 @@
         - title: New input mask optimized for touch screens - a “wizard”
         - title: Overview is reloaded after a change of order metadata
 - version: 2.6.40
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.39
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.38
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1242,7 +1266,7 @@
       changes:
         - title: Removed single-column layout on small screens
 - version: 2.6.37
-  moduleChanges: 
+  moduleChanges:
     - module: scrap
       changes:
         - title: Migration to custom catalogs
@@ -1251,7 +1275,7 @@
         - title: Reduced processor requirements in the time-axis overview
         - title: Minor bug fixes
 - version: 2.6.36
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Support for K18xx and K28xx K-Keys (user-defined fields)
@@ -1260,23 +1284,23 @@
         - title: Users without editing rights can see the detail of an order in the reading mode
         - title: Optimized loading speed of orders
 - version: 2.6.35
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Optimized uploading of large DFQ files
 - version: 2.6.34
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.33
-  moduleChanges: 
+  moduleChanges:
     - module: dashboard
       changes:
         - title: New widget - value of a cell from Excel file
         - title: Minor bug fixes
 - version: 2.6.32
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Grouping and comparing according to the catalogue fields
@@ -1289,7 +1313,7 @@
         - title: The widget "Link to dashboard" has configurable text
         - title: Minor bug fixes
 - version: 2.6.30
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1301,7 +1325,7 @@
         - title: Improved behaviour of the ‘File (embed)’ widget in IE 11
         - title: Widget ‘Indicator Value’ can display the indicator target
 - version: 2.6.29
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1309,7 +1333,7 @@
       changes:
         - title: Inactive units are excluded from the calculation of production units
 - version: 2.6.28
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1317,17 +1341,17 @@
       changes:
         - title: Added dimension filtering in the overview
 - version: 2.6.27
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Public API for uploading AQDEF files
 - version: 2.6.26
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.25
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1335,13 +1359,13 @@
       changes:
         - title: New widget ‘Top N errors’ from the Lucra module
 - version: 2.6.24
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Improved appearance of the component for editing localized texts
         - title: Minor bug fixes
 - version: 2.6.23
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1356,7 +1380,7 @@
       changes:
         - title: The countdown component in the order overview is more accurate
 - version: 2.6.22
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Broader use of custom time periods
@@ -1367,7 +1391,7 @@
       changes:
         - title: ‘Status of the last order’ widget can redirect to the detail of that order
 - version: 2.6.21
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1375,17 +1399,17 @@
       changes:
         - title: Data from monitoring can be filtered by a condition
 - version: 2.6.20
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.19
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.18
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Grouped data without plausible values is not displayed in the box-plot graphics
@@ -1393,12 +1417,12 @@
       changes:
         - title: Added option to temporarily disable rendering of individual tags in the overview
 - version: 2.6.17
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.16
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Validation of Groovy transformations in downloads
@@ -1407,23 +1431,23 @@
         - title: Widgets can be expanded / shrunk by groups
         - title: Configurable cell borders in the dashboard
 - version: 2.6.15
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.14
-  moduleChanges: 
+  moduleChanges:
     - module: capability
       changes:
         - title: Fixed calculation of production units in case no data are available
 - version: 2.6.13
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor improvement of the box-plot graphics
         - title: AQDEF simple grouping support
 - version: 2.6.12
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Description of a detail tab can be edited
@@ -1434,7 +1458,7 @@
         - title: Modified layout in overview editing
         - title: Description of marks and indicators can be defined
 - version: 2.6.11
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1445,17 +1469,17 @@
       changes:
         - title: Widgets can be moved and duplicated by groups
 - version: 2.6.10
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.9
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.8
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Order of labels at an equidistant time axis in the value chart
@@ -1463,7 +1487,7 @@
       changes:
         - title: The aspect ratio of the dashboard background picture can be maintained
 - version: 2.6.7
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1471,12 +1495,12 @@
       changes:
         - title: Widgets can be deleted by groups
 - version: 2.6.6
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.5
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1484,12 +1508,12 @@
       changes:
         - title: Information about user that is currently editing a locked dashboard
 - version: 2.6.4
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.6.3
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1498,7 +1522,7 @@
         - title: Floating button for adding widgets
         - title: Added option to temporarily hide the editing toolbar
 - version: 2.6.2
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1506,7 +1530,7 @@
       changes:
         - title: Dashboards are locked when edited and cannot be changed by another user
 - version: 2.6.1
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Options for default standardization status and whiskers calculation by box-plot graphics
@@ -1521,7 +1545,7 @@
       changes:
         - title: Order overview can be exported to an XLSX file
 - version: 2.6.0
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Breakdown and grouping of data by K-keys in chy.stat charts
@@ -1534,12 +1558,12 @@
       changes:
         - title: Custom display period setting
 - version: 2.5.9
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.5.8
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes and improved appearance
@@ -1547,33 +1571,33 @@
       changes:
         - title: More granular permissions
 - version: 2.5.7
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.5.6
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Fixed error caused by the daylight saving time
 - version: 2.5.5
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.5.3
-  moduleChanges: 
+  moduleChanges:
     - module: orders
       changes:
         - title: Option to display the number of values in the bars of an order
         - title: For the order overview, you can specify whether the number of measured values or number of pieces should be displayed
 - version: 2.5.2
-  moduleChanges: 
+  moduleChanges:
     - module: capability
       changes:
         - title: Newly computed production units are automatically displayed in the overviews
 - version: 2.5.1
-  moduleChanges: 
+  moduleChanges:
     - module: kpi
       changes:
         - title: Option to show indicator or desirability values on a heatmap in reports
@@ -1583,13 +1607,13 @@
       changes:
         - title: New widget "Indicator value" from the Lucra module
 - version: 2.5.0
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Application uses own application server (Undertow) instead of externally installed Tomcat
         - title: Simplified installation procedure
 - version: 2.4.101
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes and improved appearance
@@ -1597,17 +1621,17 @@
       changes:
         - title: Option to display number of errors and products in the "Scrap" widget
 - version: 2.4.100
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.99
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.98
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1615,27 +1639,27 @@
       changes:
         - title: Widgets of the "Picture" type have the option to keep aspect ratio
 - version: 2.4.97
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Auditing of changes in the system settings
 - version: 2.4.96
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.95
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.94
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: English is the default language for unsupported languages
 - version: 2.4.93
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: In a value chart, the x-axis can be set as equidistant
@@ -1645,7 +1669,7 @@
       changes:
         - title: Production unit detail tabs are configurable
 - version: 2.4.92
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1653,38 +1677,38 @@
       changes:
         - title: Description of the capability analysis chart types
 - version: 2.4.91
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Data reading optimization for Q-DAS catalogues
         - title: Minor bug fixes
 - version: 2.4.90
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.89
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
-        - title: Definition of custom time periods that can be used in all modules 
+        - title: Definition of custom time periods that can be used in all modules
         - title: Minor bug fixes
     - module: kpi
       changes:
         - title: Data transfer from the Monitor module
         - title: Adjustable resolution of the time axis
 - version: 2.4.88
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.87
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.86
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Fixed errors at multiple tabs use
@@ -1696,7 +1720,7 @@
       changes:
         - title: Improved monitoring overview options
 - version: 2.4.85
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes and improvements
@@ -1705,7 +1729,7 @@
       changes:
         - title: Batch actions in the scrap input
 - version: 2.4.84
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1726,7 +1750,7 @@
       changes:
         - title: Capability calculation for hierarchical characteristic supported
 - version: 2.4.83
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: In the upload, the hierarchy of characteristics is saved
@@ -1737,23 +1761,23 @@
       changes:
         - title: It is possible to define a structure between a production line and a cost unit
 - version: 2.4.82
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes in the upload
 - version: 2.4.81
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.80
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Fixed error with printing in the Chrome browser
         - title: Minor bug fixes
 - version: 2.4.79
-  moduleChanges: 
+  moduleChanges:
     - module: capability
       changes:
         - title: Fixed error in the number of measured values
@@ -1765,17 +1789,17 @@
         - title: New identifiers “K-Keys values” of part and characteristics
         - title: In the overview, additional changes of values and alarms are visible
 - version: 2.4.77
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
     - module: capability
       changes:
-        - title: For the value chart marks, size of symbols can be defined 
+        - title: For the value chart marks, size of symbols can be defined
         - title: With bigger amount of machines, the rendering speed in the overview has been optimized
     - module: dashboard
       changes:
-        - title: New widget for displaying the top N parts/machines/tools from capability 
+        - title: New widget for displaying the top N parts/machines/tools from capability
     - module: monitoring
       changes:
         - title: Support for composite part identifiers
@@ -1786,7 +1810,7 @@
       changes:
         - title: Improved options of displaying and filtering according to implicit order field (Hierarchy, user, etc.)
 - version: 2.4.76
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1796,7 +1820,7 @@
         - title: New widget for displaying the status of evaluation of the last order
         - title: Information about server unavailability is displayed more strongly
 - version: 2.4.75
-  moduleChanges: 
+  moduleChanges:
     - module: capability
       changes:
         - title: Loading speed optimization of the hierarchy of production and the production unit overview
@@ -1805,7 +1829,7 @@
         - title: Fixed error - the hierarchy of machines was unnecessarily displayed without data
         - title: Loading speed optimization of the hierarchy of production and the overview
 - version: 2.4.74
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
@@ -1813,18 +1837,18 @@
       changes:
         - title: Indicator "Current value of characteristic" is coloured according to tolerances
 - version: 2.4.73
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Minor bug fixes
 - version: 2.4.72
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Repaired compatibility with IE11
         - title: Minor bug fixes
 - version: 2.4.71
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Repaired ordering of hierarchical characteristics in DFQ files
@@ -1835,7 +1859,7 @@
       changes:
         - title: Support for more monitoring overviews
 - version: 2.4.70
-  moduleChanges: 
+  moduleChanges:
     - module: capability
       changes:
         - title: Optimization of capability overview loading speed
@@ -1846,7 +1870,7 @@
       changes:
         - title: A new way of capability overview configuration
 - version: 2.4.69
-  moduleChanges: 
+  moduleChanges:
     - module: general
       changes:
         - title: Added setting for part and characteristic data overwriting in the upload
@@ -1855,51 +1879,51 @@
       changes:
         - title: It is possible to use logical operations for definition of a point highlighting conditions in the value chart.
 - version: 2.4.68
-  moduleChanges: 
+  moduleChanges:
     - module: scrap
       changes:
         - title: In the tooltip of the navigation pie chart and the bar charts, absolute numbers of characters are displayed as well
     - module: dashboard
-      changes: 
+      changes:
         - title: In the widget for displaying capability value is possible to choose the type of the displayed value
         - title: New widget for displaying the current capability value
 - version: 2.4.67
-  moduleChanges: 
+  moduleChanges:
     - module: monitoring
-      changes: 
+      changes:
         - title: Fixed error of data trimming in case of displayed period longer than 1 week
 - version: 2.4.66
-  moduleChanges: 
+  moduleChanges:
     - module: dashboard
-      changes: 
+      changes:
         - title: Selection of permissions in the dashboard settings
         - title: Characteristic significance filter in the widget for displaying capability value
 - version: 2.4.65
-  moduleChanges: 
+  moduleChanges:
     - module: orders
-      changes: 
+      changes:
         - title: Implementation of data field for uploading metadata from barcodes
     - module: dashboard
-      changes: 
+      changes:
         - title: New widget for displaying capability value
         - title: Added the option to use bold or italic font in the widgets
 - version: 2.4.64
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Implementation of data upload into the Q-DAS scheme
     - module: dashboard
-      changes: 
+      changes:
         - title: Dashboard can have a picture on the background
 - version: 2.4.63
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Minor bug fixes
 - version: 2.4.62
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Component for manipulation with the time axis allows to move a fixed time window
     - module: capability
       changes:
@@ -1910,85 +1934,85 @@
         - title: Vertical scrolling of machines – time axis is always visible on the page
         - title: Legend position change
 - version: 2.4.61
-  moduleChanges: 
+  moduleChanges:
     - module: scrap
       changes:
         - title: Added option to hide production line name in a bar chart by cost units
 - version: 2.4.60
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed error in structure level search in case user has rights for a certain branch only
 - version: 2.4.59
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Minor bug fixes
     - module: kpi
       changes:
         - title: Rendering is delayed until initial data is loaded into the memory
 - version: 2.4.58
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed error with saving a new hierarchy level with pre-filled code
     - module: capability
-      changes: 
-        - title: Optimization production unit calculation speed through adjustment of the tool search algorithm 
+      changes:
+        - title: Optimization production unit calculation speed through adjustment of the tool search algorithm
     - module: monitoring
       changes:
         - title: If production units are set to be split by K-key change, only K-keys for values can be used
         - title: In the mark criteria, also K-keys for parts and characteristics can be used
 - version: 2.4.57
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed error by cancelling assigning of a machine to the hierarchy
         - title: Left menu size calculation optimization
     - module: scrap
-      changes: 
+      changes:
         - title: Thousands separator is used when values are displayed
     - module: orders
-      changes: 
+      changes:
         - title: In the where condition in the detail tab, tables TEIL and ALARM_VALUES can be used
         - title: Closed orders overview is not reloaded when the bar detail window is opened
 - version: 2.4.56
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Minor bug fixes
 - version: 2.4.55
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Invalid data are ignored by DFQ files upload
     - module: dashboard
-      changes: 
+      changes:
         - title: Dashboards can be easily duplicated
         - title: Decreased limit for minimal row height in the dashboard
 - version: 2.4.54
-  moduleChanges: 
+  moduleChanges:
     - module: orders
       changes:
         - title: Optimization of order overview loading speed
         - title: Fixed data field identifier uniqueness check
 - version: 2.4.53
-  moduleChanges: 
+  moduleChanges:
     - module: kpi
       changes:
         - title: When loading data, K0002 is taken into account and only values with K0002 = 0 are saved
 - version: 2.4.52
-  moduleChanges: 
+  moduleChanges:
     - module: monitoring
       changes:
         - title: Fixed error with displaying the activity indicator during regular data redrawing
     - module: kpi
       changes:
-        - title: Optimization – values are first filtered and then ordered by aggregation 
+        - title: Optimization – values are first filtered and then ordered by aggregation
 - version: 2.4.51
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved displayed period icons
     - module: kpi
       changes:
@@ -1996,324 +2020,324 @@
         - title: Added possibility of value aging in long-term average calculations
         - title: Fixed error by highlighting chosen bars
     - module: dashboard
-      changes: 
+      changes:
         - title: Widget with the indicator value can take the script colour according to the indicator
         - title: Content of a text widget can be rolled if it doesn’t fit
         - title: Added a widget with clocks
 - version: 2.4.50
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved component for colour selection – favourite colours will be saved
     - module: kpi
-      changes: 
+      changes:
         - title: Data for 2 years are stored in the memory
         - title: Implementation of change from the previous period
         - title: In the detail of the composite indicator, tabs with partial indicators are displayed
         - title: By clicking on the indicator in the detail of the composite indicator, detail of that indicator will be shown
     - module: dashboard
-      changes: 
+      changes:
         - title: New widgets are added on the 'plus' button position
         - title: Decreased limit for minimal row height in the dashboard
         - title: Horizontal centering of text widgets
         - title: Support for up to 36 columns in the dashboard
 - version: 2.4.49
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved page control - open page can be recognized
         - title: Improved controlling chart for setting the bar chart range
         - title: Keys K1000 and K2000 can now be written into the DFQ files
     - module: scrap
-      changes: 
+      changes:
         - title: Bar chart optimization for large amounts of values
     - module: capability
-      changes: 
+      changes:
         - title: Reworked way of choosing values for capability calculation and displaying in value charts
     - module: kpi
-      changes: 
+      changes:
         - title: Fixed target search and target ambiguity control
         - title: Added possibility to end the target validity
 - version: 2.4.48
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: New module Fenestra
     - module: monitoring
-      changes: 
+      changes:
         - title: Improved performance after deleting cache
 - version: 2.4.47
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved sending of changes by the server (WebSockets support)
         - title: Improved left navigation menu appearance
     - module: orders
-      changes: 
+      changes:
         - title: Order overview is not rendering when the detail window is open
 - version: 2.4.46
-  moduleChanges: 
+  moduleChanges:
     - module: scrap
-      changes: 
+      changes:
         - title: Improved scrap calculation - identification of products when they pass more production lines
 - version: 2.4.45
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed URL generation for password change
     - module: orders
-      changes: 
+      changes:
         - title: Fixed URL generation for accompanying sheet and overview filter
     - module: scrap
-      changes: 
+      changes:
         - title: Bar with the number of already produced parts added into the function overview
 - version: 2.4.44
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Added support for QS-stat version 11 libraries
 - version: 2.4.43
-  moduleChanges: 
+  moduleChanges:
     - module: kpi
-      changes: 
+      changes:
         - title: Value is displayed above the bar in the detail window
     - module: monitoring
-      changes: 
+      changes:
         - title: Fixed machine sorting within one branch of hierarchy
     - module: capability
-      changes: 
+      changes:
         - title: Fixed machine sorting within one branch of hierarchy
 - version: 2.4.42
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed errors in hierarchy administration - tree branches can be moved from and into the root
         - title: Function of automatic reconnection after server outage turned off - it caused excessive memory usage of the browser
 - version: 2.4.41
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved left menu appearance
     - module: monitoring
-      changes: 
-        - title: In the overview, machines that are not put into hierarchy are now displayed as well 
+      changes:
+        - title: In the overview, machines that are not put into hierarchy are now displayed as well
     - module: capability
-      changes: 
-        - title: In the overview, machines that are not put into hierarchy are now displayed as well 
+      changes:
+        - title: In the overview, machines that are not put into hierarchy are now displayed as well
 - version: 2.4.40
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed errors in hierarchy administration
         - title: Users can change their passwords
 - version: 2.4.39
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved file type detection in document sources
 - version: 2.4.38
-  moduleChanges: 
+  moduleChanges:
     - module: capability
-      changes: 
+      changes:
         - title: Fixed error in calculation of production units by time intervals
 - version: 2.4.37
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed error in upper dropdown menus – sometimes they were incomplete
     - module: capability
-      changes: 
+      changes:
         - title: Fixed tooltip displaying error in the capability overview
 - version: 2.4.36
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Added buttons Expand all and Collapse all to the hierarchical trees
     - module: monitoring
-      changes: 
+      changes:
         - title: Marks conditions can be defined as logical operations
         - title: Hiding of machines without data is now configurable
         - title: Automatic data restoring in monitoring is more robust – it recovers after an outage by itself
         - title: Hierarchy of machines displayed in monitoring
         - title: Added manual sorting and colouring in the hierarchy of machines
     - module: capability
-      changes: 
+      changes:
         - title: Minor bug fix in the value chart
         - title: Added number of characteristic into the characteristics overview
         - title: Hierarchy of machines displayed in the capability overview
         - title: Added manual sorting and colouring in the hierarchy of machines
     - module: orders
-      changes: 
+      changes:
         - title: Minor bug fix in entering a new order
         - title: If the orders are numbered automatically, the number is not displayed until the order is saved
         - title: Added option to make a copy of an existing order
         - title: Automatic data restoring in monitoring is more robust – it recovers after an outage by itself
         - title: Added manual sorting of hierarchy
 - version: 2.4.35
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Added option to change texts (translations) within the application
         - title: Added buttons Expand all and Collapse all to the hierarchical trees
 - version: 2.4.34
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved appearance of rotated labels on the charts axis
     - module: scrap
-      changes: 
+      changes:
         - title: Selected type of navigation and display is saved in cookies
 - version: 2.4.33
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Better appearance of detail windows in case they do not contain any data
     - module: monitoring
-      changes: 
+      changes:
         - title: Mixed data from different parts now do not stop the monitoring
     - module: orders
-      changes: 
+      changes:
         - title: Function for a quick view added into the order detail
         - title: Minor improvements in the new order entering screen
 - version: 2.4.32
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed error with bar charts zooming
 - version: 2.4.31
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Link to the home page added into the sliding navigation menu
     - module: orders
-      changes: 
+      changes:
         - title: Optimization of the order overview loading speed
         - title: Fixed error that could occur under certain circumstances by administration of the order overview
 - version: 2.4.30
-  moduleChanges: 
+  moduleChanges:
     - module: orders
-      changes: 
+      changes:
         - title: Fixed error - if a user had rights just for one level of hierarchy, this level of hierarchy was not saved into the order
 - version: 2.4.29
-  moduleChanges: 
+  moduleChanges:
     - module: capability
-      changes: 
+      changes:
         - title: Sorting of production units by fixed periods
     - module: scrap
-      changes: 
+      changes:
         - title: Possibility to scrap automatically whole products for product errors
         - title: In the folder "100% - Quality ratio", absolute money is displayed instead of relative money
         - title: Displayed the currently selected type of navigation
 - version: 2.4.28
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved display of the hierarchical trees - if they are large, they are not completely expanded
     - module: capability
-      changes: 
+      changes:
         - title: By setting up the production unit sorting through changing the K-key, the value of this K-key is displayed in the capability overview
     - module: scrap
-      changes: 
+      changes:
         - title: Evaluation by orders supported
         - title: Possibility to edit entered errors
 - version: 2.4.27
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Better appearance of the sliding navigation menu
         - title: Improvements of the text box for entering integers (useful mainly for touch screens)
 - version: 2.4.26
-  moduleChanges: 
+  moduleChanges:
     - module: orders
-      changes: 
+      changes:
         - title: Fixed the unexpected error that could appear by changing folders in the bar detail or Cp/Cpk under some circumstances
 - version: 2.4.25
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Added an alternative navigation between pages and modules
     - module: capability
-      changes: 
+      changes:
         - title: Added the option to choose the number of columns displayed in the chart in the capability overview
     - module: orders
-      changes: 
+      changes:
         - title: Fixed the mutual filtering of components by entering an order
         - title: By entering an order, the field "Laboratory" is not displayed in case the user has an authorisation for one laboratory only
 - version: 2.4.24
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Added missing translation of the tables paging descriptions
     - module: capability
-      changes: 
+      changes:
         - title: Pictures in the character detail are now spread to full available width
 - version: 2.4.23
-  moduleChanges: 
+  moduleChanges:
     - module: capability
-      changes: 
+      changes:
         - title: Fixed query to the hierarchy of machines for MS SQL Server
         - title: Optimization of character search
         - title: Optimization of the "Analysis" page loading speed
         - title: Fixed the error in production units calculation for machines with mixed values without a specified tool and with the tool
     - module: monitoring
-      changes: 
+      changes:
         - title: Fixed query to the hierarchy of machines for MS SQL Server
 - version: 2.4.22
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved search in the bar charts
 - version: 2.4.21
-  moduleChanges: 
+  moduleChanges:
     - module: scrap
-      changes: 
+      changes:
         - title: Now it is possible to disable the input of process or product errors
 - version: 2.4.20
-  moduleChanges: 
+  moduleChanges:
     - module: orders
-      changes: 
+      changes:
         - title: More options how to change the appearance of the accompanying sheet notes template
 - version: 2.4.19
-  moduleChanges: 
+  moduleChanges:
     - module: capability
-      changes: 
+      changes:
         - title: 'A new way of production unit sorting: by changing any K00xx key (orders, batches etc.)'
         - title: Improved administration of production unit sorting
 - version: 2.4.18
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: The document viewer can display a document full-screen and download it
         - title: By regular expressions, it is now possible to specify the group index
     - module: orders
-      changes: 
+      changes:
         - title: Improved support for custom accompanying sheet templates
 - version: 2.4.17
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Minor bug fixes
     - module: orders
-      changes: 
+      changes:
         - title: Added the option to delete order
 - version: 2.4.16
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Fixed error in saving displayed period settings into cookies
         - title: Added the option to apply a regular expression to dynamic metadata values
         - title: Added monitoring of the application speed
     - module: capability
-      changes: 
+      changes:
         - title: Fixed the error with setting whole day shifts (0:00-0:00)
     - module: orders
-      changes: 
+      changes:
         - title: Improved speed of displaying the order overview
         - title: Improved displaying of very long times in the order time countdown
-        - title: Added the option to mutually filter catalog selections by creating an order 
+        - title: Added the option to mutually filter catalog selections by creating an order
         - title: Orders without data are by automated evaluation rated as conditionally OK
     - module: monitoring
-      changes: 
+      changes:
         - title: In settings, the maximum length of the displayed period can be limited
         - title: Period settings are separated from the rest of the application
         - title: By the target, now it is displayed whether it is automatically calculated by the system or manually entered
@@ -2322,83 +2346,83 @@
         - title: Machines without data are hidden in the overview
 
 - version: 2.4.15
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: New appearance of the main menu (icons + modules renamed)
     - module: orders
-      changes: 
+      changes:
         - title: Possibility to add order priority to the accompanying sheet
         - title: Possibility to create a custom template for accompanying sheets
     - module: monitoring
-      changes: 
+      changes:
         - title: Reduced memory consumption (20 to 60% depending on data)
 
 - version: 2.4.14
-  moduleChanges: 
+  moduleChanges:
     - module: orders
-      changes: 
+      changes:
         - title: Added all Q-DAS catalogues to the administration of order metadata
 
 - version: 2.4.13
   moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Minor bug fixes in the user management
     - module: capability
-      changes: 
+      changes:
         - title: More granular permissions - separated rights for displaying the overview and the analysis
 
 - version: 2.4.12
   moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Scrolling and searching in the bar charts
         - title: Text encoding (utf-8) in email password settings
     - module: orders
-      changes: 
+      changes:
         - title: Panel header of an order can contain any number of entries (instead of the current 6)
     - module: monitoring
-      changes: 
+      changes:
         - title: Improved legend appearance
         - title: Added the option to choose displayed indicators in the overview
         - title: In the shifts settings, the position is irrelevant
 
 - version: 2.4.11
-  moduleChanges: 
+  moduleChanges:
     - module: orders
-      changes: 
+      changes:
         - title: Fixed a critical error in the orders overview
 
 - version: 2.4.10
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved logging
 
 - version: 2.4.9
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Improved icons for mobile devices
         - title: Improved modal windows appearance
         - title: Improved authentication errors logging
     - module: orders
-      changes: 
+      changes:
         - title: Added function "evaluation of the part"
         - title: Improved performance of the orders overview
 
 - version: 2.4.8
-  moduleChanges: 
+  moduleChanges:
     - module: orders
-      changes: 
+      changes:
         - title: Larger bars in the orders overview for touch screens
 
 - version: 2.4.7
-  moduleChanges: 
+  moduleChanges:
     - module: general
-      changes: 
+      changes:
         - title: Added Slovak language
     - module: capability
-      changes: 
+      changes:
         - title: Fixed errors in production unit sorting options
