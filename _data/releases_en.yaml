@@ -1,3 +1,12 @@
+- version: 2.9.46
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Identification and marking of repeated measurements
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Added widget "Last order metadata value"
 - version: 2.9.45
   moduleChanges:
     - module: general

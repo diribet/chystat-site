@@ -1,3 +1,12 @@
+- version: 2.9.46
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Identifikace a značení opakovaných měření
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Přidán widget "Hodnota metadat poslední zakázky"
 - version: 2.9.45
   moduleChanges:
     - module: general
