@@ -1,3 +1,14 @@
+- version: 2.9.47
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Grafika "Přehled znaků" je dostupná pro všechny moduly
+        - title: Upload - přidán CSV parser
+    - module: kpi
+      changes:
+        - title: Obrazovka informující o načítání dat
+        - title: Vylepšený layout přehledu
+        - title: Optimalizace využití paměti
 - version: 2.9.46
   moduleChanges:
     - module: general
