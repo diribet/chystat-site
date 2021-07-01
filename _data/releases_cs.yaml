@@ -1,3 +1,8 @@
+- version: 2.9.48
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.9.47
   moduleChanges:
     - module: general
