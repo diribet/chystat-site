@@ -1,3 +1,9 @@
+- version: 2.9.50
+  moduleChanges:
+    - module: general
+      changes:
+        - title: New graphics "Histogram"
+        - title: Upload - add JSON parser
 - version: 2.9.49
   moduleChanges:
     - module: general
