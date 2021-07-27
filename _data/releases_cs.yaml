@@ -1,3 +1,11 @@
+- version: 2.9.51
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - možnost archivace datalogu v mySCADA datasource
+    - module: orders
+      changes:
+        - title: Export metadat zakázek do XLSX
 - version: 2.9.50
   moduleChanges:
     - module: general

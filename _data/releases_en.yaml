@@ -1,3 +1,11 @@
+- version: 2.9.51
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - datalogs can be archived in mySCADA datasources
+    - module: orders
+      changes:
+        - title: Export orders metadata to XLSX file
 - version: 2.9.50
   moduleChanges:
     - module: general
