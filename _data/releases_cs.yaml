@@ -1,3 +1,11 @@
+- version: 2.9.52
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravené zaokrouhlování v grafice "Přehled znaků"
+    - module: orders
+      changes:
+        - title: Export metadat zakázek do CSV
 - version: 2.9.51
   moduleChanges:
     - module: general

@@ -1,3 +1,11 @@
+- version: 2.9.52
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Fixed rounding issues in graphics "Characteristics overview"
+    - module: orders
+      changes:
+        - title: Export orders metadata to CSV file
 - version: 2.9.51
   moduleChanges:
     - module: general
