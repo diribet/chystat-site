@@ -1,3 +1,9 @@
+- version: 2.9.53
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Upload API - added support for more data formats (Upload parsers)
 - version: 2.9.52
   moduleChanges:
     - module: general

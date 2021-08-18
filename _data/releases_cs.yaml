@@ -1,3 +1,9 @@
+- version: 2.9.53
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Upload API - přidána podpora pro jiné datové formáty (Upload parsery)
 - version: 2.9.52
   moduleChanges:
     - module: general
