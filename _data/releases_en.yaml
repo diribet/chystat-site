@@ -1,3 +1,10 @@
+- version: 2.9.55
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Added tooltip to the "Histogram" graphics
+        - title: Improved toolbar with paging buttons
 - version: 2.9.54
   moduleChanges:
     - module: general

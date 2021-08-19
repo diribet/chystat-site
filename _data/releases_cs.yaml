@@ -1,3 +1,10 @@
+- version: 2.9.55
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Tooltip v grafice "Histogram"
+        - title: Vylepšené chování tlačítek pro stránkovaní
 - version: 2.9.54
   moduleChanges:
     - module: general
