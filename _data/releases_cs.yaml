@@ -1,3 +1,18 @@
+- version: 2.9.57
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Křivky - přidána komprese signálových dat
+        - title: Sjednocené menu pro stažení dat v grafice "Report"
+    - module: kpi
+      changes:
+        - title: Opravené lokalizované názvy dimenzí a indikátorů v administraci
+- version: 2.9.56
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.9.55
   moduleChanges:
     - module: general

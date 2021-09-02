@@ -1,3 +1,18 @@
+- version: 2.9.57
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Curves - added compression of signal data
+        - title: Improved "download data" menu in the "Report" graphics
+    - module: kpi
+      changes:
+        - title: Fixed localized names of dimensions and indicator definitions in administration
+- version: 2.9.56
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.9.55
   moduleChanges:
     - module: general
