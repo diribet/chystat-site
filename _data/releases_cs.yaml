@@ -4,7 +4,8 @@
       changes:
         - title: Opravy drobných chyb
         - title: Křivky - přidána komprese signálových dat
-        - title: Sjednocené menu pro stažení dat v grafice "Report"
+        - title: Grafika "Report" - Sjednocené menu pro stažení dat
+        - title: Grafika "Report" - Rozdělené nastavení nominální hodnoty pro jednostranné/oboustranné tolerance
     - module: kpi
       changes:
         - title: Opravené lokalizované názvy dimenzí a indikátorů v administraci

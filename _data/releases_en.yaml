@@ -4,7 +4,8 @@
       changes:
         - title: Minor bug fixes
         - title: Curves - added compression of signal data
-        - title: Improved "download data" menu in the "Report" graphics
+        - title: Graphics "Report" - Improved "download data" menu
+        - title: Graphics "Report" - Configuration of nominal value splitted for one-sided/two-sided tolerances
     - module: kpi
       changes:
         - title: Fixed localized names of dimensions and indicator definitions in administration
