@@ -1,3 +1,9 @@
+- version: 2.9.58
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - možnost zvolit vlastní parser při testování transformací
+        - title: Grafika s detailem - možnost konfigurace rozložení grafik
 - version: 2.9.57
   moduleChanges:
     - module: general

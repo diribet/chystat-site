@@ -1,3 +1,9 @@
+- version: 2.9.58
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - custom parsers are available for testing transformations
+        - title: Graphic with detail - configuration of graphics layout
 - version: 2.9.57
   moduleChanges:
     - module: general
