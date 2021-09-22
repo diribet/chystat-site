@@ -1,3 +1,21 @@
+- version: 2.9.61
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Grafika "Přehled znaků" - Vylepšené popisky v návrháři
+- version: 2.9.60
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Grafika "Průběh hodnot" - Normování lze ve výchozím stavu zapnout/vypnout
+    - module: capability
+      changes:
+        - title: Grafika "Histogram" - Lze definovat hodnotící algoritmus
+- version: 2.9.59
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Grafika "Report" a "Přehled znaků" - Možnost definovat typ výchozího řazení
 - version: 2.9.58
   moduleChanges:
     - module: general

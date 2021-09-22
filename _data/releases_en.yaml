@@ -1,3 +1,21 @@
+- version: 2.9.61
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Graphics "Characteristics overview" - improved labels in designer
+- version: 2.9.60
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Graphics "Value chart" - normalization can be turned on/off by default
+    - module: capability
+      changes:
+        - title: Graphics "Histogram" - configuration of evaluating algorithm
+- version: 2.9.59
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Graphics "Report" and "Characteristics overview" - configuration of default ordering type
 - version: 2.9.58
   moduleChanges:
     - module: general
