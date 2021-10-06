@@ -1,3 +1,9 @@
+- version: 2.9.62
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Upload - možnost zvolit mySCADA parser při testování transformací
 - version: 2.9.61
   moduleChanges:
     - module: general

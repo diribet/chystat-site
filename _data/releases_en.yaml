@@ -1,3 +1,9 @@
+- version: 2.9.62
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Upload - mySCADA parsers are available for testing transformations
 - version: 2.9.61
   moduleChanges:
     - module: general
