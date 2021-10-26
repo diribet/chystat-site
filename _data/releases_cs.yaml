@@ -1,3 +1,17 @@
+- version: 2.9.64
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Aplikace nově vyžaduje Javu 17
+        - title: Opravena identifikace opakovaných měření v případě prázdných k-klíčů identifikátoru měření
+        - title: Vylepšená notifikace nových komentářů
+        - title: Upload - vylepšené formátování výstupu při testování transformací
+        - title: Upload - pro testování transformací lze použít parser "AQDEF in JSON"
+        - title: Grafika "Report" - Rozdělené nastavení nominální hodnoty pro jednostranné/oboustranné tolerance a fyzikální meze
+        - title: Grafika "Průběh hodnot" - opravené vykreslování meze jako pásma na pozadí v případě hodnoty meze 0
+    - module: capability
+      changes:
+        - title: Opravené zobrazení hierarchie strojů
 - version: 2.9.63
   moduleChanges:
     - module: general

@@ -1,3 +1,17 @@
+- version: 2.9.64
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Java 17 is now required
+        - title: Fixed identification of repeated mesurements in case of empty k-keys used as identifier of measurement
+        - title: Improved comments notification
+        - title: Upload - improved output formatting when testing transformations
+        - title: Upload - add "AQDEF in JSON" parser for transformations testing
+        - title: Graphics "Report" - Configuration of nominal value splitted for one-sided/two-sided tolerances and natural limits
+        - title: Graphics "Value chart" - fix render of boundary limit as background in case the limit is 0
+    - module: capability
+      changes:
+        - title: Fixed machine hierarchy view
 - version: 2.9.63
   moduleChanges:
     - module: general
