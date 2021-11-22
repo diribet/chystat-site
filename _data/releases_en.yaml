@@ -1,3 +1,20 @@
+- version: 2.9.65
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Health check API implemented
+        - title: Reduced number of created WebSocket connections
+        - title: Upload - MySCADA upload timeout increased
+        - title: Grafika "Value chart" - any data set can be isolated by doubleclick on the legend
+        - title: Grafika "Report" - Add support for nominal and ordinal characteristics
+        - title: Grafika "Curves" - when using K0004 as a piece identifier, the identifiers are sorted in descending order
+        - title: Grafika "Curves" - symbols are visible in the legend
+    - module: monitoring
+      changes:
+        - title: In the administration it is possible to display where the detail tab in the master-detail tab is used
+    - module: capability
+      changes:
+        - title: Fixed display of relative / absolute values in the Capability value and status widgets
 - version: 2.9.64
   moduleChanges:
     - module: general
