@@ -1,10 +1,16 @@
+- version: 2.9.66
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Export dat z grafik - použije se nakonfigurovaná znaková sada
+        - title: Export dat z grafik - opravena chyba při exportu ve formátu AQDEF in flat JSON
 - version: 2.9.65
   moduleChanges:
     - module: general
       changes:
         - title: Implementace health check API
         - title: Optimalizace vytváření WebSocket spojení
-        - title: Upload - zvýšený timeout pro MySCADA upload
+        - title: Upload - zvýšený timeout pro mySCADA upload
         - title: Grafika "Průběh hodnot" - izolace datové sady pomocí dvojkliku v legendě
         - title: Grafika "Report" - Přidána podpora pro nominální a ordinální veličiny
         - title: Grafika "Křivky" - při použití K0004 jako identifikátoru kusu jsou identifikátory řazené sestupně
