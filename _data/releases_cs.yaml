@@ -1,3 +1,11 @@
+- version: 2.9.67
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Skriptovaný parser - dokumentace DSL
+    - module: monitoring
+      changes:
+        - title: Nový přehled monitoringu - vylepšené zoomování, filtry a mnoho dalšího
 - version: 2.9.66
   moduleChanges:
     - module: general

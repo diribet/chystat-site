@@ -1,3 +1,11 @@
+- version: 2.9.67
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Scripted parser - DSL documentation
+    - module: monitoring
+      changes:
+        - title: New monitoring overview - improved zoom, filters and much more
 - version: 2.9.66
   moduleChanges:
     - module: general
