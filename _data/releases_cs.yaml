@@ -1,3 +1,12 @@
+- version: 2.9.68
+  moduleChanges:
+    - module: monitoring
+      changes:
+        - title: Tlačítko na reset zoomu
+        - title: Opravy drobných chyb
+    - module: kpi
+      changes:
+        - title: Oprava chyby při zavírání okna detailu
 - version: 2.9.67
   moduleChanges:
     - module: general
