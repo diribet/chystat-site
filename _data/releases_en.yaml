@@ -1,3 +1,11 @@
+- version: 2.9.69
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Fixed filtering of displayed machines based on user permissions
 - version: 2.9.68
   moduleChanges:
     - module: monitoring

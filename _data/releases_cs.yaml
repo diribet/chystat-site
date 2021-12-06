@@ -1,3 +1,11 @@
+- version: 2.9.69
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Oprava filtrování zobrazovaných strojů na základě uživatelských oprávnění
 - version: 2.9.68
   moduleChanges:
     - module: monitoring
