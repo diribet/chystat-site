@@ -1,3 +1,9 @@
+- version: 2.9.70
+  moduleChanges:
+    - module: general
+      changes:
+        - title: API - added simpler authentication using API Token key for secure TLS connections
+        - title: Upload transformations - added functions for working with catalogs
 - version: 2.9.69
   moduleChanges:
     - module: general

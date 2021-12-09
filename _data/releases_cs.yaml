@@ -1,3 +1,9 @@
+- version: 2.9.70
+  moduleChanges:
+    - module: general
+      changes:
+        - title: API - přidána jednodušší autentifikace pomocí API Token key pro zabezpečená TLS spojení
+        - title: Upload transformace - přidány funkce pro práci s katalogy
 - version: 2.9.69
   moduleChanges:
     - module: general
