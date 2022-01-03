@@ -1,3 +1,25 @@
+- version: 2.9.73
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - optimalizace a drobná vylepšení
+        - title: Nová grafika "Sloupcový graf"
+    - module: monitoring
+      changes:
+        - title: V přehledech přidána podpora pro nastavení přiblížení na dotykových zařízeních
+- version: 2.9.72
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.9.71
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Opravené zobrazení hierarchií v přehledech v případě strojů bez dat
 - version: 2.9.70
   moduleChanges:
     - module: general

@@ -1,3 +1,25 @@
+- version: 2.9.73
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - optimalization and small improvements
+        - title: New graphics "Bar chart"
+    - module: monitoring
+      changes:
+        - title: Add support for touch devices to zoom in overview
+- version: 2.9.72
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.9.71
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Fixed visibility of hierarchy in case there are machines without pieces
 - version: 2.9.70
   moduleChanges:
     - module: general
