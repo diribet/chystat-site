@@ -1,3 +1,9 @@
+- version: 2.9.75
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Added support for K4xxx K-keys to the measured values API
 - version: 2.9.74
   moduleChanges:
     - module: general

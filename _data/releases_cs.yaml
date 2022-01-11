@@ -1,3 +1,9 @@
+- version: 2.9.75
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Přidána podpora pro K4xxx K-klíče do API naměřených hodnot
 - version: 2.9.74
   moduleChanges:
     - module: general
