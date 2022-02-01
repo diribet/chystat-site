@@ -1,3 +1,9 @@
+- version: 2.9.76
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Graphics "Report" - Optimalization and performance improvements
 - version: 2.9.75
   moduleChanges:
     - module: general
