@@ -1,3 +1,12 @@
+- version: 2.9.77
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Fixed filtering of "Bar chart" graphics when used in master-detail tab
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Small improvements of the "Top" widget from the Lucra module
 - version: 2.9.76
   moduleChanges:
     - module: general

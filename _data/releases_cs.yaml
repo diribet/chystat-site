@@ -1,3 +1,12 @@
+- version: 2.9.77
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Oprava chování grafiky "Sloupcový graf" použité v master-detail záložce
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Drobné úpravy a vylepšení widgetu "Top" z modulu Lucra
 - version: 2.9.76
   moduleChanges:
     - module: general
