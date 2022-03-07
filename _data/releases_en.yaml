@@ -1,3 +1,11 @@
+- version: 2.9.79
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: kpi
+      changes:
+        - title: Only dimension elements visible in the given overview are visible while editing user filter
 - version: 2.9.78
   moduleChanges:
     - module: general

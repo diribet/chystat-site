@@ -1,3 +1,11 @@
+- version: 2.9.79
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: kpi
+      changes:
+        - title: Při vytváření uživatelských filtrů se zobrazují jen elementy dimenzí viditelné v daném přehledu
 - version: 2.9.78
   moduleChanges:
     - module: general
