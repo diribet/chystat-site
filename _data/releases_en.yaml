@@ -1,3 +1,11 @@
+- version: 2.10.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: "[API V2](https://apidocs.chystat.com/v2/2.10.0) - modified API endpoint for the Ordo module"
+    - module: orders
+      changes:
+        - title: Redesigned ordo workflow - configurable states and evaluations, improved automatic flow and evaluation and much more
 - version: 2.9.79
   moduleChanges:
     - module: general
