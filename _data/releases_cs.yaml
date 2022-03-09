@@ -2,7 +2,7 @@
   moduleChanges:
     - module: general
       changes:
-        - title: "[API V2](https://apidocs.chystat.com/v2/2.10.0) - upravený API endpoint pro modul zakázek"
+        - title: "[API v2](https://apidocs.chystat.com/v2/2.10.0) - upravený API endpoint pro modul zakázek"
     - module: orders
       changes:
         - title: Přepracované workflow zakázek - konfigurovatelné stavy a vyhodnocení, vylepšené automatické flow a vyhodnocení a mnoho dalšího
