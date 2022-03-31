@@ -1,3 +1,18 @@
+- version: 2.10.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Zdroje dokumentů - přidána podpora pro číselná metadata
+    - module: orders
+      changes:
+        - title: V přehledu zakázek lze zobrazit čárový kód čísla zakázky
+    - module: monitoring
+      changes:
+          - title: Přidán konfigurovatelný tooltip kusu
+    - module: kpi
+      changes:
+        - title: Opraveno filtrování přehledů při větším počtu elementů dimenzí než 1000
 - version: 2.10.0
   moduleChanges:
     - module: general

@@ -1,3 +1,18 @@
+- version: 2.10.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Document sources - added support for numeric metadata
+    - module: orders
+      changes:
+        - title: Added support to show barcode with order code within an overview
+    - module: monitoring
+      changes:
+        - title: Added configurable piece tooltip
+    - module: kpi
+      changes:
+        - title: Fixed overview filtering in case of more than 1000 dimenzion elements
 - version: 2.10.0
   moduleChanges:
     - module: general
