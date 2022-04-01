@@ -1,3 +1,10 @@
+- version: 2.10.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Oprava bezpečnostní zranitelnosti ve Spring Framework (CVE-2022-22965)
+        - title: Přidán jazyk Rumunština
+        - title: Odstraněny jazyky: Ruština, Dánština a Maďarština
 - version: 2.10.1
   moduleChanges:
     - module: general
