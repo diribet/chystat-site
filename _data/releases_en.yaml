@@ -2,9 +2,9 @@
   moduleChanges:
     - module: general
       changes:
-        - title: Fixed RCE security vulnerability in Spring Framework (CVE-2022-22965)
+        - title: "Fixed RCE security vulnerability in Spring Framework ([CVE-2022-22965](https://tanzu.vmware.com/security/cve-2022-22965))"
         - title: Added the Romanian language
-        - title: Removed languages: Russian, Danish, and Hungarian
+        - title: "Removed languages: Russian, Danish, and Hungarian"
 - version: 2.10.1
   moduleChanges:
     - module: general
