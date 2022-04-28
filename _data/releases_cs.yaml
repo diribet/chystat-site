@@ -1,3 +1,33 @@
+- version: 2.10.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: capability
+      changes:
+        - title: Možnost barvit výrobní celky v přehledu podle nejhoršího znaku
+- version: 2.10.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.10.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Jádrové odhady hustoty pravděpodobnosti respektují přirozené meze
+    - module: monitoring
+      changes:
+        - title: Nastavení zobrazované hierarchie přesunuto do nastavení jednotlivých přehledů
+        - title: Optimalizace výkonu
+    - module: orders
+      changes:
+        - title: Nastavení automatického generování čísel zakázek pro jednotlivé úrovně hierarchie
+        - title: Rozšířené možnosti kritérií pro automatické změny stavu a vyhodnocení
+    - module: kpi
+      changes:
+        - title: Optimalizace výkonu
 - version: 2.10.2
   moduleChanges:
     - module: general

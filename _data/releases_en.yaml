@@ -1,3 +1,33 @@
+- version: 2.10.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: capability
+      changes:
+        - title: Option to colour production units in the overview according to the worst characteristic
+- version: 2.10.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.10.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Kernel density estimates take into account natural limits
+    - module: monitoring
+      changes:
+        - title: Hierarchy display settings moved to individual overview settings
+        - title: Performance optimization
+    - module: orders
+      changes:
+        - title: Automatic order code generator settings possible for each hierarchy level
+        - title: Extended criteria options for automatic state changes and automatic evaluation
+    - module: kpi
+      changes:
+        - title: Performance optimization
 - version: 2.10.2
   moduleChanges:
     - module: general
