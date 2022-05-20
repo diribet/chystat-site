@@ -1,3 +1,18 @@
+- version: 2.10.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Nastavení mapování k-klíčů na pole zakázky pro jednotlivé úrovně hierarchie
+        - title: Přidána oprávnění na dílčí hodnocení
+    - module: capability
+      changes:
+        - title: Optimalizace výpočtu výrobních celků pro Oracle DBMS
+    - module: monitoring
+      changes:
+        - title: V nastavení přehledu lze definovat filtr zobrazovaných strojů
 - version: 2.10.5
   moduleChanges:
     - module: general

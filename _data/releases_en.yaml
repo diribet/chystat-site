@@ -1,3 +1,18 @@
+- version: 2.10.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Configuration of "k-key" to order data field mapping possible for each hierarchy level
+        - title: Added permissions for individual evaluations
+    - module: capability
+      changes:
+        - title: Optimization of production unit calculation for Oracle DBMS
+    - module: monitoring
+      changes:
+        - title: Machine hierarchy filter in overview settings
 - version: 2.10.5
   moduleChanges:
     - module: general
