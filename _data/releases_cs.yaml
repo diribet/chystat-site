@@ -1,3 +1,9 @@
+- version: 2.10.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Vylepšené automatické obnovování spojení se serverem
 - version: 2.10.6
   moduleChanges:
     - module: general

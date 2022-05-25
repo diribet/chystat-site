@@ -1,3 +1,9 @@
+- version: 2.10.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Improved automatic reconnection to the server
 - version: 2.10.6
   moduleChanges:
     - module: general
