@@ -1,3 +1,13 @@
+- version: 2.10.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Fixed "Remember me" function in login when using LDAP authentication
+        - title: Identification of alarms for nominal and ordinal values
+    - module: capability
+      changes:
+        - title: Module Capability renamed to Crustallus
 - version: 2.10.7
   moduleChanges:
     - module: general

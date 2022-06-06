@@ -1,3 +1,13 @@
+- version: 2.10.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Oprava funkce "Zapamatovat" při přihlašování v kombinaci s LDAP autentifikací
+        - title: Identifikace alarmů pro nominální a ordinální hodnoty
+    - module: capability
+      changes:
+        - title: Modul Capability přejmenován na Crustallus
 - version: 2.10.7
   moduleChanges:
     - module: general
