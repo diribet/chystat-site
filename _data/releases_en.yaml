@@ -1,3 +1,10 @@
+- version: 2.10.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: API - added support to query measured values matching k-keys without value
+        - title: The "Documents" tab supports can display documents for historical values when configured set as a detail in the master-detail tab
 - version: 2.10.8
   moduleChanges:
     - module: general

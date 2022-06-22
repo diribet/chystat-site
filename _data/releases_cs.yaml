@@ -1,3 +1,10 @@
+- version: 2.10.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: API - lze vyhledávat naměřené hodnoty podle k-klíče bez hodnoty
+        - title: Záložka s dokumenty podporuje zobrazení dokumentů pro historické hodnoty v případě že je nastavena jako detail v master-detail záložce
 - version: 2.10.8
   moduleChanges:
     - module: general
