@@ -1,3 +1,14 @@
+- version: 2.10.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Použití originálního názvu souboru při stahování na záložce s dokumenty
+        - title: Upload - implementace datového zdroje pro platformu Kafka
+        - title: Upload - přidána možnost definovat preprocesory pro předzpracování nahrávaných dat
+    - module: capability
+      changes:
+        - title: V modulu lze použít záložku s dokumenty
 - version: 2.10.9
   moduleChanges:
     - module: general

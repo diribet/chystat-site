@@ -1,3 +1,14 @@
+- version: 2.10.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Use the original file name when downloading on the documents tab
+        - title: Upload - data source for the Kafka platform
+        - title: Upload - added the option to define preprocessors for preprocessing the raw uploaded data
+    - module: capability
+      changes:
+        - title: Add support for the documents tab in the module
 - version: 2.10.9
   moduleChanges:
     - module: general
