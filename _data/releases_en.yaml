@@ -1,3 +1,9 @@
+- version: 2.10.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Increased cache size
 - version: 2.10.13
   moduleChanges:
     - module: general

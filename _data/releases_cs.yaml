@@ -1,3 +1,9 @@
+- version: 2.10.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Zvýšena velikost mezipaměti
 - version: 2.10.13
   moduleChanges:
     - module: general
