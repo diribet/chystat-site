@@ -1,3 +1,9 @@
+- version: 2.10.15
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vyšší heart-beat timeout pro WebSocket spojení kvůli lepší stabilitě v případě nektivní záložky
+        - title: Grafika "Report" - opravené barvení textů a pozadí sloupečků a záhlaví
 - version: 2.10.14
   moduleChanges:
     - module: general

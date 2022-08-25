@@ -1,3 +1,9 @@
+- version: 2.10.15
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Increased heart-beat timeout for WebSocket connections for better stability in case of inactive page
+        - title: Graphics "Report" - fixed background and foreground colors of columns and headers
 - version: 2.10.14
   moduleChanges:
     - module: general
