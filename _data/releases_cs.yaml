@@ -1,3 +1,9 @@
+- version: 2.10.16
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Podpora prohlížeče Mozilla Firefox v poslední ESR verzi
 - version: 2.10.15
   moduleChanges:
     - module: general

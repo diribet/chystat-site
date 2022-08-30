@@ -1,3 +1,9 @@
+- version: 2.10.16
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: We support the latest Mozilla Firefox ESR version
 - version: 2.10.15
   moduleChanges:
     - module: general
@@ -30,7 +36,7 @@
     - module: general
       changes:
         - title: Minor bug fixes
-        - title: Use the original file name when downloading on the documents tab
+        - title: The original file name is used when downloading on the documents tab
         - title: Upload - data source for the Kafka platform
         - title: Upload - added the option to define preprocessors for preprocessing the raw uploaded data
     - module: capability
