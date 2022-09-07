@@ -1,3 +1,12 @@
+- version: 2.10.17
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved shutdown process of upload
+        - title: Box-plot graphic - fixed tooltip layout
+    - module: monitoring
+      changes:
+        - title: Fixed memory leak in overview when opened in an inactive browser tab
 - version: 2.10.16
   moduleChanges:
     - module: general
