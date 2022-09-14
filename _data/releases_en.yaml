@@ -1,3 +1,8 @@
+- version: 2.10.19
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.10.18
   moduleChanges:
     - module: general
