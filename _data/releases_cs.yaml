@@ -1,3 +1,13 @@
+- version: 2.10.22
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.10.21
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.10.20
   moduleChanges:
     - module: general
