@@ -1,3 +1,10 @@
+- version: 2.10.23
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - podpora zpracování JSON dat v preprocesorech
+        - title: Upload - podpora prázdných textů v klíčových polích
+        - title: Grafiky - přirozené řazení skupin podle nadpisů
 - version: 2.10.22
   moduleChanges:
     - module: general
