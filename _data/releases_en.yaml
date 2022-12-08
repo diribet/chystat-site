@@ -1,3 +1,15 @@
+- version: 2.10.24
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Tooltip in curves
+        - title: Report and Characteristics overview graphics - improved configuration of table columns
+    - module: kpi
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Minor bug fixes
 - version: 2.10.23
   moduleChanges:
     - module: general

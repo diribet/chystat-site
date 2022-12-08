@@ -1,3 +1,15 @@
+- version: 2.10.24
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Tooltip v křivkách
+        - title: Grafiky Report a Přehled znaků - vylepšená konfigurace sloupců tabulky
+    - module: kpi
+      changes:
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.10.23
   moduleChanges:
     - module: general
