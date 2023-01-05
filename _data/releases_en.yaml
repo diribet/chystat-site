@@ -1,3 +1,8 @@
+- version: 2.10.26
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.10.25
   moduleChanges:
     - module: general
