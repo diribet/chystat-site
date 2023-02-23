@@ -1,3 +1,15 @@
+- version: 2.11.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Definition of hierarchies for all catalogues
+        - title: Improved definition of computation Algorithms
+        - title: Algorithm selection moved to "Characteristic overview" graphic definition
+    - module: monitoring
+      changes:
+        - title: Define different hierarchies for displaying in overviews
+        - title: Pieces are stored in the database instead of memory
+        - title: Improved transfer of indicator data to Lucra
 - version: 2.10.27
   moduleChanges:
     - module: general

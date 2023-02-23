@@ -1,3 +1,15 @@
+- version: 2.11.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Definice hierarchií pro všechny katalogy
+        - title: Vylepšena definice výpočetních Algoritmů
+        - title: Volba Algoritmu přesunuta do definice grafiky "Přehled znaků"
+    - module: monitoring
+      changes:
+        - title: Možnost definovat různé hierarchie pro zobrazení v přehledech
+        - title: Kusy se místo do paměti ukládají do databáze
+        - title: Vylepšený přenos dat indikátorů do Lucra
 - version: 2.10.27
   moduleChanges:
     - module: general
