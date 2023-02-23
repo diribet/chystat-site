@@ -1,3 +1,9 @@
+- version: 2.10.27
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Improved throughput of the "Kafka" data source
 - version: 2.10.26
   moduleChanges:
     - module: general

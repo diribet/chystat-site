@@ -1,3 +1,9 @@
+- version: 2.10.27
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Vylepšena propustnost "Kafka" zdroje dat
 - version: 2.10.26
   moduleChanges:
     - module: general
