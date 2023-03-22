@@ -1,3 +1,18 @@
+- version: 2.11.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Curves - configuration of default X offset
+        - title: Minor bug fixes
+    - module: capability
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Minor bug fixes
 - version: 2.11.1
   moduleChanges:
     - module: general

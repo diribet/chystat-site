@@ -1,3 +1,18 @@
+- version: 2.11.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Křivky - možnost konfigurovat výchozí offset X
+        - title: Opravy drobných chyb
+    - module: capability
+      changes:
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.11.1
   moduleChanges:
     - module: general
