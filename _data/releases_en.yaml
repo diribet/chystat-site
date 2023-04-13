@@ -1,3 +1,8 @@
+- version: 2.11.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.11.2
   moduleChanges:
     - module: general
