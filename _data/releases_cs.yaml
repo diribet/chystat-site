@@ -1,3 +1,14 @@
+- version: 2.11.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Vylepšené načítání grafik v detailech
+        - title: Zvětšení pomocí kolečka myši v grafikách
+        - title: Histogram - odhad hustory pravděpodobnosti pomocí směsi normálních rozdělení
+    - module: monitoring
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.11.3
   moduleChanges:
     - module: general

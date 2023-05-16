@@ -1,3 +1,14 @@
+- version: 2.11.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Improved graphic loading in detail views
+        - title: Zoom with mouse wheel in graphics
+        - title: Histogram - probability density estimation using Gaussian mixture
+    - module: monitoring
+      changes:
+        - title: Minor bug fixes
 - version: 2.11.3
   moduleChanges:
     - module: general
