@@ -1,3 +1,19 @@
+- version: 2.11.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Vylepšené emailové upozornění na nové komentáře
+    - module: capability
+      changes:
+        - title: Vylepšený filtr dat výrobních celků
+    - module: orders
+      changes:
+        - title: Vylepšený vzhled tlačítek pro tisk průvodek a otevírání myBeDa / Procella
+    - module: monitoring
+      changes:
+        - title: Možnost měnit pořadí uživatelských filtrů hierarchie
+        - title: Vylepšené zobrazení datumů na časové ose
 - version: 2.11.4
   moduleChanges:
     - module: general

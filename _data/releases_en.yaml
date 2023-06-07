@@ -1,3 +1,19 @@
+- version: 2.11.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Improved email notifications about new comments
+    - module: capability
+      changes:
+        - title: Improved production unit data filter
+    - module: orders
+      changes:
+        - title: Improved layout of accompanying sheet buttons and myBeDa / Procella buttons
+    - module: monitoring
+      changes:
+        - title: Ability to change the order of user hierarchy filters
+        - title: Improved display of dates on the timeline
 - version: 2.11.4
   moduleChanges:
     - module: general
