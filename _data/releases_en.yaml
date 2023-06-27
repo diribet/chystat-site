@@ -1,3 +1,8 @@
+- version: 2.12.0
+  moduleChanges:
+    - module: dashboard
+      changes:
+        - title: Module redesign, improved editing mode
 - version: 2.11.7
   moduleChanges:
     - module: general
