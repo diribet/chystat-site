@@ -1,3 +1,11 @@
+- version: 2.12.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Added performance metrics to administration
 - version: 2.12.0
   moduleChanges:
     - module: dashboard
