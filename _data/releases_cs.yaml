@@ -1,3 +1,11 @@
+- version: 2.12.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Možnost definovat kritérium na procházené kusy v indikátorech "Aktuální hodnota znaku" a "Hodnoty K-klíčů aktuální hodnoty / znaku / dílu"
 - version: 2.12.1
   moduleChanges:
     - module: general

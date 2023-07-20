@@ -1,3 +1,11 @@
+- version: 2.12.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Option to define a criterion for the traversed pieces in the indicators "Current value of characteristic" and "K-key values of the current value / characteristic / part"
 - version: 2.12.1
   moduleChanges:
     - module: general
