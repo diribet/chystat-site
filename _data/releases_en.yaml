@@ -1,3 +1,18 @@
+- version: 2.12.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Option to configure detail tabs for each overview
+        - title: Added criterion "All values of the piece match the criterion"
+        - title: Administrators can edit all overviews
+        - title: Optimization of indicator calculation
+    - module: dashboard
+      changes:
+        - title: Horizontal text alignment setting in widgets
+        - title: Limit the number of widgets loaded in parallel
 - version: 2.12.2
   moduleChanges:
     - module: general

@@ -1,3 +1,18 @@
+- version: 2.12.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: monitoring
+      changes:
+        - title: Možnost konfigurovat záložky detailu pro každý přehled
+        - title: Přidané kritérium "Všechny hodnoty kusu vyhovují kritériu"
+        - title: Administrátoři mohou editovat všechny přehledy
+        - title: Optimalizace výpočtu indikátorů
+    - module: dashboard
+      changes:
+        - title: Nastavení horizontálního zarovnání textu ve widgetech
+        - title: Omezení počtu paralelně načítaných widgetů
 - version: 2.12.2
   moduleChanges:
     - module: general
