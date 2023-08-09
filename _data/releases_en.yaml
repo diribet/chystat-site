@@ -3,6 +3,9 @@
     - module: general
       changes:
         - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Displaying dashboard references in widgets
 - version: 2.12.3
   moduleChanges:
     - module: general

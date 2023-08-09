@@ -3,6 +3,9 @@
     - module: general
       changes:
         - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Zobrazení referencí na dashboard ve widgetech
 - version: 2.12.3
   moduleChanges:
     - module: general
