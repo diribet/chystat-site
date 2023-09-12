@@ -1,3 +1,26 @@
+- version: 2.12.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - add option to clone datasources
+        - title: Graphics "Value chart" - improved x-axis configuration - sorting, labels
+        - title: Graphics "Parallel coordinates" - add option for default visibility of limits
+        - title: Grafika "Curves" - add default offset XY and Y
+        - title: Improved display of category labels in all bar charts
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Displaying the context in the detail header
+        - title: Order actions can be performed in the detail header
+    - module: monitoring
+      changes:
+        - title: Improved loading of partial indicator values
+        - title: Improved loading of the piece detail tabs
+        - title: Displaying hierarchy references
+    - module: dashboard
+      changes:
+        - title: New widget "Info icon"
+        - title: Fixed selection mode in dashboard overview on touch screen devices
 - version: 2.12.5
   moduleChanges:
     - module: general
