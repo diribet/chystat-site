@@ -1,3 +1,21 @@
+- version: 2.12.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Value chart - localized X axis title
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: New widget "Documents of a piece"
+- version: 2.12.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Option to edit criteria as a text query
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Optimization of dashboard loading speed
 - version: 2.12.6
   moduleChanges:
     - module: general

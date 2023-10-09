@@ -1,3 +1,21 @@
+- version: 2.12.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Průběh hodnot - lokalizovaný popisek osy X
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Nový widget "Dokumenty kusu"
+- version: 2.12.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Možnost editovat kritéria jako textový dotaz
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Optimalizace rychlosti načítání dashboardů
 - version: 2.12.6
   moduleChanges:
     - module: general
