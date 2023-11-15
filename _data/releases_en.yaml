@@ -1,3 +1,32 @@
+- version: 2.12.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: The application now requires Java 21
+        - title: Fixed behavior of text editor for transformations, parsers, and preprocessors
+        - title: Document sources settings were moved to the "General" section
+        - title: Graphics - headers are now defined in one place
+        - title: Graphics - fixed cell merging and splitting in the header configuration
+        - title: Graphics - improved behavior of the "Grouping and comparing" button and menu
+        - title: Graphics "Report" and "Characteristics overview" - faster rendering
+        - title: Graphics "Value chart" - automatic truncation of labels on the equidistant X-axis
+    - module: orders
+      changes:
+        - title: Display of column title in the list of columns
+    - module: monitoring
+      changes:
+        - title: Optimization of new pieces processing
+        - title: Added cache for indicator values for faster loading
+        - title: Items with an empty piece identifier are ignored during processing
+    - module: dashboard
+      changes:
+        - title: Modified dialog for selecting new widget type
+        - title: Fixed issue with flickering error states of widgets when loading a background image for the dashboard
+        - title: Maximum number of rows in the relative dashboard view increased from 99 to 999
+        - title: Widget "Lucra - Indicator Value" - added option to display numerator and denominator
+        - title: Widget "Lucra - Indicator Value" - added option to define custom background color
+        - title: Widget "Monitor - Piece Graphics" - added option to define criteria for traversing pieces
 - version: 2.12.8
   moduleChanges:
     - module: general

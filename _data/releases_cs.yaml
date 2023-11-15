@@ -1,3 +1,32 @@
+- version: 2.12.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Aplikace nově vyžaduje Javu 21
+        - title: Opravené chování editoru transformací, parserů a preprocesorů
+        - title: Nastavení zdrojů dokumentů bylo přesunuto do sekce "Obecné"
+        - title: Grafiky - hlavičky se nově definují na jednom místě
+        - title: Grafiky - opravené spojování a rozdělování buněk v hlavičce
+        - title: Grafiky - vylepšené chování tlačítka a menu "Seskupování a porovnávání"
+        - title: Grafiky "Report" a "Přehled znaků" - rychlejší vykreslení
+        - title: Grafika "Průběh hodnot" - automatické zkracování popisků ekvidistantní osy X
+    - module: orders
+      changes:
+        - title: Zobrazení nadpisu sloupce v seznamu sloupců
+    - module: monitoring
+      changes:
+        - title: Optimalizace zpracovávání nových kusů
+        - title: Přidána mezipaměť pro hodnoty indikátorů pro rychlejší načítání
+        - title: Hodnoty s prázdným identifikátorem kusu jsou při zpracovávání ignorovány
+    - module: dashboard
+      changes:
+        - title: Upravený dialog s výběrem typu widgetu
+        - title: Opravena chyba s probliknutím chybových stavů widgetů v případě načítání obrázku na pozadí dashboardu
+        - title: Maximální počet řádků v relativním zobrazení dashboardu zvýšen z 99 na 999
+        - title: Widget "Lucra - Hodnota indikátoru" - přidána možnost zobrazit čitatel a jmenovatel
+        - title: Widget "Lucra - Hodnota indikátoru" - přidána možnost definovat vlastní barvu pozadí
+        - title: Widget "Monitor - Grafika kusu" - přidána možnost definovat kritérium procházených kusů
 - version: 2.12.8
   moduleChanges:
     - module: general
