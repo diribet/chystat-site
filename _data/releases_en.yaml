@@ -1,3 +1,22 @@
+- version: 2.12.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.12.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Graphics "Report" - configure bold font for column
+        - title: Minor bug fixes
+- version: 2.12.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: New widget "Icon"
 - version: 2.12.9
   moduleChanges:
     - module: general

@@ -1,3 +1,22 @@
+- version: 2.12.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.12.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Grafika "Report" - možnost nastavit tučné písmo ve sloupci
+        - title: Opravy drobných chyb
+- version: 2.12.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Nový widget "Ikona"
 - version: 2.12.9
   moduleChanges:
     - module: general
