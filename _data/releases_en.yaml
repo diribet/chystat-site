@@ -1,3 +1,11 @@
+- version: 2.12.13
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: monitoring
+      changes:
+        - title: Displaying mark references
 - version: 2.12.12
   moduleChanges:
     - module: general
