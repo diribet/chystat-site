@@ -1,3 +1,9 @@
+- version: 2.12.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Upload - data source implementation for the MQTT protocol
 - version: 2.12.13
   moduleChanges:
     - module: general

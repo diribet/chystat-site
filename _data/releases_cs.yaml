@@ -1,3 +1,9 @@
+- version: 2.12.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Upload - implementace datového zdroje pro MQTT protokol
 - version: 2.12.13
   moduleChanges:
     - module: general
