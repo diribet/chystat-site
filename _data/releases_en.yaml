@@ -1,3 +1,13 @@
+- version: 2.12.16
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.12.15
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.12.14
   moduleChanges:
     - module: general
