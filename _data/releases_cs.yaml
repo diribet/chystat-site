@@ -1,3 +1,11 @@
+- version: 2.12.18
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vylepšené chování současného výběru více znaků v master-detail záložce u grafiky "Report" a "přehled znaků"
+        - title: Vylepšené chování maximalizace grafik v master-detail záložce
+        - title: Sjednocený vzhled ovládacích prvků v panelu nástrojů editace hlaviček
+        - title: Přidána podpora pro SASL PLAIN autentizaci u datového zdroje "Kafka"
 - version: 2.12.17
   moduleChanges:
     - module: general
