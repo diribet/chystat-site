@@ -1,3 +1,9 @@
+- version: 2.12.19
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Error notification disappears automatically after 1 minute
+        - title: Minor bug fixes
 - version: 2.12.18
   moduleChanges:
     - module: general

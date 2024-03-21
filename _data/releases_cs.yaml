@@ -1,3 +1,9 @@
+- version: 2.12.19
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Notifikace chyby zmizí automaticky po 1 minutě
+        - title: Opravy drobných chyb
 - version: 2.12.18
   moduleChanges:
     - module: general
