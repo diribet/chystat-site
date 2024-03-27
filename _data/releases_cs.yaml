@@ -1,3 +1,8 @@
+- version: 2.12.20
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.12.19
   moduleChanges:
     - module: general
