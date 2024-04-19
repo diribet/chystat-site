@@ -3,7 +3,7 @@
     - module: general
       changes:
         - title: Opravy drobných chyb
-        - title: Upload - přidán odkaz na dokumentaci Calculation Service
+        - title: Upload - přidán odkaz na dokumentaci pro Calculation Service
 - version: 2.12.20
   moduleChanges:
     - module: general
