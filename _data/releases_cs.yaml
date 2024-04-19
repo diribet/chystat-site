@@ -1,3 +1,9 @@
+- version: 2.12.21
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Upload - přidán odkaz na dokumentaci Calculation Service
 - version: 2.12.20
   moduleChanges:
     - module: general

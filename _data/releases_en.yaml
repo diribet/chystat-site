@@ -1,3 +1,9 @@
+- version: 2.12.21
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Upload - added Calculation Service documentation link
 - version: 2.12.20
   moduleChanges:
     - module: general
