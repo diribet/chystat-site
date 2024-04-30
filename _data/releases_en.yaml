@@ -1,3 +1,9 @@
+- version: 2.12.22
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: The "Report" and "Characteristic overview" graphics use scrolling instead of pagination
 - version: 2.12.21
   moduleChanges:
     - module: general

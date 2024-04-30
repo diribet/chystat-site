@@ -1,3 +1,9 @@
+- version: 2.12.22
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Grafika "Report" a "Přehled znaků" používá místo stránkování scrollování
 - version: 2.12.21
   moduleChanges:
     - module: general
