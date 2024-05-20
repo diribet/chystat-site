@@ -1,3 +1,15 @@
+- version: 2.12.23
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Master-Detail tab - change detail when selecting a piece in master graphics "Report"
+        - title: Minor bug fixes
+    - module: capability
+      changes:
+        - title: Fix capability calculation for characteristics with natural limit
+    - module: kpi
+      changes:
+        - title: Configurable number of decimal places for indicators
 - version: 2.12.22
   moduleChanges:
     - module: general
