@@ -1,3 +1,8 @@
+- version: 2.13.0
+  moduleChanges:
+    - module: dashboard
+      changes:
+        - title: Přidán nový modul "Fenestra Central" - v dashboardech lze zobrazovat widgety z jiných instancí
 - version: 2.12.23
   moduleChanges:
     - module: general

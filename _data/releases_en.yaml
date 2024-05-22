@@ -1,3 +1,8 @@
+- version: 2.13.0
+  moduleChanges:
+    - module: dashboard
+      changes:
+        - title: Added new module "Fenestra Central" - dashboards can display widgets from other instances
 - version: 2.12.23
   moduleChanges:
     - module: general
