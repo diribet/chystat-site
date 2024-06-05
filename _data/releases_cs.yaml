@@ -1,3 +1,14 @@
+- version: 2.13.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Uživatelská práva na editaci / mazání zakázek v určitém stavu
+    - module: dashboard
+      changes:
+        - title: Widget "Grafika kusu" - přidána možnost zvolit počet zobrazovaných grafů
 - version: 2.13.0
   moduleChanges:
     - module: dashboard

@@ -1,3 +1,14 @@
+- version: 2.13.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: User rights to edit/delete orders in a certain state
+    - module: dashboard
+      changes:
+        - title: Widget "Piece detail" - added option to configure the number of displayed graphs
 - version: 2.13.0
   moduleChanges:
     - module: dashboard
