@@ -1,3 +1,47 @@
+- version: 2.13.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: OK, but - automatic metadata mapping of feedback orders
+        - title: OK, but - all detected alarms are stored
+        - title: Upload - mySCADA datasource - configurable max. size of transferred batch
+        - title: Definition of historical values in the detail tabs using time
+        - title: Minor bug fixes
+- version: 2.13.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.13.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: No changes
+- version: 2.13.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: "OK, but" curves evaluation
+        - title: Minor bug fixes
+- version: 2.13.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.13.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Central Fenestra module for displaying widgets from other instances
+    - module: monitoring
+      changes:
+        - title: Display references to indicators
+    - module: orders
+      changes:
+        - title: Display previous activity when changing the status or evaluation of an order
 - version: 2.13.1
   moduleChanges:
     - module: general

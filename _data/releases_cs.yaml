@@ -1,3 +1,47 @@
+- version: 2.13.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: OK, ale - automatické mapování metadat zpětnovazebních zakázek
+        - title: OK, ale - ukládají se všechny nalezené alarmy
+        - title: Upload - mySCADA datasource - konfigurovatelná max. velikost přenášené dávky
+        - title: Definice historických hodnot v záložce detailu pomocí času
+        - title: Opravy drobných chyb
+- version: 2.13.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.13.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Žádné změny
+- version: 2.13.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Hodnocení "OK, ale" křivek
+        - title: Opravy drobných chyb
+- version: 2.13.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.13.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Modul centrální Fenestra pro zobrazení widgetů z jiných instancí
+    - module: monitoring
+      changes:
+        - title: Zobrazení referencí na indikátory
+    - module: orders
+      changes:
+        - title: Zobrazení předchozí aktivity při změně stavu a vyhodnocení zakázky.
 - version: 2.13.1
   moduleChanges:
     - module: general
