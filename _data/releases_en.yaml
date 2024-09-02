@@ -21,7 +21,7 @@
   moduleChanges:
     - module: general
       changes:
-        - title: "OK, but" curves evaluation
+        - title: Curves - "OK, but" evaluation
         - title: Minor bug fixes
 - version: 2.13.3
   moduleChanges:
