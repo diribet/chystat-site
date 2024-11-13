@@ -1,3 +1,50 @@
+- version: 2.14.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Klikatelné složky v cestě k dashboardu v editaci
+- version: 2.14.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: OK, ale - zobrazení stavu učení modelu a výkonnostních metrik
+- version: 2.14.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: OK, ale - alarm pro učící křivky
+        - title: Opravy drobných chyb
+    - module: dashboard
+      changes:
+        - title: Optimalizace načítání dat widgetů
+- version: 2.13.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Optimalizace načítání dat zakázek
+- version: 2.13.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.13.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.13.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Více možností mapování detailu uživatele při SAML autentifikaci
 - version: 2.13.8
   moduleChanges:
     - module: general

@@ -1,3 +1,50 @@
+- version: 2.14.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Clickable folders in dahsboard path in dashboard edit page
+- version: 2.14.1
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: OK, but - model training state and performance metrics
+- version: 2.14.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: OK, but - learning curves alarm
+        - title: Minor bug fixes
+    - module: dashboard
+      changes:
+        - title: Widget data loading optimization
+- version: 2.13.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Order data loading optimization
+- version: 2.13.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.13.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.13.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: More options for user detail mapping for SAML authentication
 - version: 2.13.8
   moduleChanges:
     - module: general
