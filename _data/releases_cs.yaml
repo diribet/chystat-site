@@ -1,3 +1,28 @@
+- version: 2.14.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Přidaná údržba databáze - pravidelné odmazávání starých hodnot
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Možnost definovat řazení hádků v přehledech
+- version: 2.14.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Zjednodušena konfigurace struktury databáze
+        - title: Odstraněna sekce administrace "Validace dat"
+        - title: Oddělení algoritmů krátkodobé a dlouhodobé způsobilosti
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Zobrazení metadat zakázky v hlavičce grafiky
+    - module: kpi
+      changes:
+        - title: Nový typ indikátoru "OEE"
+        - title: Odstraněno zobrazení "Změna proti minulému měsíci"
+        - title: Odstraněno zobrazení konfidenčních intervalů
 - version: 2.14.2
   moduleChanges:
     - module: general

@@ -1,3 +1,28 @@
+- version: 2.14.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Added database maintenance - data retention of measured values
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Added option to define sort order of "bars" in overviews
+- version: 2.14.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Simplified database structure configuration
+        - title: Removed "Data Validation" administration section
+        - title: Separation of short-term and long-term capability algorithms
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Display order metadata in graphics header
+    - module: kpi
+      changes:
+        - title: New indicator type "OEE"
+        - title: Removed "Change from previous month" display type
+        - title: Removed option to display confidence intervals
 - version: 2.14.2
   moduleChanges:
     - module: general
