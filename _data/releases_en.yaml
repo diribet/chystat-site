@@ -1,3 +1,10 @@
+- version: 2.14.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved CRON expression input
+        - title: Configurable curve storage in DB / S3 compatible storage / Azure Blob Storage
+        - title: Minor bug fixes
 - version: 2.14.5
   moduleChanges:
     - module: general
