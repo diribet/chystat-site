@@ -1,3 +1,17 @@
+- version: 2.14.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Vylepšený zápis CHQL kritérií v administraci
+        - title: Optimalizace načítání křivek z S3 / Azure Blob Storage
+        - title: Možnost zobrazit nejstarší / nejnovější datum v hlavičce grafiky
+        - title: Varování při opuštění formuláře s neuloženými změnami
+        - title: Opravy drobných chyb
+- version: 2.14.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.14.6
   moduleChanges:
     - module: general

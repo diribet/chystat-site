@@ -1,3 +1,17 @@
+- version: 2.14.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Improved CHQL criteria input in administration
+        - title: Optimized performance of curve loading from S3 / Azure Blob Storage
+        - title: Added option to show oldest/latest date in graphics header
+        - title: Warning when leaving a form with unsaved changes
+        - title: Minor bug fixes
+- version: 2.14.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.14.6
   moduleChanges:
     - module: general
