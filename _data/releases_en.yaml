@@ -1,3 +1,10 @@
+- version: 2.14.9
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Mapping multiple user groups from SAML Response
+        - title: Cleaning up empty subdirectories in document sources
+        - title: Minor bug fixes
 - version: 2.14.8
   moduleChanges:
     - module: general
