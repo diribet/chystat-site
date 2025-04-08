@@ -1,3 +1,11 @@
+- version: 2.14.13
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Curves v2 - new data structure of curves storage
+    - module: monitoring
+      changes:
+        - title: Minor bug fixes
 - version: 2.14.12
   moduleChanges:
     - module: general
