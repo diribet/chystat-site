@@ -1,3 +1,8 @@
+- version: 2.14.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.14.13
   moduleChanges:
     - module: general
