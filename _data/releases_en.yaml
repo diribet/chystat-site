@@ -1,3 +1,17 @@
+- version: 2.14.15
+  moduleChanges:
+    - module: general
+      changes:
+        - title: New user management
+        - title: Curves v2 - fixes and improvements
+        - title: Fix for automatic deletion of access logs
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Automatic order evaluation can change order evaluation to better
+    - module: kpi
+      changes:
+        - title: Data outside of time period held in memory are not loaded
 - version: 2.14.14
   moduleChanges:
     - module: general

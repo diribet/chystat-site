@@ -1,3 +1,17 @@
+- version: 2.14.15
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Nová správa uživatelů a skupin
+        - title: Křivky v2 - opravy a vylepšení
+        - title: Oprava automatického odmazávání access logů
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Automatické hodnocení zakázek může změnit hodnocení zakázky i na lepší
+    - module: kpi
+      changes:
+        - title: Nenačítají se data mimo časové období, které se drží v paměti
 - version: 2.14.14
   moduleChanges:
     - module: general
