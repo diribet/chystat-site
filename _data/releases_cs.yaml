@@ -1,3 +1,13 @@
+- version: 2.14.20
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb a drobná vylepšení
+- version: 2.14.19
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb a drobná vylepšení
 - version: 2.14.18
   moduleChanges:
     - module: general
