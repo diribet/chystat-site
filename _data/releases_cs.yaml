@@ -1,3 +1,8 @@
+- version: 2.14.21
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Přidána možnost archivace dat
 - version: 2.14.20
   moduleChanges:
     - module: general
