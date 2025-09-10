@@ -1,3 +1,10 @@
+- version: 2.15.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Možnost definovat více katalogů
+        - title: Možnost editace záznamů v katalozích
+        - title: Křivky v2 - možnost barvení podle dimenze osy Y
 - version: 2.14.21
   moduleChanges:
     - module: general
