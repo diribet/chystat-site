@@ -1,3 +1,8 @@
+- version: 2.15.2
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes and small enhancements
 - version: 2.15.1
   moduleChanges:
     - module: general
