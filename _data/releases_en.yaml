@@ -1,3 +1,9 @@
+- version: 2.15.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Editing of entries in the catalog of ordinal classes and characteristic significances
+        - title: Minor bug fixes and small enhancements
 - version: 2.15.4
   moduleChanges:
     - module: general
