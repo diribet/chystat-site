@@ -1,3 +1,8 @@
+- version: 2.15.8
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.15.7
   moduleChanges:
     - module: general
