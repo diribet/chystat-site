@@ -1,3 +1,8 @@
+- version: 2.16.0
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Nový modul "Elige"
 - version: 2.15.9
   moduleChanges:
     - module: general

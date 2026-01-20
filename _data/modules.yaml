@@ -32,3 +32,8 @@ dashboard:
   title_cs: Fenestra
   title_en: Fenestra
   icon_id: fenestra
+
+analysis:
+  title_cs: Elige
+  title_en: Elige
+  icon_id: elige
