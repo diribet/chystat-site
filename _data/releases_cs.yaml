@@ -1,3 +1,32 @@
+- version: 2.16.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Integrace s externími systémy sběru dat
+- version: 2.16.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.16.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 2.16.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Přidané KX04xx K-klíče pro vazby na katalogy
+        - title: Opravy drobných chyb
+- version: 2.16.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 2.16.2
   moduleChanges:
     - module: general

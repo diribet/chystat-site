@@ -1,3 +1,32 @@
+- version: 2.16.7
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Integration with external data collection systems
+- version: 2.16.6
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.16.5
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 2.16.4
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Added KX04xx K-keys for linking to catalogs
+        - title: Minor bug fixes
+- version: 2.16.3
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 2.16.2
   moduleChanges:
     - module: general
