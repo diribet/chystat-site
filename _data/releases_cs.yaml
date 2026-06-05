@@ -1,3 +1,14 @@
+- version: 26.02
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 26.01
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Nový vzhled a rozložení ovládacích prvků v aplikaci
+        - title: Zjednodušené číslování verzí - nově se verze aplikace bude skládat z roku a pořadového čísla verze v rámci daného roku
 - version: 2.16.10
   moduleChanges:
     - module: general
