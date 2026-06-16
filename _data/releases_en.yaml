@@ -1,3 +1,12 @@
+- version: 26.03
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: analysis
+      changes:
+        - title: Characteristic multi-selection using the Shift key in the Final filter
+        - title: Improved data loading speed in the Final filter
 - version: 26.02
   moduleChanges:
     - module: general

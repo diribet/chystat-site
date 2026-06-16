@@ -1,3 +1,12 @@
+- version: 26.03
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: analysis
+      changes:
+        - title: Hromadný výběr znaků v dolaďovacím filtru pomocí klávesy Shift
+        - title: Vylepšena rychlost načítání dat pro dolaďovací filtr
 - version: 26.02
   moduleChanges:
     - module: general
