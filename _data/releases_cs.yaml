@@ -1,3 +1,9 @@
+- version: 26.04
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upgrade na Java 25
+        - title: Opravy drobných chyb
 - version: 26.03
   moduleChanges:
     - module: general
