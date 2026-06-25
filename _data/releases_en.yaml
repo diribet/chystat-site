@@ -1,3 +1,9 @@
+- version: 26.05
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+        - title: Removed "deprecated" features
 - version: 26.04
   moduleChanges:
     - module: general

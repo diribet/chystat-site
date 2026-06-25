@@ -1,3 +1,9 @@
+- version: 26.05
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+        - title: Odstraněny "deprecated" funkce
 - version: 26.04
   moduleChanges:
     - module: general
