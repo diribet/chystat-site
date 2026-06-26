@@ -1,3 +1,8 @@
+- version: 26.06
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
 - version: 26.05
   moduleChanges:
     - module: general
