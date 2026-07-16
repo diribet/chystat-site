@@ -1,3 +1,19 @@
+- version: 26.08
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+- version: 26.07
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Možnost přidat odkazy na externí systémy do patičky
+        - title: Opravy drobných chyb
+    - module: analysis
+      changes:
+        - title: Hromadný výběr buněk v tabulce výsledků
+        - title: Globální filtr dat definovaný ve scénáři
+        - title: Definice maximálního počtu načítaných hodnot pro analýzu
 - version: 26.06
   moduleChanges:
     - module: general

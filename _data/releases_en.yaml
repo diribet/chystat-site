@@ -1,3 +1,19 @@
+- version: 26.08
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+- version: 26.07
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Option to add links to external systems in the footer
+        - title: Minor bug fixes
+    - module: analysis
+      changes:
+        - title: Selecting multiple cells in a results table
+        - title: Global data filter defined in the scenario
+        - title: Definition of the maximum number of values to be loaded for analysis
 - version: 26.06
   moduleChanges:
     - module: general
