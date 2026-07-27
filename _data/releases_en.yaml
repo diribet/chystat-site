@@ -1,3 +1,11 @@
+- version: 26.10
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - simplified API data source configuration
+    - module: orders
+      changes:
+        - title: Minor bug fixes
 - version: 26.09
   moduleChanges:
     - module: general
