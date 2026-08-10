@@ -1,3 +1,24 @@
+- version: 26.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: New CuCo datasource
+        - title: Turkish has been added to the list of supported languages
+        - title: Minor bug fixes
+    - module: analysis
+      changes:
+        - title: Option to display the number of pieces in the results overview
+        - title: Pre-filtering of selection options in simple base filters
+        - title: You can select multiple items at once in simple base filters
+        - title: Improved values filter in final filter
+- version: 26.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Unified pagination in the overview of opened orders with other overviews
 - version: 26.10
   moduleChanges:
     - module: general

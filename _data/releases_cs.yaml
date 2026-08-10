@@ -1,3 +1,24 @@
+- version: 26.12
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Nový CuCo datasource
+        - title: Přidaná turečtina do podporovaných jazyků
+        - title: Opravy drobných chyb
+    - module: analysis
+      changes:
+        - title: Možnost zobrazovat v přehledu výsledků počty kusů
+        - title: Před-filtrování možností výběru v jednoduchých filtrech
+        - title: Možnost vybrat více položek najednou v jednoduchých filtrech
+        - title: Vylepšený filtr hodnot v dolaďovacích filtrech
+- version: 26.11
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Sjednocené stránkování v přehledu otevřených zakázek s ostatními přehledy
 - version: 26.10
   moduleChanges:
     - module: general
