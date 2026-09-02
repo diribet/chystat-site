@@ -1,3 +1,14 @@
+- version: 26.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Bezpečnostní audit log
+        - title: Opravy drobných chyb
+    - module: analysis
+      changes:
+        - title: Vylepšené zadávání číselného filtru v základním filtru analýzy
+        - title: Časy zařazení do fronty a spuštění načítání dat analýzy
+        - title: Řazení tabulky výsledků podle hodnot
 - version: 26.13
   moduleChanges:
     - module: general

@@ -1,3 +1,14 @@
+- version: 26.14
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Security audit log
+        - title: Minor bug fixes
+    - module: analysis
+      changes:
+        - title: Improved numerical filter input in the base analysis filter
+        - title: Display the time the analysis was added to the queue and loading the analysis data was started
+        - title: Allow sorting the results table by values columns
 - version: 26.13
   moduleChanges:
     - module: general
