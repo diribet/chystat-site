@@ -1,3 +1,19 @@
+- version: 26.18
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Optimization of file loading in upload
+        - title: Minor bug fixes
+- version: 26.17
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Optimization of scripted parsers and transformations
+- version: 26.16
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Minor bug fixes
 - version: 26.15
   moduleChanges:
     - module: general
