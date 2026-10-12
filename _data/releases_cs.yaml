@@ -1,3 +1,13 @@
+- version: 26.19
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Definice datového modelu (které K-klíče se používají a jejich pojmenování)
+        - title: Nové uživatelské rozhraní administrace Uploadů
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Nový typ sloupce v přehledech: Sloupec s dokumenty
 - version: 26.18
   moduleChanges:
     - module: general
