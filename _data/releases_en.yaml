@@ -7,7 +7,7 @@
         - title: Minor bug fixes
     - module: orders
       changes:
-        - title: New column type in overviews: Documents column
+        - title: New column type in overviews - Documents column
 - version: 26.18
   moduleChanges:
     - module: general

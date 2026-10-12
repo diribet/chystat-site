@@ -7,7 +7,7 @@
         - title: Opravy drobných chyb
     - module: orders
       changes:
-        - title: Nový typ sloupce v přehledech: Sloupec s dokumenty
+        - title: Nový typ sloupce v přehledech - Sloupec s dokumenty
 - version: 26.18
   moduleChanges:
     - module: general
