@@ -1,4 +1,4 @@
-- version: 26.20
+- version: "26.20"
   moduleChanges:
     - module: general
       changes:
@@ -8,7 +8,7 @@
     - module: orders
       changes:
         - title: Vylepšené zobrazení přehledu zakázek s více sloupečky
-- version: 26.19
+- version: "26.19"
   moduleChanges:
     - module: general
       changes:
@@ -18,28 +18,28 @@
     - module: orders
       changes:
         - title: Nový typ sloupce v přehledech - Sloupec s dokumenty
-- version: 26.18
+- version: "26.18"
   moduleChanges:
     - module: general
       changes:
         - title: Optimalizace načítání souborů v uploadu
         - title: Opravy drobných chyb
-- version: 26.17
+- version: "26.17"
   moduleChanges:
     - module: general
       changes:
         - title: Optimalizace skriptovaných parserů a transformací
-- version: 26.16
+- version: "26.16"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 26.15
+- version: "26.15"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 26.14
+- version: "26.14"
   moduleChanges:
     - module: general
       changes:
@@ -50,12 +50,12 @@
         - title: Vylepšené zadávání číselného filtru v základním filtru analýzy
         - title: Časy zařazení do fronty a spuštění načítání dat analýzy
         - title: Řazení tabulky výsledků podle hodnot
-- version: 26.13
+- version: "26.13"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 26.12
+- version: "26.12"
   moduleChanges:
     - module: general
       changes:
@@ -68,7 +68,7 @@
         - title: Před-filtrování možností výběru v jednoduchých filtrech
         - title: Možnost vybrat více položek najednou v jednoduchých filtrech
         - title: Vylepšený filtr hodnot v dolaďovacích filtrech
-- version: 26.11
+- version: "26.11"
   moduleChanges:
     - module: general
       changes:
@@ -76,7 +76,7 @@
     - module: orders
       changes:
         - title: Sjednocené stránkování v přehledu otevřených zakázek s ostatními přehledy
-- version: 26.10
+- version: "26.10"
   moduleChanges:
     - module: general
       changes:
@@ -84,17 +84,17 @@
     - module: orders
       changes:
         - title: Opravy drobných chyb
-- version: 26.09
+- version: "26.09"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 26.08
+- version: "26.08"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 26.07
+- version: "26.07"
   moduleChanges:
     - module: general
       changes:
@@ -105,24 +105,24 @@
         - title: Hromadný výběr buněk v tabulce výsledků
         - title: Globální filtr dat definovaný ve scénáři
         - title: Definice maximálního počtu načítaných hodnot pro analýzu
-- version: 26.06
+- version: "26.06"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 26.05
+- version: "26.05"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Odstraněny "deprecated" funkce
-- version: 26.04
+- version: "26.04"
   moduleChanges:
     - module: general
       changes:
         - title: Upgrade na Java 25
         - title: Opravy drobných chyb
-- version: 26.03
+- version: "26.03"
   moduleChanges:
     - module: general
       changes:
@@ -131,34 +131,34 @@
       changes:
         - title: Hromadný výběr znaků v dolaďovacím filtru pomocí klávesy Shift
         - title: Vylepšena rychlost načítání dat pro dolaďovací filtr
-- version: 26.02
+- version: "26.02"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 26.01
+- version: "26.01"
   moduleChanges:
     - module: general
       changes:
         - title: Nový vzhled a rozložení ovládacích prvků v aplikaci
         - title: Zjednodušené číslování verzí - nově se verze aplikace bude skládat z roku a pořadového čísla verze v rámci daného roku
-- version: 2.16.10
+- version: "2.16.10"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.16.9
+- version: "2.16.9"
   moduleChanges:
     - module: general
       changes:
         - title: Nová grafika "Regulační diagram"
         - title: Opravy drobných chyb
-- version: 2.16.8
+- version: "2.16.8"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.16.7
+- version: "2.16.7"
   moduleChanges:
     - module: general
       changes:
@@ -166,34 +166,34 @@
     - module: orders
       changes:
         - title: Integrace s externími systémy sběru dat
-- version: 2.16.6
+- version: "2.16.6"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.16.5
+- version: "2.16.5"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.16.4
+- version: "2.16.4"
   moduleChanges:
     - module: general
       changes:
         - title: Přidané KX04xx K-klíče pro vazby na katalogy
         - title: Opravy drobných chyb
-- version: 2.16.3
+- version: "2.16.3"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.16.2
+- version: "2.16.2"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: OK, ale 2.0
-- version: 2.16.1
+- version: "2.16.1"
   moduleChanges:
     - module: general
       changes:
@@ -201,96 +201,96 @@
     - module: analysis
       changes:
         - title: Opravy drobných chyb
-- version: 2.16.0
+- version: "2.16.0"
   moduleChanges:
     - module: general
       changes:
         - title: Nový modul "Elige"
-- version: 2.15.9
+- version: "2.15.9"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.15.8
+- version: "2.15.8"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.15.7
+- version: "2.15.7"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.15.6
+- version: "2.15.6"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.15.5
+- version: "2.15.5"
   moduleChanges:
     - module: general
       changes:
         - title: Možnost editace záznamů v katalogu ordinálních tříd a významností znaku
         - title: Opravy drobných chyb a drobná vylepšení
-- version: 2.15.4
+- version: "2.15.4"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb a drobná vylepšení
-- version: 2.15.3
+- version: "2.15.3"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb a drobná vylepšení
-- version: 2.15.2
+- version: "2.15.2"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb a drobná vylepšení
-- version: 2.15.1
+- version: "2.15.1"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb a drobná vylepšení
-- version: 2.15.0
+- version: "2.15.0"
   moduleChanges:
     - module: general
       changes:
         - title: Možnost definovat více katalogů
         - title: Možnost editace záznamů v katalozích
         - title: Křivky v2 - možnost barvení podle dimenze osy Y
-- version: 2.14.21
+- version: "2.14.21"
   moduleChanges:
     - module: general
       changes:
         - title: Přidána možnost archivace dat
-- version: 2.14.20
+- version: "2.14.20"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb a drobná vylepšení
-- version: 2.14.19
+- version: "2.14.19"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb a drobná vylepšení
-- version: 2.14.18
+- version: "2.14.18"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb a drobná vylepšení
-- version: 2.14.17
+- version: "2.14.17"
   moduleChanges:
     - module: general
       changes:
         - title: Křivky - použije se optimalizované vykreslování v případě většího množství křivek
         - title: Opravy drobných chyb
-- version: 2.14.16
+- version: "2.14.16"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.14.15
+- version: "2.14.15"
   moduleChanges:
     - module: general
       changes:
@@ -304,12 +304,12 @@
     - module: kpi
       changes:
         - title: Nenačítají se data mimo časové období, které se drží v paměti
-- version: 2.14.14
+- version: "2.14.14"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.14.13
+- version: "2.14.13"
   moduleChanges:
     - module: general
       changes:
@@ -317,29 +317,29 @@
     - module: monitoring
       changes:
         - title: Opravy drobných chyb
-- version: 2.14.12
+- version: "2.14.12"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.14.11
+- version: "2.14.11"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.14.10
+- version: "2.14.10"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.14.9
+- version: "2.14.9"
   moduleChanges:
     - module: general
       changes:
         - title: Mapování více uživatelských skupin ze SAML Response
         - title: Uklízení prázdných podadresářů ve zdrojích dokumentů
         - title: Opravy drobných chyb
-- version: 2.14.8
+- version: "2.14.8"
   moduleChanges:
     - module: general
       changes:
@@ -348,19 +348,19 @@
         - title: Možnost zobrazit nejstarší / nejnovější datum v hlavičce grafiky
         - title: Varování při opuštění formuláře s neuloženými změnami
         - title: Opravy drobných chyb
-- version: 2.14.7
+- version: "2.14.7"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.14.6
+- version: "2.14.6"
   moduleChanges:
     - module: general
       changes:
         - title: Vylepšné zadávání CRON výrazů
         - title: Konfigurovatelné uložiště křivek v DB / S3 compatible storage / Azure Blob Storage
         - title: Opravy drobných chyb
-- version: 2.14.5
+- version: "2.14.5"
   moduleChanges:
     - module: general
       changes:
@@ -368,7 +368,7 @@
     - module: orders
       changes:
         - title: Zakázky nereflektují změny dat provedené mimo chy.stat
-- version: 2.14.4
+- version: "2.14.4"
   moduleChanges:
     - module: general
       changes:
@@ -377,7 +377,7 @@
     - module: orders
       changes:
         - title: Možnost definovat řazení hádků v přehledech
-- version: 2.14.3
+- version: "2.14.3"
   moduleChanges:
     - module: general
       changes:
@@ -393,7 +393,7 @@
         - title: Nový typ indikátoru "OEE"
         - title: Odstraněno zobrazení "Změna proti minulému měsíci"
         - title: Odstraněno zobrazení konfidenčních intervalů
-- version: 2.14.2
+- version: "2.14.2"
   moduleChanges:
     - module: general
       changes:
@@ -401,13 +401,13 @@
     - module: dashboard
       changes:
         - title: Klikatelné složky v cestě k dashboardu v editaci
-- version: 2.14.1
+- version: "2.14.1"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: OK, ale - zobrazení stavu učení modelu a výkonnostních metrik
-- version: 2.14.0
+- version: "2.14.0"
   moduleChanges:
     - module: general
       changes:
@@ -416,7 +416,7 @@
     - module: dashboard
       changes:
         - title: Optimalizace načítání dat widgetů
-- version: 2.13.12
+- version: "2.13.12"
   moduleChanges:
     - module: general
       changes:
@@ -424,28 +424,28 @@
     - module: orders
       changes:
         - title: Optimalizace načítání dat zakázek
-- version: 2.13.11
+- version: "2.13.11"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.13.10
+- version: "2.13.10"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.13.9
+- version: "2.13.9"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Více možností mapování detailu uživatele při SAML autentifikaci
-- version: 2.13.8
+- version: "2.13.8"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.13.7
+- version: "2.13.7"
   moduleChanges:
     - module: general
       changes:
@@ -454,28 +454,28 @@
         - title: Upload - mySCADA datasource - konfigurovatelná max. velikost přenášené dávky
         - title: Definice historických hodnot v záložce detailu pomocí času
         - title: Opravy drobných chyb
-- version: 2.13.6
+- version: "2.13.6"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.13.5
+- version: "2.13.5"
   moduleChanges:
     - module: general
       changes:
         - title: Žádné změny
-- version: 2.13.4
+- version: "2.13.4"
   moduleChanges:
     - module: general
       changes:
         - title: Hodnocení "OK, ale" křivek
         - title: Opravy drobných chyb
-- version: 2.13.3
+- version: "2.13.3"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.13.2
+- version: "2.13.2"
   moduleChanges:
     - module: general
       changes:
@@ -489,7 +489,7 @@
     - module: orders
       changes:
         - title: Zobrazení předchozí aktivity při změně stavu a vyhodnocení zakázky.
-- version: 2.13.1
+- version: "2.13.1"
   moduleChanges:
     - module: general
       changes:
@@ -500,12 +500,12 @@
     - module: dashboard
       changes:
         - title: Widget "Grafika kusu" - přidána možnost zvolit počet zobrazovaných grafů
-- version: 2.13.0
+- version: "2.13.0"
   moduleChanges:
     - module: dashboard
       changes:
         - title: Přidán nový modul "Fenestra Central" - v dashboardech lze zobrazovat widgety z jiných instancí
-- version: 2.12.23
+- version: "2.12.23"
   moduleChanges:
     - module: general
       changes:
@@ -517,30 +517,30 @@
     - module: kpi
       changes:
         - title: Konfigurovatelný počet desetinných míst pro indikátory
-- version: 2.12.22
+- version: "2.12.22"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Grafika "Report" a "Přehled znaků" používá místo stránkování scrollování
-- version: 2.12.21
+- version: "2.12.21"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Upload - přidán odkaz na dokumentaci pro Calculation Service
-- version: 2.12.20
+- version: "2.12.20"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.12.19
+- version: "2.12.19"
   moduleChanges:
     - module: general
       changes:
         - title: Notifikace chyby zmizí automaticky po 1 minutě
         - title: Opravy drobných chyb
-- version: 2.12.18
+- version: "2.12.18"
   moduleChanges:
     - module: general
       changes:
@@ -548,29 +548,29 @@
         - title: Vylepšené chování maximalizace grafik v master-detail záložce
         - title: Sjednocený vzhled ovládacích prvků v panelu nástrojů editace hlaviček
         - title: Přidána podpora pro SASL PLAIN autentizaci u datového zdroje "Kafka"
-- version: 2.12.17
+- version: "2.12.17"
   moduleChanges:
     - module: general
       changes:
         - title: Výběr v master-detail záložce lze vyresetovat do výchozího stavu
         - title: Jednotlivé grafiky lze maximalizovat na celou stránku
-- version: 2.12.16
+- version: "2.12.16"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.12.15
+- version: "2.12.15"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.12.14
+- version: "2.12.14"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Upload - implementace datového zdroje pro MQTT protokol
-- version: 2.12.13
+- version: "2.12.13"
   moduleChanges:
     - module: general
       changes:
@@ -578,18 +578,18 @@
     - module: monitoring
       changes:
         - title: Zobrazení referencí na značky
-- version: 2.12.12
+- version: "2.12.12"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.12.11
+- version: "2.12.11"
   moduleChanges:
     - module: general
       changes:
         - title: Grafika "Report" - možnost nastavit tučné písmo ve sloupci
         - title: Opravy drobných chyb
-- version: 2.12.10
+- version: "2.12.10"
   moduleChanges:
     - module: general
       changes:
@@ -597,7 +597,7 @@
     - module: dashboard
       changes:
         - title: Nový widget "Ikona"
-- version: 2.12.9
+- version: "2.12.9"
   moduleChanges:
     - module: general
       changes:
@@ -626,7 +626,7 @@
         - title: Widget "Lucra - Hodnota indikátoru" - přidána možnost zobrazit čitatel a jmenovatel
         - title: Widget "Lucra - Hodnota indikátoru" - přidána možnost definovat vlastní barvu pozadí
         - title: Widget "Monitor - Grafika kusu" - přidána možnost definovat kritérium procházených kusů
-- version: 2.12.8
+- version: "2.12.8"
   moduleChanges:
     - module: general
       changes:
@@ -635,7 +635,7 @@
     - module: dashboard
       changes:
         - title: Nový widget "Dokumenty kusu"
-- version: 2.12.7
+- version: "2.12.7"
   moduleChanges:
     - module: general
       changes:
@@ -644,7 +644,7 @@
     - module: dashboard
       changes:
         - title: Optimalizace rychlosti načítání dashboardů
-- version: 2.12.6
+- version: "2.12.6"
   moduleChanges:
     - module: general
       changes:
@@ -667,12 +667,12 @@
       changes:
         - title: Nový widget "Informační ikona"
         - title: Opraven mód výběru v přehledu dashboardů na zařízeních s dotykovou obrazovkou
-- version: 2.12.5
+- version: "2.12.5"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.12.4
+- version: "2.12.4"
   moduleChanges:
     - module: general
       changes:
@@ -680,7 +680,7 @@
     - module: dashboard
       changes:
         - title: Zobrazení referencí na dashboard ve widgetech
-- version: 2.12.3
+- version: "2.12.3"
   moduleChanges:
     - module: general
       changes:
@@ -695,7 +695,7 @@
       changes:
         - title: Nastavení horizontálního zarovnání textu ve widgetech
         - title: Omezení počtu paralelně načítaných widgetů
-- version: 2.12.2
+- version: "2.12.2"
   moduleChanges:
     - module: general
       changes:
@@ -703,7 +703,7 @@
     - module: monitoring
       changes:
         - title: Možnost definovat kritérium na procházené kusy v indikátorech "Aktuální hodnota znaku" a "Hodnoty K-klíčů aktuální hodnoty / znaku / dílu"
-- version: 2.12.1
+- version: "2.12.1"
   moduleChanges:
     - module: general
       changes:
@@ -711,22 +711,22 @@
     - module: monitoring
       changes:
         - title: Do administrace byly přidány výkonnostní metriky
-- version: 2.12.0
+- version: "2.12.0"
   moduleChanges:
     - module: dashboard
       changes:
         - title: Přepracovaný modul, vylepšená editace
-- version: 2.11.7
+- version: "2.11.7"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.11.6
+- version: "2.11.6"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.11.5
+- version: "2.11.5"
   moduleChanges:
     - module: general
       changes:
@@ -742,7 +742,7 @@
       changes:
         - title: Možnost měnit pořadí uživatelských filtrů hierarchie
         - title: Vylepšené zobrazení datumů na časové ose
-- version: 2.11.4
+- version: "2.11.4"
   moduleChanges:
     - module: general
       changes:
@@ -753,12 +753,12 @@
     - module: monitoring
       changes:
         - title: Opravy drobných chyb
-- version: 2.11.3
+- version: "2.11.3"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.11.2
+- version: "2.11.2"
   moduleChanges:
     - module: general
       changes:
@@ -773,7 +773,7 @@
     - module: dashboard
       changes:
         - title: Opravy drobných chyb
-- version: 2.11.1
+- version: "2.11.1"
   moduleChanges:
     - module: general
       changes:
@@ -782,7 +782,7 @@
         - title: Zobrazení intervalových odhadů Cp/Cpk v grafice "Přehled znaků"
         - title: Grafika křivek - minimalizovatelné boční menu
         - title: Opravy drobných chyb
-- version: 2.11.0
+- version: "2.11.0"
   moduleChanges:
     - module: general
       changes:
@@ -794,23 +794,23 @@
         - title: Možnost definovat různé hierarchie pro zobrazení v přehledech
         - title: Kusy se místo do paměti ukládají do databáze
         - title: Vylepšený přenos dat indikátorů do Lucra
-- version: 2.10.27
+- version: "2.10.27"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Vylepšena propustnost "Kafka" zdroje dat
-- version: 2.10.26
+- version: "2.10.26"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.25
+- version: "2.10.25"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.24
+- version: "2.10.24"
   moduleChanges:
     - module: general
       changes:
@@ -822,39 +822,39 @@
     - module: monitoring
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.23
+- version: "2.10.23"
   moduleChanges:
     - module: general
       changes:
         - title: Upload - podpora zpracování JSON dat v preprocesorech
         - title: Upload - podpora prázdných textů v klíčových polích
         - title: Grafiky - přirozené řazení skupin podle nadpisů
-- version: 2.10.22
+- version: "2.10.22"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.21
+- version: "2.10.21"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.20
+- version: "2.10.20"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.19
+- version: "2.10.19"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.18
+- version: "2.10.18"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.17
+- version: "2.10.17"
   moduleChanges:
     - module: general
       changes:
@@ -863,40 +863,40 @@
     - module: monitoring
       changes:
         - title: Opravený memory leak, když je přehled otevřený v neaktivní záložce prohlížeče
-- version: 2.10.16
+- version: "2.10.16"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Podpora prohlížeče Mozilla Firefox v poslední ESR verzi
-- version: 2.10.15
+- version: "2.10.15"
   moduleChanges:
     - module: general
       changes:
         - title: Vyšší heart-beat timeout pro WebSocket spojení kvůli lepší stabilitě v případě nektivní záložky
         - title: Grafika "Report" - opravené barvení textů a pozadí sloupečků a záhlaví
-- version: 2.10.14
+- version: "2.10.14"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Zvýšena velikost mezipaměti
-- version: 2.10.13
+- version: "2.10.13"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.12
+- version: "2.10.12"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.11
+- version: "2.10.11"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.10
+- version: "2.10.10"
   moduleChanges:
     - module: general
       changes:
@@ -907,14 +907,14 @@
     - module: capability
       changes:
         - title: V modulu lze použít záložku s dokumenty
-- version: 2.10.9
+- version: "2.10.9"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: API - lze vyhledávat naměřené hodnoty podle k-klíče bez hodnoty
         - title: Záložka s dokumenty podporuje zobrazení dokumentů pro historické hodnoty v případě že je nastavena jako detail v master-detail záložce
-- version: 2.10.8
+- version: "2.10.8"
   moduleChanges:
     - module: general
       changes:
@@ -924,13 +924,13 @@
     - module: capability
       changes:
         - title: Modul Capability přejmenován na Crustallus
-- version: 2.10.7
+- version: "2.10.7"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Vylepšené automatické obnovování spojení se serverem
-- version: 2.10.6
+- version: "2.10.6"
   moduleChanges:
     - module: general
       changes:
@@ -945,7 +945,7 @@
     - module: monitoring
       changes:
         - title: V nastavení přehledu lze definovat filtr zobrazovaných strojů
-- version: 2.10.5
+- version: "2.10.5"
   moduleChanges:
     - module: general
       changes:
@@ -953,12 +953,12 @@
     - module: capability
       changes:
         - title: Možnost barvit výrobní celky v přehledu podle nejhoršího znaku
-- version: 2.10.4
+- version: "2.10.4"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.10.3
+- version: "2.10.3"
   moduleChanges:
     - module: general
       changes:
@@ -975,14 +975,14 @@
     - module: kpi
       changes:
         - title: Optimalizace výkonu
-- version: 2.10.2
+- version: "2.10.2"
   moduleChanges:
     - module: general
       changes:
         - title: "Oprava bezpečnostní zranitelnosti ve Spring Framework ([CVE-2022-22965](https://tanzu.vmware.com/security/cve-2022-22965))"
         - title: Přidán jazyk Rumunština
         - title: "Odstraněny jazyky: Ruština, Dánština a Maďarština"
-- version: 2.10.1
+- version: "2.10.1"
   moduleChanges:
     - module: general
       changes:
@@ -997,7 +997,7 @@
     - module: kpi
       changes:
         - title: Opraveno filtrování přehledů při větším počtu elementů dimenzí než 1000
-- version: 2.10.0
+- version: "2.10.0"
   moduleChanges:
     - module: general
       changes:
@@ -1005,7 +1005,7 @@
     - module: orders
       changes:
         - title: Přepracované workflow zakázek - konfigurovatelné stavy a vyhodnocení, vylepšené automatické flow a vyhodnocení a mnoho dalšího
-- version: 2.9.79
+- version: "2.9.79"
   moduleChanges:
     - module: general
       changes:
@@ -1013,12 +1013,12 @@
     - module: kpi
       changes:
         - title: Při vytváření uživatelských filtrů se zobrazují jen elementy dimenzí viditelné v daném přehledu
-- version: 2.9.78
+- version: "2.9.78"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.77
+- version: "2.9.77"
   moduleChanges:
     - module: general
       changes:
@@ -1027,24 +1027,24 @@
     - module: dashboard
       changes:
         - title: Drobné úpravy a vylepšení widgetu "Top" z modulu Lucra
-- version: 2.9.76
+- version: "2.9.76"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Grafika "Report" - Optimalizace a vylepšení
-- version: 2.9.75
+- version: "2.9.75"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Přidána podpora pro K4xxx K-klíče do API naměřených hodnot
-- version: 2.9.74
+- version: "2.9.74"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.73
+- version: "2.9.73"
   moduleChanges:
     - module: general
       changes:
@@ -1053,12 +1053,12 @@
     - module: monitoring
       changes:
         - title: V přehledech přidána podpora pro nastavení přiblížení na dotykových zařízeních
-- version: 2.9.72
+- version: "2.9.72"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.71
+- version: "2.9.71"
   moduleChanges:
     - module: general
       changes:
@@ -1066,13 +1066,13 @@
     - module: monitoring
       changes:
         - title: Opravené zobrazení hierarchií v přehledech v případě strojů bez dat
-- version: 2.9.70
+- version: "2.9.70"
   moduleChanges:
     - module: general
       changes:
         - title: API - přidána jednodušší autentifikace pomocí API Token key pro zabezpečená TLS spojení
         - title: Upload transformace - přidány funkce pro práci s katalogy
-- version: 2.9.69
+- version: "2.9.69"
   moduleChanges:
     - module: general
       changes:
@@ -1080,7 +1080,7 @@
     - module: monitoring
       changes:
         - title: Oprava filtrování zobrazovaných strojů na základě uživatelských oprávnění
-- version: 2.9.68
+- version: "2.9.68"
   moduleChanges:
     - module: monitoring
       changes:
@@ -1089,7 +1089,7 @@
     - module: kpi
       changes:
         - title: Oprava chyby při zavírání okna detailu
-- version: 2.9.67
+- version: "2.9.67"
   moduleChanges:
     - module: general
       changes:
@@ -1097,13 +1097,13 @@
     - module: monitoring
       changes:
         - title: Nový přehled monitoringu - vylepšené zoomování, filtry a mnoho dalšího
-- version: 2.9.66
+- version: "2.9.66"
   moduleChanges:
     - module: general
       changes:
         - title: Export dat z grafik - použije se nakonfigurovaná znaková sada
         - title: Export dat z grafik - opravena chyba při exportu ve formátu AQDEF in flat JSON
-- version: 2.9.65
+- version: "2.9.65"
   moduleChanges:
     - module: general
       changes:
@@ -1120,7 +1120,7 @@
     - module: capability
       changes:
         - title: Opravené zobrazení relativních/absolutních hodnot ve widgetu Hodnota/Status způsobilosti
-- version: 2.9.64
+- version: "2.9.64"
   moduleChanges:
     - module: general
       changes:
@@ -1134,24 +1134,24 @@
     - module: capability
       changes:
         - title: Opravené zobrazení hierarchie strojů
-- version: 2.9.63
+- version: "2.9.63"
   moduleChanges:
     - module: general
       changes:
         - title: Upload - lze kopírovat nastavení uploadů
         - title: Upload - přidán parser pro data ve formátu "AQDEF in JSON"
-- version: 2.9.62
+- version: "2.9.62"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Upload - možnost zvolit mySCADA parser při testování transformací
-- version: 2.9.61
+- version: "2.9.61"
   moduleChanges:
     - module: general
       changes:
         - title: Grafika "Přehled znaků" - Vylepšené popisky v návrháři
-- version: 2.9.60
+- version: "2.9.60"
   moduleChanges:
     - module: general
       changes:
@@ -1159,18 +1159,18 @@
     - module: capability
       changes:
         - title: Grafika "Histogram" - Lze definovat hodnotící algoritmus
-- version: 2.9.59
+- version: "2.9.59"
   moduleChanges:
     - module: general
       changes:
         - title: Grafika "Report" a "Přehled znaků" - Možnost definovat typ výchozího řazení
-- version: 2.9.58
+- version: "2.9.58"
   moduleChanges:
     - module: general
       changes:
         - title: Upload - možnost zvolit vlastní parser při testování transformací
         - title: Grafika s detailem - možnost konfigurace rozložení grafik
-- version: 2.9.57
+- version: "2.9.57"
   moduleChanges:
     - module: general
       changes:
@@ -1181,29 +1181,29 @@
     - module: kpi
       changes:
         - title: Opravené lokalizované názvy dimenzí a indikátorů v administraci
-- version: 2.9.56
+- version: "2.9.56"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.55
+- version: "2.9.55"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Tooltip v grafice "Histogram"
         - title: Vylepšené chování tlačítek pro stránkovaní
-- version: 2.9.54
+- version: "2.9.54"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.53
+- version: "2.9.53"
   moduleChanges:
     - module: general
       changes:
         - title: Upload API - přidána podpora pro jiné datové formáty (Upload parsery)
-- version: 2.9.52
+- version: "2.9.52"
   moduleChanges:
     - module: general
       changes:
@@ -1211,7 +1211,7 @@
     - module: orders
       changes:
         - title: Export metadat zakázek do CSV
-- version: 2.9.51
+- version: "2.9.51"
   moduleChanges:
     - module: general
       changes:
@@ -1219,23 +1219,23 @@
     - module: orders
       changes:
         - title: Export metadat zakázek do XLSX
-- version: 2.9.50
+- version: "2.9.50"
   moduleChanges:
     - module: general
       changes:
         - title: Nová grafika "Histogram"
         - title: Upload - přidán JSON parser
-- version: 2.9.49
+- version: "2.9.49"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.48
+- version: "2.9.48"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.47
+- version: "2.9.47"
   moduleChanges:
     - module: general
       changes:
@@ -1246,7 +1246,7 @@
         - title: Obrazovka informující o načítání dat
         - title: Vylepšený layout přehledu
         - title: Optimalizace využití paměti
-- version: 2.9.46
+- version: "2.9.46"
   moduleChanges:
     - module: general
       changes:
@@ -1255,7 +1255,7 @@
     - module: dashboard
       changes:
         - title: Přidán widget "Hodnota metadat poslední zakázky"
-- version: 2.9.45
+- version: "2.9.45"
   moduleChanges:
     - module: general
       changes:
@@ -1267,7 +1267,7 @@
     - module: capability
       changes:
         - title: Možnost vypnout výpočet způsobilosti pro určité stroje
-- version: 2.9.44
+- version: "2.9.44"
   moduleChanges:
     - module: general
       changes:
@@ -1279,7 +1279,7 @@
     - module: dashboard
       changes:
         - title: Scénáře v dashboradech typu "Prezentace" pro cyklické zobrazení několika dashboardů
-- version: 2.9.43
+- version: "2.9.43"
   moduleChanges:
     - module: general
       changes:
@@ -1287,29 +1287,29 @@
     - module: scrap
       changes:
         - title: Optimalizace načtení stránek s přehledy
-- version: 2.9.42
+- version: "2.9.42"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.41
+- version: "2.9.41"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Přepracovaná reverzní proxy pro myBeDa
-- version: 2.9.40
+- version: "2.9.40"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.39
+- version: "2.9.39"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
         - title: Upload - přepracované mapování pro mySCADA datasource
-- version: 2.9.38
+- version: "2.9.38"
   moduleChanges:
     - module: general
       changes:
@@ -1321,42 +1321,42 @@
       changes:
         - title: Nové okno detailu s vylepšeným zobrazením detailu indikátoru
         - title: Vylepšené načítání dat rozpadů
-- version: 2.9.37
+- version: "2.9.37"
   moduleChanges:
     - module: orders
       changes:
         - title: Přepracovaný přehled zakázek
-- version: 2.9.36
+- version: "2.9.36"
   moduleChanges:
     - module: general
       changes:
         - title: Vyhledávání v komentářích - vyhledávání bez ohledu na velká a malá písmena, další drobná vylepšení
         - title: Grafiky - vylepšené chování menu seskupování a porovnávání
         - title: Opravené zobrazení tolerančních pásem v níťovém diagramu
-- version: 2.9.35
+- version: "2.9.35"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.34
+- version: "2.9.34"
   moduleChanges:
     - module: general
       changes:
         - title: Vyhledávání v komentářích
         - title: Grafika Report - výchozí řazení sloupce s měřenou hodnotou je sestupné
-- version: 2.9.33
+- version: "2.9.33"
   moduleChanges:
     - module: general
       changes:
         - title: Upload - přidána podpora pro CSV soubory
         - title: Upload - upravené výchozí mapování pro mySCADA datasource
         - title: Opravy drobných chyb
-- version: 2.9.32
+- version: "2.9.32"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.31
+- version: "2.9.31"
   moduleChanges:
     - module: general
       changes:
@@ -1369,17 +1369,17 @@
       changes:
         - title: Filtrování v pareto grafech podle sloupečku bez hodnoty
         - title: Přídáno vyhledávání v koláčových grafech
-- version: 2.9.30
+- version: "2.9.30"
   moduleChanges:
     - module: general
       changes:
         - title: API pro načtení seznamu embeddable grafik
-- version: 2.9.29
+- version: "2.9.29"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.28
+- version: "2.9.28"
   moduleChanges:
     - module: general
       changes:
@@ -1388,7 +1388,7 @@
     - module: kpi
       changes:
         - title: Optimalizace administrace dimenzí
-- version: 2.9.27
+- version: "2.9.27"
   moduleChanges:
     - module: general
       changes:
@@ -1397,7 +1397,7 @@
       changes:
         - title: Optimalizace výpočtu indikátorů
         - title: Konfigurovatelná frekvence přepočítávání indikátorů
-- version: 2.9.26
+- version: "2.9.26"
   moduleChanges:
     - module: general
       changes:
@@ -1412,7 +1412,7 @@
         - title: Vylepšení vizualizace desirability funkce
         - title: Vizualizace výsledku desirability v okně detailu
         - title: Konfigurovatelný exponent průměru pro agregaci hodnot v rámci dimenze
-- version: 2.9.25
+- version: "2.9.25"
   moduleChanges:
     - module: general
       changes:
@@ -1420,17 +1420,17 @@
         - title: Optimalizace využití paměti a CPU
         - title: Možnost testovat transformace uploadu pomocí dat ve formátu "AQDEF in flat JSON"
         - title: Oprava nelokalizovaného formátu datumu v některých místech aplikace
-- version: 2.9.24
+- version: "2.9.24"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.23
+- version: "2.9.23"
   moduleChanges:
     - module: scrap
       changes:
         - title: Vylepšené grafiky
-- version: 2.9.22
+- version: "2.9.22"
   moduleChanges:
     - module: general
       changes:
@@ -1438,7 +1438,7 @@
     - module: capability
       changes:
         - title: V administraci přidána možnost zobrazit, kde je použita záložka detailu
-- version: 2.9.21
+- version: "2.9.21"
   moduleChanges:
     - module: general
       changes:
@@ -1459,17 +1459,17 @@
     - module: scrap
       changes:
         - title: Vylepšená editace hierarchie výroby a výrobků
-- version: 2.9.20
+- version: "2.9.20"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.19
+- version: "2.9.19"
   moduleChanges:
     - module: kpi
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.18
+- version: "2.9.18"
   moduleChanges:
     - module: general
       changes:
@@ -1479,22 +1479,22 @@
       changes:
         - title: Konfigurace pořadí sloupcových a pareto grafů v přehledech
         - title: Konfigurace rozsahu viditelných sloupců v sloupcových a pareto grafech
-- version: 2.9.17
+- version: "2.9.17"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.16
+- version: "2.9.16"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.15
+- version: "2.9.15"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.14
+- version: "2.9.14"
   moduleChanges:
     - module: general
       changes:
@@ -1506,7 +1506,7 @@
       changes:
         - title: Vizualizace funkce "žádoucnosti" při konfiguraci jejích parametrů
         - title: Oprava chyby při načítání dat z DB
-- version: 2.9.13
+- version: "2.9.13"
   moduleChanges:
     - module: general
       changes:
@@ -1519,7 +1519,7 @@
     - module: orders
       changes:
         - title: Možnost vypnout chlazení zakázky pro konkrétní díl
-- version: 2.9.12
+- version: "2.9.12"
   moduleChanges:
     - module: general
       changes:
@@ -1538,12 +1538,12 @@
     - module: scrap
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.11
+- version: "2.9.11"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.10
+- version: "2.9.10"
   moduleChanges:
     - module: general
       changes:
@@ -1552,7 +1552,7 @@
     - module: scrap
       changes:
         - title: API pro data zmetkovitosti
-- version: 2.9.9
+- version: "2.9.9"
   moduleChanges:
     - module: kpi
       changes:
@@ -1561,7 +1561,7 @@
     - module: scrap
       changes:
         - title: API pro prácí s katalogy
-- version: 2.9.8
+- version: "2.9.8"
   moduleChanges:
     - module: general
       changes:
@@ -1573,7 +1573,7 @@
     - module: orders
       changes:
         - title: Optimalizace automatického vytváření, zavíraní a vyhodnocování zakázek
-- version: 2.9.7
+- version: "2.9.7"
   moduleChanges:
     - module: general
       changes:
@@ -1591,7 +1591,7 @@
       changes:
         - title: Sloupcový graf po komponentech
         - title: V navigačním koláčovém grafu po výrobcích se zobrazuje úroveň komponent
-- version: 2.9.6
+- version: "2.9.6"
   moduleChanges:
     - module: general
       changes:
@@ -1604,22 +1604,22 @@
       changes:
         - title: Pareto grafy po pozicích a seriových číslech opravy
         - title: Konfigurace zobrazovaných pareto grafů
-- version: 2.9.5
+- version: "2.9.5"
   moduleChanges:
     - module: general
       changes:
         - title: Nové funkce v grafice "Níťový diagram"
-- version: 2.9.4
+- version: "2.9.4"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.3
+- version: "2.9.3"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.9.2
+- version: "2.9.2"
   moduleChanges:
     - module: general
       changes:
@@ -1628,7 +1628,7 @@
     - module: kpi
       changes:
         - title: Doplnění textů a drobná vylepšení v administraci modulu
-- version: 2.9.1
+- version: "2.9.1"
   moduleChanges:
     - module: general
       changes:
@@ -1639,7 +1639,7 @@
     - module: capability
       changes:
         - title: Data z přehledu znaků lze stáhnout ve více formátech
-- version: 2.9.0
+- version: "2.9.0"
   moduleChanges:
     - module: general
       changes:
@@ -1658,7 +1658,7 @@
     - module: kpi
       changes:
         - title: Optimalizace uploadu
-- version: 2.8.10
+- version: "2.8.10"
   moduleChanges:
     - module: general
       changes:
@@ -1674,7 +1674,7 @@
       changes:
         - title: Při mazání elementu dimenze se smažou i jeho data
         - title: Oprava chyby v přenosu dat z modulu Monitor
-- version: 2.8.9
+- version: "2.8.9"
   moduleChanges:
     - module: general
       changes:
@@ -1693,7 +1693,7 @@
       changes:
         - title: Hodnoty mimo přirozené meze jsou ignorovány
         - title: Vylepšení a opravy drobných chyb
-- version: 2.8.8
+- version: "2.8.8"
   moduleChanges:
     - module: general
       changes:
@@ -1713,18 +1713,18 @@
     - module: scrap
       changes:
         - title: Do uploadu přidáno mapování pro směnu a pracovní tým
-- version: 2.8.7
+- version: "2.8.7"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.8.6
+- version: "2.8.6"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava vyhledávání v grafikách pro texty obsahující lomítko (/)
         - title: Oprava chyby při komunikaci s M-QIS, která způsobovala vysoké vytížení CPU
-- version: 2.8.5
+- version: "2.8.5"
   moduleChanges:
     - module: general
       changes:
@@ -1734,7 +1734,7 @@
     - module: capability
       changes:
         - title: Zaokrouhlování a ořezávání velmi vysokých hodnot vypočítané způsobilosti
-- version: 2.8.4
+- version: "2.8.4"
   moduleChanges:
     - module: general
       changes:
@@ -1743,7 +1743,7 @@
     - module: dashboard
       changes:
         - title: Lepší validace při sdílení dashboardu
-- version: 2.8.3
+- version: "2.8.3"
   moduleChanges:
     - module: general
       changes:
@@ -1751,17 +1751,17 @@
     - module: scrap
       changes:
         - title: Přidán sloupec číslo opravy do přehledu produkcí
-- version: 2.8.2
+- version: "2.8.2"
   moduleChanges:
     - module: general
       changes:
         - title: Drobná vylepšení
-- version: 2.8.1
+- version: "2.8.1"
   moduleChanges:
     - module: capability
       changes:
         - title: Opravy drobných chyb
-- version: 2.8.0
+- version: "2.8.0"
   moduleChanges:
     - module: general
       changes:
@@ -1783,7 +1783,7 @@
         - title: Vylepšené widgety "Hodnota způsobilosti" a "Status způsobilosti"
         - title: Možnost přidat obrázek na pozadí u widgetů "Odkaz zpět", "Odkaz na dashboard", "Text" a "Webová stránka (odkaz)"
         - title: Zvýraznění widgetů "Odkaz zpět", "Odkaz na dashboard", "Webová stránka (odkaz)" a "Status poslední zakázky" při najetí myši
-- version: 2.7.40
+- version: "2.7.40"
   moduleChanges:
     - module: general
       changes:
@@ -1794,18 +1794,18 @@
     - module: dashboard
       changes:
         - title: Horní menu editace dashboardu sjednocené se zbytkem aplikace
-- version: 2.7.39
+- version: "2.7.39"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.7.38
+- version: "2.7.38"
   moduleChanges:
     - module: general
       changes:
         - title: Vylepšení stability uploadu v případě konfigurace více uploadů pro jeden modul
         - title: Křivky - zvýraznění křivky při najetí myši v legendě a naopak
-- version: 2.7.37
+- version: "2.7.37"
   moduleChanges:
     - module: general
       changes:
@@ -1815,12 +1815,12 @@
       changes:
         - title: Přidán widget pro zobrazení souboru dostupného na cestě serveru
         - title: Přidán widget pro zobrazení souboru ze zdroje dokumentů
-- version: 2.7.36
+- version: "2.7.36"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.7.35
+- version: "2.7.35"
   moduleChanges:
     - module: general
       changes:
@@ -1828,17 +1828,17 @@
     - module: dashboard
       changes:
         - title: Možnost definovat výchozí dashboard při vstupu do aplikace/modulu
-- version: 2.7.34
+- version: "2.7.34"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.7.33
+- version: "2.7.33"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.7.32
+- version: "2.7.32"
   moduleChanges:
     - module: general
       changes:
@@ -1847,12 +1847,12 @@
       changes:
         - title: Přidán nový typ dashboardu - prezentace
         - title: Možnost definovat identifikátor kusu ve widgetu grafika posledního kusu typu "Report"
-- version: 2.7.31
+- version: "2.7.31"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.7.30
+- version: "2.7.30"
   moduleChanges:
     - module: general
       changes:
@@ -1863,12 +1863,12 @@
     - module: dashboard
       changes:
         - title: Menu na dashboardech a složkách lze zobrazit kliknutím pravým tlačítkem myši
-- version: 2.7.29
+- version: "2.7.29"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.7.28
+- version: "2.7.28"
   moduleChanges:
     - module: monitoring
       changes:
@@ -1876,22 +1876,22 @@
     - module: dashboard
       changes:
         - title: Oprávnění lze definovat na složkách a lze jej dědit
-- version: 2.7.27
+- version: "2.7.27"
   moduleChanges:
     - module: orders
       changes:
         - title: Přidána možnost definovat pořadí zakázek v jednotlivých přehledech
-- version: 2.7.26
+- version: "2.7.26"
   moduleChanges:
     - module: orders
       changes:
         - title: Opravena chyba v automatickém uzavírání zakázek pomocí událostí
-- version: 2.7.25
+- version: "2.7.25"
   moduleChanges:
     - module: monitoring
       changes:
         - title: Přidána možnost zobrazit pouze kusy s alespoň jednou značkou
-- version: 2.7.24
+- version: "2.7.24"
   moduleChanges:
     - module: general
       changes:
@@ -1903,7 +1903,7 @@
     - module: capability
       changes:
         - title: Opravené dělení výrobních celků změnou směny
-- version: 2.7.23
+- version: "2.7.23"
   moduleChanges:
     - module: orders
       changes:
@@ -1911,7 +1911,7 @@
     - module: monitoring
       changes:
         - title: Indikátor zobrazující rozdíl počtu kusů
-- version: 2.7.22
+- version: "2.7.22"
   moduleChanges:
     - module: orders
       changes:
@@ -1919,7 +1919,7 @@
     - module: dashboard
       changes:
         - title: Odkaz na nedostupný dashboard je šedivý a nelze na něj kliknout
-- version: 2.7.21
+- version: "2.7.21"
   moduleChanges:
     - module: general
       changes:
@@ -1930,12 +1930,12 @@
     - module: capability
       changes:
         - title: Bíle pozadí u nedokončených výrobních celků
-- version: 2.7.20
+- version: "2.7.20"
   moduleChanges:
     - module: orders
       changes:
         - title: Opravené špatné zobrazení položek v drop-down filtrech
-- version: 2.7.19
+- version: "2.7.19"
   moduleChanges:
     - module: general
       changes:
@@ -1948,14 +1948,14 @@
       changes:
         - title: Widget "Období" zobrazuje zvolené období jako datum od - do
         - title: U widgetů s časovým obdobím lze zapnout dohledávání dat v minulosti
-- version: 2.7.18
+- version: "2.7.18"
   moduleChanges:
     - module: general
       changes:
         - title: Přidána možnost prokliknout se na grafiku z nastavení detailu kusu
         - title: Křivky - křivku lze izolovat dvojklikem v legendě
         - title: Opravy drobných chyb v grafice "Report"
-- version: 2.7.17
+- version: "2.7.17"
   moduleChanges:
     - module: general
       changes:
@@ -1963,7 +1963,7 @@
     - module: orders
       changes:
         - title: Možnost definovat nápovědu k zadávacím polím metadat
-- version: 2.7.16
+- version: "2.7.16"
   moduleChanges:
     - module: general
       changes:
@@ -1987,13 +1987,13 @@
     - module: kpi
       changes:
         - title: Opravy drobných chyb
-- version: 2.7.15
+- version: "2.7.15"
   moduleChanges:
     - module: general
       changes:
         - title: Možnost definovat, identifikovat a zobrazovat vlastní specifické alarmy
         - title: Opravy drobných chyb
-- version: 2.7.13
+- version: "2.7.13"
   moduleChanges:
     - module: general
       changes:
@@ -2008,7 +2008,7 @@
       changes:
         - title: Drobná vylepšení v seznamu dashboardů
         - title: Optimalizace widgetu "Odkaz na dashboard"
-- version: 2.7.12
+- version: "2.7.12"
   moduleChanges:
     - module: general
       changes:
@@ -2016,7 +2016,7 @@
     - module: capability
       changes:
         - title: Ve stránce "Analýza" se filtr znaků aplikuje na všechny grafy
-- version: 2.7.11
+- version: "2.7.11"
   moduleChanges:
     - module: general
       changes:
@@ -2026,17 +2026,17 @@
     - module: monitoring
       changes:
         - title: Indikátor "Aktuální hodnota znaku" se může barvit podle překročení mezí
-- version: 2.7.10
+- version: "2.7.10"
   moduleChanges:
     - module: general
       changes:
         - title: Drobná vylepšení
-- version: 2.7.9
+- version: "2.7.9"
   moduleChanges:
     - module: general
       changes:
         - title: Drobná vylepšení
-- version: 2.7.8
+- version: "2.7.8"
   moduleChanges:
     - module: general
       changes:
@@ -2052,7 +2052,7 @@
     - module: kpi
       changes:
         - title: Přidána možnost přenášet všechny procentuální indikátory z monitoringu
-- version: 2.7.7
+- version: "2.7.7"
   moduleChanges:
     - module: general
       changes:
@@ -2060,7 +2060,7 @@
     - module: orders
       changes:
         - title: Vylepšení rychlosti filtrování zakázek
-- version: 2.7.6
+- version: "2.7.6"
   moduleChanges:
     - module: general
       changes:
@@ -2068,12 +2068,12 @@
     - module: orders
       changes:
         - title: Vylepšení výkonu načítání přehledu zavřených a vyhodnocených zakázek
-- version: 2.7.5
+- version: "2.7.5"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.7.4
+- version: "2.7.4"
   moduleChanges:
     - module: general
       changes:
@@ -2081,7 +2081,7 @@
     - module: scrap
       changes:
         - title: V přehledu v zadávání zmetkovitosti lze filtrovat týmy, směny a výrobky
-- version: 2.7.3
+- version: "2.7.3"
   moduleChanges:
     - module: general
       changes:
@@ -2093,12 +2093,12 @@
       changes:
         - title: Složky a dashboardy ve výběru lze mazat klávesou "Delete"
         - title: Při navigaci mezi složkami se udržuje historie, tzn. lepší chování tlačitka zpět
-- version: 2.7.2
+- version: "2.7.2"
   moduleChanges:
     - module: general
       changes:
         - title: Integrace se systémem myBeDa
-- version: 2.7.1
+- version: "2.7.1"
   moduleChanges:
     - module: general
       changes:
@@ -2112,7 +2112,7 @@
     - module: dashboard
       changes:
         - title: Vylepšená administrace dashboardů, přidána možnost vytvářet složky
-- version: 2.7.0
+- version: "2.7.0"
   moduleChanges:
     - module: general
       changes:
@@ -2128,17 +2128,17 @@
     - module: capability
       changes:
         - title: Opravené našeptávání ve filtru znaků
-- version: 2.6.90
+- version: "2.6.90"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.6.89
+- version: "2.6.89"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.6.88
+- version: "2.6.88"
   moduleChanges:
     - module: general
       changes:
@@ -2149,7 +2149,7 @@
     - module: dashboard
       changes:
         - title: Možnost zobrazovat nadpisy u grafů
-- version: 2.6.87
+- version: "2.6.87"
   moduleChanges:
     - module: general
       changes:
@@ -2158,12 +2158,12 @@
       changes:
         - title: Vylepšené zadávání zakázek průvodcem (výběr hierarchie, plovoucí tlačítka , vzhled)
         - title: Výběrová pole ve filtrech respektují nastavení zobrazované hodnoty
-- version: 2.6.86
+- version: "2.6.86"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.6.85
+- version: "2.6.85"
   moduleChanges:
     - module: general
       changes:
@@ -2171,7 +2171,7 @@
     - module: orders
       changes:
         - title: V nastavní přehledů se zobrazuje celá cesta k úrovni hierarchie
-- version: 2.6.84
+- version: "2.6.84"
   moduleChanges:
     - module: general
       changes:
@@ -2180,23 +2180,23 @@
     - module: monitoring
       changes:
         - title: Oprava barvení indikátoru podle tolerancí
-- version: 2.6.83
+- version: "2.6.83"
   moduleChanges:
     - module: orders
       changes:
         - title: Oprava chyby, kvůli které se nepřekresloval přehled zakázek po vyhodnocení některé zakázky
-- version: 2.6.82
+- version: "2.6.82"
   moduleChanges:
     - module: general
       changes:
         - title: Upload umí načítat data z mySCADA
-- version: 2.6.81
+- version: "2.6.81"
   moduleChanges:
     - module: general
       changes:
         - title: Drobná vylepšení v administraci oprávnění uživatelů a skupin
         - title: Opraveno chybné zobrazování tooltipu značek v grafice 'průběh hodnot'
-- version: 2.6.80
+- version: "2.6.80"
   moduleChanges:
     - module: general
       changes:
@@ -2205,7 +2205,7 @@
     - module: orders
       changes:
         - title: Plovoucí tlačítka v obrazovce zadání zakázky
-- version: 2.6.79
+- version: "2.6.79"
   moduleChanges:
     - module: general
       changes:
@@ -2216,12 +2216,12 @@
     - module: dashboard
       changes:
         - title: Oprava zobrazení grafiky Protokol o dílu v dashboardech
-- version: 2.6.78
+- version: "2.6.78"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.77
+- version: "2.6.77"
   moduleChanges:
     - module: general
       changes:
@@ -2229,19 +2229,19 @@
     - module: monitoring
       changes:
         - title: Při najetí myši se pozastaví aktualizace zobrazení kusů stroje
-- version: 2.6.76
+- version: "2.6.76"
   moduleChanges:
     - module: general
       changes:
         - title: Vylepšený tooltip v průběhu hodnot
         - title: Box-plot - opraveno prohozené chování Seskupit podle / Porovnávat podle
-- version: 2.6.75
+- version: "2.6.75"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
         - title: Přidána grafika "heat map"
-- version: 2.6.74
+- version: "2.6.74"
   moduleChanges:
     - module: general
       changes:
@@ -2249,13 +2249,13 @@
     - module: dashboard
       changes:
         - title: Widget "čas" přejmenován na "Datum a čas" - umožňuje zobrazit čas a/nebo datum
-- version: 2.6.73
+- version: "2.6.73"
   moduleChanges:
     - module: general
       changes:
         - title: Opravena chyba kdy se na atributivní hodnoty aplikovalo zaokrouhlování
         - title: Atributivní hodnoty v reportech jsou zobrazeny jako smajlíky
-- version: 2.6.72
+- version: "2.6.72"
   moduleChanges:
     - module: general
       changes:
@@ -2263,14 +2263,14 @@
     - module: dashboard
       changes:
         - title: Přidán widget pro odkaz na URL
-- version: 2.6.71
+- version: "2.6.71"
   moduleChanges:
     - module: general
       changes:
         - title: Drobná vylepšení v grafice "Průběh hodnot"
         - title: Opravené UI v případě velmi širokého zákaznického loga
         - title: Přidána možnost deaktivovat transformace v uploadu
-- version: 2.6.70
+- version: "2.6.70"
   moduleChanges:
     - module: general
       changes:
@@ -2279,7 +2279,7 @@
     - module: dashboard
       changes:
         - title: Zobrazení typu widgetu při editaci
-- version: 2.6.69
+- version: "2.6.69"
   moduleChanges:
     - module: monitoring
       changes:
@@ -2287,7 +2287,7 @@
     - module: capability
       changes:
         - title: Lepší zvýraznění vybraných výrobních celků
-- version: 2.6.68
+- version: "2.6.68"
   moduleChanges:
     - module: general
       changes:
@@ -2296,7 +2296,7 @@
     - module: orders
       changes:
         - title: Oprava filtru zakázek
-- version: 2.6.67
+- version: "2.6.67"
   moduleChanges:
     - module: general
       changes:
@@ -2309,12 +2309,12 @@
     - module: monitoring
       changes:
         - title: Zobrazení stránky s průběhem v případě, že se načítají data monitoringu
-- version: 2.6.66
+- version: "2.6.66"
   moduleChanges:
     - module: kpi
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.65
+- version: "2.6.65"
   moduleChanges:
     - module: general
       changes:
@@ -2326,7 +2326,7 @@
     - module: kpi
       changes:
         - title: Vylepšení dotazu na dlouhodobé průměry hodnot
-- version: 2.6.64
+- version: "2.6.64"
   moduleChanges:
     - module: general
       changes:
@@ -2336,19 +2336,19 @@
     - module: orders
       changes:
         - title: Vylepšené zadávání zakázek průvodcem
-- version: 2.6.63
+- version: "2.6.63"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.62
+- version: "2.6.62"
   moduleChanges:
     - module: orders
       changes:
         - title: Odstraněna stránka "Analýza"
         - title: Rychlejší načítání zakázek
         - title: Vylepšené zadávání zakázek průvodcem
-- version: 2.6.61
+- version: "2.6.61"
   moduleChanges:
     - module: general
       changes:
@@ -2356,33 +2356,33 @@
     - module: orders
       changes:
         - title: Vylepšené zadávání zakázek průvodcem
-- version: 2.6.60
+- version: "2.6.60"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.59
+- version: "2.6.59"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.58
+- version: "2.6.58"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.57
+- version: "2.6.57"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.56
+- version: "2.6.56"
   moduleChanges:
     - module: general
       changes:
         - title: Přidána francouzská lokalizace
         - title: API pro upload AQDEF souborů podporuje DFD/DFX soubory v neinkrementálním módu
-- version: 2.6.55
+- version: "2.6.55"
   moduleChanges:
     - module: general
       changes:
@@ -2390,7 +2390,7 @@
     - module: orders
       changes:
         - title: Vylepšený layout menu v přehledech zakázek pro menší obrazovky
-- version: 2.6.54
+- version: "2.6.54"
   moduleChanges:
     - module: general
       changes:
@@ -2401,7 +2401,7 @@
       changes:
         - title: Vylepšené rozložení panelu zakázky v přehledech
         - title: Oprava chyby po vyhodnocení zakázky ve stránkovaném přehledu zakázek
-- version: 2.6.53
+- version: "2.6.53"
   moduleChanges:
     - module: general
       changes:
@@ -2409,18 +2409,18 @@
     - module: orders
       changes:
         - title: Vylepšený filtr přehledu zakázek
-- version: 2.6.52
+- version: "2.6.52"
   moduleChanges:
     - module: general
       changes:
         - title: Vylepšené formátování hodnot K-klíčů
         - title: Drobné opravy a vylepšení
-- version: 2.6.51
+- version: "2.6.51"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.50
+- version: "2.6.50"
   moduleChanges:
     - module: general
       changes:
@@ -2433,7 +2433,7 @@
     - module: scrap
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.49
+- version: "2.6.49"
   moduleChanges:
     - module: general
       changes:
@@ -2447,7 +2447,7 @@
     - module: dashboard
       changes:
         - title: Při filtrování se nerozlišují velká a malá písmena
-- version: 2.6.48
+- version: "2.6.48"
   moduleChanges:
     - module: general
       changes:
@@ -2456,27 +2456,27 @@
     - module: orders
       changes:
         - title: Přidána funkce chladnutí
-- version: 2.6.47
+- version: "2.6.47"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.46
+- version: "2.6.46"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.45
+- version: "2.6.45"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.44
+- version: "2.6.44"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.43
+- version: "2.6.43"
   moduleChanges:
     - module: general
       changes:
@@ -2484,7 +2484,7 @@
     - module: monitoring
       changes:
         - title: Možnost kopírovat definice značek a indikátorů v administraci
-- version: 2.6.42
+- version: "2.6.42"
   moduleChanges:
     - module: general
       changes:
@@ -2495,7 +2495,7 @@
     - module: dashboard
       changes:
         - title: Nový widget - grafika posledního kusu stroje
-- version: 2.6.41
+- version: "2.6.41"
   moduleChanges:
     - module: general
       changes:
@@ -2504,17 +2504,17 @@
       changes:
         - title: Nová zadávací maska optimalizovaná pro dotyková zařízení - wizard.
         - title: Překreslení přehledu při změně metadat zakázky.
-- version: 2.6.40
+- version: "2.6.40"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.39
+- version: "2.6.39"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.38
+- version: "2.6.38"
   moduleChanges:
     - module: general
       changes:
@@ -2522,7 +2522,7 @@
     - module: dashboard
       changes:
         - title: Odstraněné jednosloupečkové zobrazení na malých obrazovkách
-- version: 2.6.37
+- version: "2.6.37"
   moduleChanges:
     - module: scrap
       changes:
@@ -2531,7 +2531,7 @@
       changes:
         - title: Snížení nároků na procesor v přehledu s časovou osou
         - title: Oprava drobných chyb
-- version: 2.6.36
+- version: "2.6.36"
   moduleChanges:
     - module: general
       changes:
@@ -2540,23 +2540,23 @@
       changes:
         - title: Uživatelé bez práva na editaci zakázky mohou zobrazit detail zakázky pro čtení
         - title: Optimalizace rychlosti načítání zakázek
-- version: 2.6.35
+- version: "2.6.35"
   moduleChanges:
     - module: general
       changes:
         - title: Optimalizace nahrávání velkých DFQ souborů
-- version: 2.6.34
+- version: "2.6.34"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.33
+- version: "2.6.33"
   moduleChanges:
     - module: dashboard
       changes:
         - title: Nový widget - hodnota buňky z Excel souboru
         - title: Oprava drobných chyb
-- version: 2.6.32
+- version: "2.6.32"
   moduleChanges:
     - module: general
       changes:
@@ -2569,7 +2569,7 @@
         - title: Nový widget - tlačítko "Zpět"
         - title: Widget "Odkaz na dashboard" má konfigurovatelný text
         - title: Oprava drobných chyb
-- version: 2.6.30
+- version: "2.6.30"
   moduleChanges:
     - module: general
       changes:
@@ -2581,7 +2581,7 @@
       changes:
         - title: Vylepšené chování widgetu "Soubor (embed)" v IE 11
         - title: Widget "Hodnota indikátoru" umožňuje zobrazení cíle indikátoru
-- version: 2.6.29
+- version: "2.6.29"
   moduleChanges:
     - module: general
       changes:
@@ -2589,7 +2589,7 @@
     - module: capability
       changes:
         - title: Z výpočtu výrobních celků jsou vyřazeny neaktivní nástroje
-- version: 2.6.28
+- version: "2.6.28"
   moduleChanges:
     - module: general
       changes:
@@ -2597,17 +2597,17 @@
     - module: kpi
       changes:
         - title: Přidáno filtrování dimenzí v přehledu
-- version: 2.6.27
+- version: "2.6.27"
   moduleChanges:
     - module: general
       changes:
         - title: Veřejné API pro upload AQDEF souborů
-- version: 2.6.26
+- version: "2.6.26"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.25
+- version: "2.6.25"
   moduleChanges:
     - module: general
       changes:
@@ -2615,13 +2615,13 @@
     - module: dashboard
       changes:
         - title: Nový widget "Top N chyb" z modulu Lucra
-- version: 2.6.24
+- version: "2.6.24"
   moduleChanges:
     - module: general
       changes:
         - title: Vylepšený vzhled komponenty pro editaci lokalizovaných textů
         - title: Oprava drobných chyb
-- version: 2.6.23
+- version: "2.6.23"
   moduleChanges:
     - module: general
       changes:
@@ -2636,7 +2636,7 @@
     - module: orders
       changes:
         - title: Komponenta s odpočtem času v přehledu zakázek je přesnější
-- version: 2.6.22
+- version: "2.6.22"
   moduleChanges:
     - module: general
       changes:
@@ -2647,7 +2647,7 @@
     - module: dashboard
       changes:
         - title: Kliknutím na widget "Status poslední zakázky" se lze dostat na detail dané zakázky
-- version: 2.6.21
+- version: "2.6.21"
   moduleChanges:
     - module: general
       changes:
@@ -2655,17 +2655,17 @@
     - module: monitoring
       changes:
         - title: Data monitoringu mohou být filtrována podmínkou
-- version: 2.6.20
+- version: "2.6.20"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.19
+- version: "2.6.19"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.18
+- version: "2.6.18"
   moduleChanges:
     - module: general
       changes:
@@ -2673,12 +2673,12 @@
     - module: monitoring
       changes:
         - title: Přidána možnost dočasně vypnout vykreslování jednotlivých značek v přehledu
-- version: 2.6.17
+- version: "2.6.17"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.16
+- version: "2.6.16"
   moduleChanges:
     - module: general
       changes:
@@ -2687,23 +2687,23 @@
       changes:
         - title: Widgety lze zvětšovat/zmenšovat po skupinách
         - title: Konfigurovatelné okraje buněk v dashboardu
-- version: 2.6.15
+- version: "2.6.15"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.14
+- version: "2.6.14"
   moduleChanges:
     - module: capability
       changes:
         - title: Opravený výpočet výrobních celků pro případ kdy nejsou k dispozici žádná data
-- version: 2.6.13
+- version: "2.6.13"
   moduleChanges:
     - module: general
       changes:
         - title: Drobná vylepšení box-plot grafiky
         - title: Podpora AQDEF simple grouping
-- version: 2.6.12
+- version: "2.6.12"
   moduleChanges:
     - module: general
       changes:
@@ -2714,7 +2714,7 @@
       changes:
         - title: Upravený layout v editaci přehledu
         - title: Pro značky a indikátory lze definovat popis
-- version: 2.6.11
+- version: "2.6.11"
   moduleChanges:
     - module: general
       changes:
@@ -2725,17 +2725,17 @@
     - module: dashboard
       changes:
         - title: Widgety lze přesouvat a duplikovat po skupinách
-- version: 2.6.10
+- version: "2.6.10"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.9
+- version: "2.6.9"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.8
+- version: "2.6.8"
   moduleChanges:
     - module: general
       changes:
@@ -2743,7 +2743,7 @@
     - module: dashboard
       changes:
         - title: U obrázku pozadí dashboardu lze zachovat poměr stran
-- version: 2.6.7
+- version: "2.6.7"
   moduleChanges:
     - module: general
       changes:
@@ -2751,12 +2751,12 @@
     - module: dashboard
       changes:
         - title: Widgety lze mazat po skupinách
-- version: 2.6.6
+- version: "2.6.6"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.5
+- version: "2.6.5"
   moduleChanges:
     - module: general
       changes:
@@ -2764,12 +2764,12 @@
     - module: dashboard
       changes:
         - title: Zobrazení uživatele, který právě edituje zamčený dashboard
-- version: 2.6.4
+- version: "2.6.4"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.6.3
+- version: "2.6.3"
   moduleChanges:
     - module: general
       changes:
@@ -2778,7 +2778,7 @@
       changes:
         - title: Přidávání widgetů pomocí plovoucího tlačítka
         - title: Přidána možnost dočasně schovat editační toolbar
-- version: 2.6.2
+- version: "2.6.2"
   moduleChanges:
     - module: general
       changes:
@@ -2786,7 +2786,7 @@
     - module: dashboard
       changes:
         - title: Dashboardy jsou při editaci zamčené a nelze je editovat jiným uživatelem
-- version: 2.6.1
+- version: "2.6.1"
   moduleChanges:
     - module: general
       changes:
@@ -2801,7 +2801,7 @@
     - module: orders
       changes:
         - title: Export přehledu zakázek do XLSX souboru
-- version: 2.6.0
+- version: "2.6.0"
   moduleChanges:
     - module: general
       changes:
@@ -2814,12 +2814,12 @@
     - module: orders
       changes:
         - title: Vlastní nezávislé nastavení zobrazovaného období
-- version: 2.5.9
+- version: "2.5.9"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.5.8
+- version: "2.5.8"
   moduleChanges:
     - module: general
       changes:
@@ -2827,33 +2827,33 @@
     - module: scrap
       changes:
         - title: Granulárnější oprávnění
-- version: 2.5.7
+- version: "2.5.7"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.5.6
+- version: "2.5.6"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava chyby způsobené přechodem na letní čas
-- version: 2.5.5
+- version: "2.5.5"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.5.3
+- version: "2.5.3"
   moduleChanges:
     - module: orders
       changes:
         - title: Možnost zobrazit počty hodnot v hádcích u zakázky
         - title: Pro přehled zakázek se může určit, jestli se mají zobrazovat počty naměřených hodnot nebo počty kusů
-- version: 2.5.2
+- version: "2.5.2"
   moduleChanges:
     - module: capability
       changes:
         - title: Nově spočítané výrobní celky se automaticky zobrazí v přehledech
-- version: 2.5.1
+- version: "2.5.1"
   moduleChanges:
     - module: kpi
       changes:
@@ -2863,13 +2863,13 @@
     - module: dashboard
       changes:
         - title: Nový widget "Hodnota indikátoru" z modulu Lucra
-- version: 2.5.0
+- version: "2.5.0"
   moduleChanges:
     - module: general
       changes:
         - title: Aplikace ke svému běhu používá vlastní aplikační server (Undertow) místo externě instalovaného Tomcat
         - title: Zjednodušení instalační procedury
-- version: 2.4.101
+- version: "2.4.101"
   moduleChanges:
     - module: general
       changes:
@@ -2877,17 +2877,17 @@
     - module: dashboard
       changes:
         - title: Možnost zobrazovat počty chyb a výrobků ve widgetu "Zmetkovitost"
-- version: 2.4.100
+- version: "2.4.100"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.99
+- version: "2.4.99"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.98
+- version: "2.4.98"
   moduleChanges:
     - module: general
       changes:
@@ -2895,27 +2895,27 @@
     - module: dashboard
       changes:
         - title: Přidána možnost zachovat poměr stran obrázku ve widgetu typu "Obrázek"
-- version: 2.4.97
+- version: "2.4.97"
   moduleChanges:
     - module: general
       changes:
         - title: Auditování změn v nastavení systému
-- version: 2.4.96
+- version: "2.4.96"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.95
+- version: "2.4.95"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.94
+- version: "2.4.94"
   moduleChanges:
     - module: general
       changes:
         - title: Pro nepodporované jazyky je defaultně zvolena angličtina
-- version: 2.4.93
+- version: "2.4.93"
   moduleChanges:
     - module: general
       changes:
@@ -2925,7 +2925,7 @@
     - module: capability
       changes:
         - title: Konfigurovatelné záložky detailu výrobního celku
-- version: 2.4.92
+- version: "2.4.92"
   moduleChanges:
     - module: general
       changes:
@@ -2933,18 +2933,18 @@
     - module: capability
       changes:
         - title: Popsané typy grafů v analýze způsobilosti
-- version: 2.4.91
+- version: "2.4.91"
   moduleChanges:
     - module: general
       changes:
         - title: Optimalizace čtení dat z Q-DAS katalogů
         - title: Oprava drobných chyb
-- version: 2.4.90
+- version: "2.4.90"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.89
+- version: "2.4.89"
   moduleChanges:
     - module: general
       changes:
@@ -2954,17 +2954,17 @@
       changes:
         - title: Přenos dat z modulu Monitor
         - title: Nastavitelné rozlišení časové osy
-- version: 2.4.88
+- version: "2.4.88"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.87
+- version: "2.4.87"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.86
+- version: "2.4.86"
   moduleChanges:
     - module: general
       changes:
@@ -2976,7 +2976,7 @@
     - module: monitoring
       changes:
         - title: Vylepšené nastavení přehledu monitoringu
-- version: 2.4.85
+- version: "2.4.85"
   moduleChanges:
     - module: general
       changes:
@@ -2985,7 +2985,7 @@
     - module: scrap
       changes:
         - title: Dávkové akce v zadávání zmetkovitsti
-- version: 2.4.84
+- version: "2.4.84"
   moduleChanges:
     - module: general
       changes:
@@ -3006,7 +3006,7 @@
     - module: capability
       changes:
         - title: Podpora výpočtu způsobilosti pro hierarchické znaky
-- version: 2.4.83
+- version: "2.4.83"
   moduleChanges:
     - module: general
       changes:
@@ -3017,23 +3017,23 @@
     - module: scrap
       changes:
         - title: Možnost definovat strukturu mezi linkou a pracovištěm
-- version: 2.4.82
+- version: "2.4.82"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb v uploadu
-- version: 2.4.81
+- version: "2.4.81"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.80
+- version: "2.4.80"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava problému s tiskem v prohlížeči Chrome
         - title: Oprava drobných chyb
-- version: 2.4.79
+- version: "2.4.79"
   moduleChanges:
     - module: capability
       changes:
@@ -3045,7 +3045,7 @@
       changes:
         - title: Nové indikátory "Hodnoty K-klíčů" dílu a znaku
         - title: V přehledu se projeví dodatečné úpravy hodnot a alarmů
-- version: 2.4.77
+- version: "2.4.77"
   moduleChanges:
     - module: general
       changes:
@@ -3066,7 +3066,7 @@
     - module: orders
       changes:
         - title: Vylepšené možnosti zobrazení a filtrování podle implicitních polí zakázky (Hierarchie, Uživatel apod.)
-- version: 2.4.76
+- version: "2.4.76"
   moduleChanges:
     - module: general
       changes:
@@ -3076,7 +3076,7 @@
         - title: Nový widget pro zobrazení obrázku
         - title: Nový widget pro zobrazení stavu vyhodnocení poslední zakázky
         - title: Výraznější zobrazení informace o nedostupnosti serveru
-- version: 2.4.75
+- version: "2.4.75"
   moduleChanges:
     - module: capability
       changes:
@@ -3085,7 +3085,7 @@
       changes:
         - title: Opravena chyba kdy se zbytečně zobrazovala hierarchie strojů bez dat
         - title: Optimalizace rychlosti načítání hierarchie výroby a přehledu
-- version: 2.4.74
+- version: "2.4.74"
   moduleChanges:
     - module: general
       changes:
@@ -3093,18 +3093,18 @@
     - module: monitoring
       changes:
         - title: Barvení indikátoru "Aktuální hodnota znaku" podle tolerancí
-- version: 2.4.73
+- version: "2.4.73"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava drobných chyb
-- version: 2.4.72
+- version: "2.4.72"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava kompatibility s IE11
         - title: Oprava drobných chyb
-- version: 2.4.71
+- version: "2.4.71"
   moduleChanges:
     - module: general
       changes:
@@ -3115,7 +3115,7 @@
     - module: monitoring
       changes:
         - title: Podpora pro více přehledů monitoringu
-- version: 2.4.70
+- version: "2.4.70"
   moduleChanges:
     - module: capability
       changes:
@@ -3126,7 +3126,7 @@
     - module: orders
       changes:
         - title: Nový způsob konfigurace přehledů zakázek
-- version: 2.4.69
+- version: "2.4.69"
   moduleChanges:
     - module: general
       changes:
@@ -3135,7 +3135,7 @@
     - module: capability
       changes:
         - title: Pro definici podmínek zvýraznění bodu v průběhu hodnot lze použít logické operace
-- version: 2.4.68
+- version: "2.4.68"
   moduleChanges:
     - module: scrap
       changes:
@@ -3144,18 +3144,18 @@
       changes:
         - title: Ve widgetu pro zobrazení hodnoty způsobilosti je možné vybrat typ zobrazovaných hodnot
         - title: Nový widget pro zobrazení aktuálního stavu způsobilosti
-- version: 2.4.67
+- version: "2.4.67"
   moduleChanges:
     - module: monitoring
       changes:
         - title: Oprava chyby ořezávání dat v případě delšího zobrazovaného období než 1 týden
-- version: 2.4.66
+- version: "2.4.66"
   moduleChanges:
     - module: dashboard
       changes:
         - title: Výběr oprávnění v nastavení dashboardu
         - title: Filtr na významnost znaku ve widgetu pro zobrazení hodnoty způsobilosti
-- version: 2.4.65
+- version: "2.4.65"
   moduleChanges:
     - module: orders
       changes:
@@ -3164,7 +3164,7 @@
       changes:
         - title: Nový widget pro zobrazení hodnoty způsobilosti
         - title: Přidána možnost použít tučné písmo a nebo kurzívu ve widgetech
-- version: 2.4.64
+- version: "2.4.64"
   moduleChanges:
     - module: general
       changes:
@@ -3172,12 +3172,12 @@
     - module: dashboard
       changes:
         - title: Dashboard může mít na pozadí obrázek
-- version: 2.4.63
+- version: "2.4.63"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.4.62
+- version: "2.4.62"
   moduleChanges:
     - module: general
       changes:
@@ -3190,12 +3190,12 @@
         - title: Oprava chyby která při změně nastavení mohla způsobit nekonečné čekání na data v přehledu
         - title: Vertikální skrolování strojů - aby byla na stránce vždy vidět časová osa
         - title: Změna pozice legendy
-- version: 2.4.61
+- version: "2.4.61"
   moduleChanges:
     - module: scrap
       changes:
         - title: Přidána možnost schovávat název linky ve sloupcovém grafu po pracovištích
-- version: 2.4.60
+- version: "2.4.60"
   moduleChanges:
     - module: general
       changes:
@@ -3203,12 +3203,12 @@
     - module: kpi
       changes:
         - title: Před zobrazením se čeká na načtení počátečních dat do paměti
-- version: 2.4.59
+- version: "2.4.59"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.4.58
+- version: "2.4.58"
   moduleChanges:
     - module: general
       changes:
@@ -3220,7 +3220,7 @@
     - module: monitoring
       changes:
         - title: V kritériích značky mohou být použity i K-klíče pro díly a znaky
-- version: 2.4.57
+- version: "2.4.57"
   moduleChanges:
     - module: general
       changes:
@@ -3233,12 +3233,12 @@
       changes:
         - title: Ve where podmínce v záložce detailu se mohou používat tabulky TEIL a ALARM_VALUES
         - title: Přehled vyhodnocených zakázek se neobnovuje, pokud je otevřené okno detailu hádku
-- version: 2.4.56
+- version: "2.4.56"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy drobných chyb
-- version: 2.4.55
+- version: "2.4.55"
   moduleChanges:
     - module: general
       changes:
@@ -3247,18 +3247,18 @@
       changes:
         - title: Dashboardy lze jednoduše duplikovat
         - title: Snížený limit pro minimální výšku řádku v dashboardu
-- version: 2.4.54
+- version: "2.4.54"
   moduleChanges:
     - module: orders
       changes:
         - title: Optimalizace rychlosti načítání přehledu zakázek
         - title: Opravena kontrola unikátnosti identifikátorů datových polí
-- version: 2.4.53
+- version: "2.4.53"
   moduleChanges:
     - module: kpi
       changes:
         - title: Při načítání dat se bere v potaz K0002 a ukládají se jen hodnoty s K0002 = 0
-- version: 2.4.52
+- version: "2.4.52"
   moduleChanges:
     - module: monitoring
       changes:
@@ -3266,7 +3266,7 @@
     - module: kpi
       changes:
         - title: Optimalizace - při agregaci hodnot se nejprve filtruje a poté řadí
-- version: 2.4.51
+- version: "2.4.51"
   moduleChanges:
     - module: general
       changes:
@@ -3281,7 +3281,7 @@
         - title: Widget s hodnotou indikátoru umožňuje přebrat barvu písma podle indikátoru
         - title: Obsah textového widgetu lze rolovat, pokud se nevejde
         - title: Přidán widget zobrazující hodiny
-- version: 2.4.50
+- version: "2.4.50"
   moduleChanges:
     - module: general
       changes:
@@ -3298,7 +3298,7 @@
         - title: Snížený limit pro minimální výšku řádku v dashboardu
         - title: Horizontální centrování textových widgetů
         - title: Podpora pro až 36 sloupců v dashboardu
-- version: 2.4.49
+- version: "2.4.49"
   moduleChanges:
     - module: general
       changes:
@@ -3315,7 +3315,7 @@
       changes:
         - title: Oprava vyhledávání cílů a kontroly nejednoznačnosti cílů
         - title: Přidaná možnost ukončit platnost cíle
-- version: 2.4.48
+- version: "2.4.48"
   moduleChanges:
     - module: general
       changes:
@@ -3323,7 +3323,7 @@
     - module: monitoring
       changes:
         - title: Vylepšené chování po vymazání dat z cache
-- version: 2.4.47
+- version: "2.4.47"
   moduleChanges:
     - module: general
       changes:
@@ -3332,12 +3332,12 @@
     - module: orders
       changes:
         - title: Přehled zakázek se nepřekresluje když je otevřené okno detailu
-- version: 2.4.46
+- version: "2.4.46"
   moduleChanges:
     - module: scrap
       changes:
         - title: Vylepšení výpočtu zmetkovitosti - identifikace průchodu výrobku více linkami
-- version: 2.4.45
+- version: "2.4.45"
   moduleChanges:
     - module: general
       changes:
@@ -3348,12 +3348,12 @@
     - module: scrap
       changes:
         - title: Do přehledu produkcí přidaný sloupec s počtem vyrobených kusů
-- version: 2.4.44
+- version: "2.4.44"
   moduleChanges:
     - module: general
       changes:
         - title: Přidaná podpora pro QS-Stat knihovny verze 11
-- version: 2.4.43
+- version: "2.4.43"
   moduleChanges:
     - module: kpi
       changes:
@@ -3364,13 +3364,13 @@
     - module: capability
       changes:
         - title: Oprava řazení strojů v rámci větve hierarchie
-- version: 2.4.42
+- version: "2.4.42"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy chyb v administraci hierarchií - větve stromu nešly přesouvat z a do rootu
         - title: Vypnutá funkce automatického obnovení spojení po výpadku serveru - způsobuje nadměrné využití paměti prohlížeče
-- version: 2.4.41
+- version: "2.4.41"
   moduleChanges:
     - module: general
       changes:
@@ -3381,23 +3381,23 @@
     - module: capability
       changes:
         - title: V přehledu se zobrazují i stroje, které nejsou zařazené do hierarchie
-- version: 2.4.40
+- version: "2.4.40"
   moduleChanges:
     - module: general
       changes:
         - title: Opravy chyb v administraci hierarchií
         - title: Uživatel může měnit svoje heslo
-- version: 2.4.39
+- version: "2.4.39"
   moduleChanges:
     - module: general
       changes:
         - title: Vylepšené zjišťování typu souboru ve zdrojích dokumentů
-- version: 2.4.38
+- version: "2.4.38"
   moduleChanges:
     - module: capability
       changes:
         - title: Oprava chyby ve výpočtu výrobních celků po časových intervalech
-- version: 2.4.37
+- version: "2.4.37"
   moduleChanges:
     - module: general
       changes:
@@ -3405,7 +3405,7 @@
     - module: capability
       changes:
         - title: Oprava chyby v zobrazení tooltipu v přehledu způsobilosti
-- version: 2.4.36
+- version: "2.4.36"
   moduleChanges:
     - module: general
       changes:
@@ -3430,13 +3430,13 @@
         - title: Přidaná možnost vytvořit kopii již existující zakázky
         - title: Robustnější automatické obnovování přehledu zakázek - dokáže se samo zotavit po výpadku
         - title: Přidané ruční řazení hierarchie
-- version: 2.4.35
+- version: "2.4.35"
   moduleChanges:
     - module: general
       changes:
         - title: Přidaná možnost změnit texty (překlady) v aplikaci
         - title: Přidaná tlačítka Rozbalit vše a Sbalit vše ke stromům s hierarchiemi
-- version: 2.4.34
+- version: "2.4.34"
   moduleChanges:
     - module: general
       changes:
@@ -3444,7 +3444,7 @@
     - module: scrap
       changes:
         - title: Vybraný typ navigace a zobrazení se zapamatovává v cookies
-- version: 2.4.33
+- version: "2.4.33"
   moduleChanges:
     - module: general
       changes:
@@ -3456,12 +3456,12 @@
       changes:
         - title: Do detailu zakázky přidaná funkce pro rychlé zobrazení v přehledu
         - title: Drobná vylepšení v masce zadání nové zakázky
-- version: 2.4.32
+- version: "2.4.32"
   moduleChanges:
     - module: general
       changes:
         - title: Oprava chyby při zoomování sloupcových grafů
-- version: 2.4.31
+- version: "2.4.31"
   moduleChanges:
     - module: general
       changes:
@@ -3470,12 +3470,12 @@
       changes:
         - title: Optimalizace rychlosti načítání přehledů zakázek
         - title: Oprava chyby která mohla za určitých okolností nastat při administraci přehledů zakázek
-- version: 2.4.30
+- version: "2.4.30"
   moduleChanges:
     - module: orders
       changes:
         - title: Oprava chyby - pokud měl uživatel práva pouze na jednu úroveň hierarchie, tak se tato úroveň hierarchie neuložila do zakázky
-- version: 2.4.29
+- version: "2.4.29"
   moduleChanges:
     - module: capability
       changes:
@@ -3485,7 +3485,7 @@
         - title: Možnost automaticky vyzmetkovat celé výrobky pro výrobkové chyby
         - title: V záložce "100% - Quality ratio" se zobrazují absolutní peníze místo relativních
         - title: Zobrazení aktuálně vybraného typu navigace
-- version: 2.4.28
+- version: "2.4.28"
   moduleChanges:
     - module: general
       changes:
@@ -3497,18 +3497,18 @@
       changes:
         - title: Podpora pro vyhodnocení po zakázkách
         - title: Možnost editovat zadané chyby
-- version: 2.4.27
+- version: "2.4.27"
   moduleChanges:
     - module: general
       changes:
         - title: Lepší vzhled vysouvacího navigačního menu
         - title: Vylepšení textového pole pro zadávání celých čísel (obzvláště užitečné pro dotyková zařízení)
-- version: 2.4.26
+- version: "2.4.26"
   moduleChanges:
     - module: orders
       changes:
         - title: Oprava neočekávané chyby která se za určitých okolností mohla objevit při změně záložek v okně detailu hádku nebo Cp/Cpk
-- version: 2.4.25
+- version: "2.4.25"
   moduleChanges:
     - module: general
       changes:
@@ -3520,7 +3520,7 @@
       changes:
         - title: Oprava vzájemného filtrování dílů při zadávání zakázky
         - title: Při zadávání zakázky se pole "Laboratoř" nezobrazuje pokud má uživatel oprávnění pouze na jednu laboratoř
-- version: 2.4.24
+- version: "2.4.24"
   moduleChanges:
     - module: general
       changes:
@@ -3528,7 +3528,7 @@
     - module: capability
       changes:
         - title: Obrázky v detailu znaku se nyní roztáhnou na celou dostupnou šířku
-- version: 2.4.23
+- version: "2.4.23"
   moduleChanges:
     - module: capability
       changes:
@@ -3539,28 +3539,28 @@
     - module: monitoring
       changes:
         - title: Oprava dotazu do hierarchie strojů pro MS SQL Server
-- version: 2.4.22
+- version: "2.4.22"
   moduleChanges:
     - module: general
       changes:
         - title: Vylepšené vyhledávání ve sloupcových grafech
-- version: 2.4.21
+- version: "2.4.21"
   moduleChanges:
     - module: scrap
       changes:
         - title: Nově je možné vypnout zadávání procesních nebo výrobkových chyb
-- version: 2.4.20
+- version: "2.4.20"
   moduleChanges:
     - module: orders
       changes:
         - title: Více možností jak měnit vzhled šablony pro průvodky
-- version: 2.4.19
+- version: "2.4.19"
   moduleChanges:
     - module: capability
       changes:
         - title: 'Nový způsob dělení výrobních celků: změnou libovolného K00xx klíče (zakázky, šarže apod.)'
         - title: Vylepšena administrace dělení výrobních celků
-- version: 2.4.18
+- version: "2.4.18"
   moduleChanges:
     - module: general
       changes:
@@ -3569,7 +3569,7 @@
     - module: orders
       changes:
         - title: Vylepšena podpora pro vlastní šablony průvodek
-- version: 2.4.17
+- version: "2.4.17"
   moduleChanges:
     - module: general
       changes:
@@ -3577,7 +3577,7 @@
     - module: orders
       changes:
         - title: Přidaná možnost smazat zakázku
-- version: 2.4.16
+- version: "2.4.16"
   moduleChanges:
     - module: general
       changes:
@@ -3602,7 +3602,7 @@
         - title: Filtr strojů se schovává společně s hlavním menu
         - title: Stroje bez dat se v přehledu schovávají
 
-- version: 2.4.15
+- version: "2.4.15"
   moduleChanges:
     - module: general
       changes:
@@ -3615,13 +3615,13 @@
       changes:
         - title: Snížení spotřeby paměti (20-60% v závislosti na datech)
 
-- version: 2.4.14
+- version: "2.4.14"
   moduleChanges:
     - module: orders
       changes:
         - title: Doplněné všechny Q-DAS katalogy do administrace metadat zakázky
 
-- version: 2.4.13
+- version: "2.4.13"
   moduleChanges:
     - module: general
       changes:
@@ -3630,7 +3630,7 @@
       changes:
         - title: Granulárnější oprávnění - odděleno právo na prohlížení přehledu a analýzy
 
-- version: 2.4.12
+- version: "2.4.12"
   moduleChanges:
     - module: general
       changes:
@@ -3645,19 +3645,19 @@
         - title: Přidaná možnost vybrat indikátory zobrazované v přehledu
         - title: U nastavení směn nezáleží na pořadí
 
-- version: 2.4.11
+- version: "2.4.11"
   moduleChanges:
     - module: orders
       changes:
         - title: Oprava kritické chyby v přehledu zakázek
 
-- version: 2.4.10
+- version: "2.4.10"
   moduleChanges:
     - module: general
       changes:
         - title: Vylepšené logování
 
-- version: 2.4.9
+- version: "2.4.9"
   moduleChanges:
     - module: general
       changes:
@@ -3669,13 +3669,13 @@
         - title: Přidaná funkce "Hodnocení dílu"
         - title: Vylepšení výkonu přehledů zakázek
 
-- version: 2.4.8
+- version: "2.4.8"
   moduleChanges:
     - module: orders
       changes:
         - title: Větší hádky v přehledu zakázek pro dotyková zařízení
 
-- version: 2.4.7
+- version: "2.4.7"
   moduleChanges:
     - module: general
       changes:
