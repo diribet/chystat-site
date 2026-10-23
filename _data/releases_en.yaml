@@ -1,3 +1,13 @@
+- version: 26.20
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Optimized catalog hierarchy storage
+        - title: Improved document source administration
+        - title: Minor bug fixes
+    - module: orders
+      changes:
+        - title: Improved multi-column layout for order overview
 - version: 26.19
   moduleChanges:
     - module: general

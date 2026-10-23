@@ -1,3 +1,13 @@
+- version: 26.20
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Optimalizace ukládání hierarchií katalogů
+        - title: Vylepšená administrace zdrojů dokumentů
+        - title: Opravy drobných chyb
+    - module: orders
+      changes:
+        - title: Vylepšené zobrazení přehledu zakázek s více sloupečky
 - version: 26.19
   moduleChanges:
     - module: general
