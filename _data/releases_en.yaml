@@ -1,3 +1,10 @@
+- version: "26.21"
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Uploading documents using the API
+        - title: Downloading Upload logs
+        - title: Minor bug fixes
 - version: "26.20"
   moduleChanges:
     - module: general

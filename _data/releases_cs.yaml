@@ -1,3 +1,10 @@
+- version: "26.21"
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Nahrávání dokumentů pomocí API
+        - title: Stahování logů uploadů
+        - title: Opravy drobných chyb
 - version: "26.20"
   moduleChanges:
     - module: general
