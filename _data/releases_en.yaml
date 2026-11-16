@@ -1,3 +1,9 @@
+- version: "26.24"
+  moduleChanges:
+    - module: general
+      changes:
+        - title: Upload - versioning of transformations, parsers and preprocessors
+        - title: Minor bug fixes
 - version: "26.23"
   moduleChanges:
     - module: general
